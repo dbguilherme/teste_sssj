@@ -1,0 +1,201 @@
+rec_id,credit_card,birth_date,salary,age,surname,given_name,gender,city,gender2,income,aus_state,income2,city2,gender3,blood_pressure,gender4,city3,income3
+rec-00-org,1940 0531 0289 2092,18-05-2001,132498.399,71,condozoglou,max,female,sydney,f,219202.435,nsw,242309.956,melbourne,m,104.079,male,canberra,81049.696
+rec-01-org,6609 6705 1976 7880,11-10-2002,152931.638,12,cochrane,isabella,female,brisbane,f,99564.491,nsw,386412.519,melbourne,f,84.761,female,sydney,187628.342
+rec-02-dup-0,,24-06-2003,114221.744,77,atajr,joshua,male,melhourje,m,85955.605,nsw,135871.083,melbourne,m,104.386,female,canberra,44821.533
+rec-02-dup-1,,24-06-2003,114221.744,77,adaiab,joshua,male,melbokrne,m,85955.605,nsw,135871.083,melbourne,m,104.386,female,canberra,44821.533
+rec-02-dup-2,,24-06-2003,114221.744,74,adair,joshua,male,melbou4ne,m,85955.605,nsw,135871.083,melbourne,m,104.386,female,canberra,44821.533
+rec-02-dup-3,,24-06-2003,114221.744,77,ada'lr,joshua,male,meobo7rne,m,85955.605,nsw,135871.083,melbourne,m,104.386,female,canberra,44821.533
+rec-02-dup-4,5642 4922 1495 8600,24-06-2003,114221.744,57,ataiah,joshua,male,melbourh4,m,85955.605,nsw,135871.083,melbourne,m,104.386,female,canberra,44821.533
+rec-02-org,5642 4922 1495 8600,24-06-2003,114221.744,77,adair,joshua,male,melbourne,m,85955.605,nsw,135871.083,melbourne,m,104.386,female,canberra,44821.533
+rec-03-org,0145 3378 5399 2483,31-04-2000,107802.128,3,cannell,skye,male,perth,m,99826.099,vic,54669.328,sydney,m,115.277,male,sydney,46185.721
+rec-04-org,2257 6689 7747 2486,04-07-2001,107034.470,48,minero,olivia,male,sydney,na,84085.647,nsw,58829.520,melbourne,m,123.639,female,sydney,196388.384
+rec-05-dup-0,,27-08-2007,102161.136,s,kules2a,jordan,male,melbourne,m,68853.416,wa,150336.573,melbourne,f,106.326,male,melbourne,144965.136
+rec-05-dup-1,,27-08-2007,102161.136,0,kulesza,jordan,male,melbourme,m,68853.416,wa,150336.573,melbourne,f,106.326,male,melbourne,144965.136
+rec-05-dup-2,4183 4749 4854 2127,27-08-2007,102161.136,3,ckules2a,jordan,male,melbou5ne,m,68853.416,wa,150336.573,melbourne,f,106.326,male,melbourne,144965.136
+rec-05-dup-3,,27-08-2007,102161.136,5,kuJesza,jordan,male,meohourne,m,68853.416,wa,150336.573,melbourne,f,106.326,male,melbourne,144965.136
+rec-05-dup-4,,27-08-2007,102161.136,s,ku|essa,jordan,male,melbourne,m,68853.416,wa,150336.573,melbourne,f,106.326,male,melbourne,144965.136
+rec-05-org,4183 4749 4854 2127,27-08-2007,102161.136,5,kulesza,jordan,male,melbourne,m,68853.416,wa,150336.573,melbourne,f,106.326,male,melbourne,144965.136
+rec-06-dup-0,,22-11-2008,92149.032,8,binris,declen,female,mrlbourne,na,36849.105,wa,76400.559,sydney,m,141.941,male,sydney,53397.006
+rec-06-org,5426 0360 9940 7512,22-11-2008,92149.032,8,binns,declen,female,melbourne,na,36849.105,wa,76400.559,sydney,m,141.941,male,sydney,53397.006
+rec-07-org,5368 3804 7124 1189,20-10-2008,76690.807,42,gehlken,alyssa,male,melbourne,m,43128.310,qld,96200.068,sydney,f,68.695,male,perth,371183.434
+rec-08-org,8145 2716 1895 7768,09-09-2004,120109.663,10,wilkins,jessica,female,hobart,f,133080.179,nsw,342901.388,melbourne,f,107.388,male,sydney,120111.636
+rec-09-org,6111 3002 5054 1260,06-06-2002,101727.202,62,lira-gonzalez,hayden,male,melbourne,f,41686.122,nsw,201206.135,sydney,f,103.642,female,sydney,87940.749
+rec-10-org,6320 8823 9976 5812,28-09-2005,44134.948,41,zoanetti,konstantinos,male,melbourne,m,95547.269,wa,111545.755,sydney,f,118.105,female,melbourne,99227.600
+rec-11-org,7688 6241 2225 4066,27-01-2010,56228.746,21,dent,jaden,female,perth,na,94065.417,sa,142161.209,hobart,f,101.070,female,melbourne,1166484.898
+rec-12-org,0661 7485 9782 6410,17-01-2010,85570.558,75,huddy,hannah,male,melbourne,na,66031.025,nsw,497079.158,melbourne,f,111.802,female,sydney,153686.937
+rec-13-org,9359 4770 2959 0922,14-04-2005,121930.140,35,liddy,ethan,female,canberra,m,51981.604,nsw,377300.805,sydney,f,75.640,male,sydney,78264.361
+rec-14-org,0604 4076 9707 1367,20-10-2009,112843.629,41,boss,lara,female,brisbane,na,80801.211,vic,36749.140,sydney,m,172.286,female,sydney,62246.710
+rec-15-org,6743 0253 7513 6217,02-07-2012,115667.315,48,reid,andrew,male,sydney,m,59869.623,sa,160925.242,sydney,f,144.205,male,melbourne,151964.213
+rec-16-org,3776 3145 7291 2177,14-11-2002,93138.062,71,heidrich,harry,female,sydney,f,70060.711,wa,69183.887,sydney,m,162.357,male,sydney,69767.093
+rec-17-org,1751 6641 2316 4960,10-08-2010,89953.924,15,valdivia,charlotte,male,canberra,m,47173.158,nsw,70829.258,melbourne,m,108.261,male,sydney,139531.152
+rec-18-dup-0,3717 5258 3550 3174,16-08-2002,107123.619,81,zeppelt,kate,male,per6b,f,22539.987,nsw,276607.757,sydney,m,105.150,female,melbourne,377196.758
+rec-18-dup-1,,16-08-2002,107123.619,7l,seppe|t,kate,male,perth,f,22539.987,nsw,276607.757,sydney,m,105.150,female,melbourne,377196.758
+rec-18-dup-2,,16-08-2002,107123.619,61,sepelt,kate,male,perth,f,22539.987,nsw,276607.757,sydney,m,105.150,female,melbourne,377196.758
+rec-18-dup-3,3717 5258 3550 3174,16-08-2002,107123.619,7|,seppeld,kate,male,pertb,f,22539.987,nsw,276607.757,sydney,m,105.150,female,melbourne,377196.758
+rec-18-org,3717 5258 3550 3174,16-08-2002,107123.619,71,seppelt,kate,male,perth,f,22539.987,nsw,276607.757,sydney,m,105.150,female,melbourne,377196.758
+rec-19-dup-0,,19-07-2008,114998.078,17,agjus,isabella,male,canbeerw,f,39590.968,wa,113039.575,melbourne,f,71.219,female,sydney,153129.735
+rec-19-dup-1,,19-07-2008,114998.078,17,akiuj,isabella,male,canherra,f,39590.968,wa,113039.575,melbourne,f,71.219,female,sydney,153129.735
+rec-19-org,2097 4182 2317 5203,19-07-2008,114998.078,17,agius,isabella,male,canberra,f,39590.968,wa,113039.575,melbourne,f,71.219,female,sydney,153129.735
+rec-20-dup-0,6806 7378 5480 8513,01-07-2012,76041.386,5s,fenwic1<,daniel,female,br9wbane,f,108087.142,qld,61914.093,sydney,m,101.259,male,melbourne,40177.053
+rec-20-org,6806 7378 5480 8513,01-07-2012,76041.386,55,fenwick,daniel,female,brisbane,f,108087.142,qld,61914.093,sydney,m,101.259,male,melbourne,40177.053
+rec-21-dup-0,3376 3387 6318 7505,02-02-2000,153492.608,3s,hngs,christian,male,sydne7,m,81244.890,vic,50124.065,sydney,f,120.556,female,sydney,93159.753
+rec-21-dup-1,,02-02-2000,153492.608,53,hings,christian,male,sydne6,m,81244.890,vic,50124.065,sydney,f,120.556,female,sydney,93159.753
+rec-21-dup-2,3376 3387 6318 7505,02-02-2000,153492.608,35,h'lriks,christian,male,sydne6,m,81244.890,vic,50124.065,sydney,f,120.556,female,sydney,93159.753
+rec-21-dup-3,,02-02-2000,153492.608,53,hinlcs,christian,male,sydjey,m,81244.890,vic,50124.065,sydney,f,120.556,female,sydney,93159.753
+rec-21-dup-4,3376 3387 6318 7505,02-02-2000,153492.608,35,hnks,christian,male,sydgey,m,81244.890,vic,50124.065,sydney,f,120.556,female,sydney,93159.753
+rec-21-org,3376 3387 6318 7505,02-02-2000,153492.608,53,hinks,christian,male,sydney,m,81244.890,vic,50124.065,sydney,f,120.556,female,sydney,93159.753
+rec-22-org,8475 2760 9003 9773,08-01-2010,109056.399,54,sarjeant,jakob,female,sydney,na,75638.342,tas,14174.483,sydney,m,117.647,male,melbourne,143551.413
+rec-23-dup-0,,08-12-2008,120928.524,86,vorby,ellie,male,sydne7,f,182931.586,nsw,90114.996,hobart,m,119.412,male,sydney,137524.092
+rec-23-dup-1,,08-12-2008,120928.524,86,for1>y,ellie,male,syeney,f,182931.586,nsw,90114.996,hobart,m,119.412,male,sydney,137524.092
+rec-23-dup-2,2120 5274 2918 1346,08-12-2008,120928.524,83,forpy,ellie,male,sydne7,f,182931.586,nsw,90114.996,hobart,m,119.412,male,sydney,137524.092
+rec-23-dup-3,2120 5274 2918 1346,08-12-2008,120928.524,68,foaby,ellie,male,sydn37,f,182931.586,nsw,90114.996,hobart,m,119.412,male,sydney,137524.092
+rec-23-dup-4,2120 5274 2918 1346,08-12-2008,120928.524,88,forl>y,ellie,male,sydnwh,f,182931.586,nsw,90114.996,hobart,m,119.412,male,sydney,137524.092
+rec-23-org,2120 5274 2918 1346,08-12-2008,120928.524,86,forby,ellie,male,sydney,f,182931.586,nsw,90114.996,hobart,m,119.412,male,sydney,137524.092
+rec-24-dup-0,8225 5416 7922 6941,14-12-2003,109339.909,3q,loklc,grace,female,canber5a,f,76073.749,nsw,482426.162,melbourne,m,147.992,male,melbourne,172030.355
+rec-24-dup-1,,14-12-2003,109339.909,93,lock,grace,female,canhwrra,f,76073.749,nsw,482426.162,melbourne,m,147.992,male,melbourne,172030.355
+rec-24-org,8225 5416 7922 6941,14-12-2003,109339.909,34,lock,grace,female,canberra,f,76073.749,nsw,482426.162,melbourne,m,147.992,male,melbourne,172030.355
+rec-25-dup-0,,27-12-2010,84763.364,1|,matthews,luke,female,petth,na,116958.552,qld,65441.186,melbourne,m,122.164,female,brisbane,37770.774
+rec-25-dup-1,1700 3351 8789 1235,27-12-2010,84763.364,1l,madthews,luke,female,pertb,na,116958.552,qld,65441.186,melbourne,m,122.164,female,brisbane,37770.774
+rec-25-dup-2,1700 3351 8789 1235,27-12-2010,84763.364,l1,matthewj,luke,female,peftj,na,116958.552,qld,65441.186,melbourne,m,122.164,female,brisbane,37770.774
+rec-25-dup-3,,27-12-2010,84763.364,11,matthevvs,luke,female,pergh,na,116958.552,qld,65441.186,melbourne,m,122.164,female,brisbane,37770.774
+rec-25-dup-4,1700 3351 8789 1235,27-12-2010,84763.364,1|,madthew5,luke,female,perrh,na,116958.552,qld,65441.186,melbourne,m,122.164,female,brisbane,37770.774
+rec-25-org,1700 3351 8789 1235,27-12-2010,84763.364,11,matthews,luke,female,perth,na,116958.552,qld,65441.186,melbourne,m,122.164,female,brisbane,37770.774
+rec-26-org,3207 7937 6817 5173,05-09-2009,107811.454,81,hingston,jacob,female,hobart,m,25284.831,vic,35047.307,melbourne,f,99.645,male,sydney,84972.206
+rec-27-org,2051 3917 4293 5477,10-10-2011,119707.887,54,grossman,ethan,male,sydney,m,60294.714,nsw,223849.577,sydney,f,96.933,female,brisbane,74856.190
+rec-28-org,9870 5901 8472 7669,25-08-2010,91536.741,52,finlay,riley,female,brisbane,f,51732.200,vic,34495.800,sydney,f,112.915,female,sydney,175524.935
+rec-29-org,4378 8356 1082 1359,10-01-2010,114742.271,72,rees,samantha,female,brisbane,f,240953.529,qld,26978.524,canberra,f,109.896,female,brisbane,73998.608
+rec-30-org,9738 7767 5707 9756,21-04-2009,104673.035,4,pieroni,aidan,male,melbourne,m,20854.022,vic,39647.155,melbourne,m,149.288,male,melbourne,122470.490
+rec-31-org,2356 9365 9364 3944,24-03-2012,94092.208,64,walkley,abbey,female,brisbane,f,41045.913,tas,16333.729,canberra,f,110.745,female,sydney,91347.510
+rec-32-org,9964 3215 5835 1526,23-06-2005,87657.282,35,iussa,liam,female,brisbane,m,64792.353,nsw,102592.403,melbourne,m,131.759,female,brisbane,39802.881
+rec-33-org,3386 1016 4420 9896,09-10-2001,76371.844,44,danby,rohan,male,sydney,m,49295.132,wa,66850.444,melbourne,f,86.551,male,melbourne,75902.847
+rec-34-org,6705 5581 2319 5522,13-12-2012,100337.084,94,hyland,breana,female,hobart,f,25191.087,nsw,148284.669,sydney,f,134.375,male,melbourne,127613.591
+rec-35-dup-0,1532 5659 9251 5236,29-12-2007,97497.101,78,drumam,tynan,male,melbo8rne,f,252359.640,sa,55760.242,canberra,m,114.675,male,sydney,71404.787
+rec-35-dup-1,,29-12-2007,97497.101,84,trumam,tynan,male,melbourne,f,252359.640,sa,55760.242,canberra,m,114.675,male,sydney,71404.787
+rec-35-dup-2,,29-12-2007,97497.101,48,drurnan,tynan,male,melgourje,f,252359.640,sa,55760.242,canberra,m,114.675,male,sydney,71404.787
+rec-35-dup-3,1532 5659 9251 5236,29-12-2007,97497.101,68,drvman,tynan,male,meob0urne,f,252359.640,sa,55760.242,canberra,m,114.675,male,sydney,71404.787
+rec-35-org,1532 5659 9251 5236,29-12-2007,97497.101,48,truman,tynan,male,melbourne,f,252359.640,sa,55760.242,canberra,m,114.675,male,sydney,71404.787
+rec-36-dup-0,9980 4494 0999 9985,29-02-2007,76532.679,75,neviJle,mitchell,male,melb9urne,m,69294.848,qld,63133.081,melbourne,m,85.307,female,sydney,124686.741
+rec-36-org,9980 4494 0999 9985,29-02-2007,76532.679,57,neville,mitchell,male,melbourne,m,69294.848,qld,63133.081,melbourne,m,85.307,female,sydney,124686.741
+rec-37-org,9551 7457 9372 9343,27-08-2011,114453.886,58,reid,julia,male,canberra,na,17457.354,vic,52387.981,melbourne,f,117.899,male,perth,413198.694
+rec-38-dup-0,1521 0309 8673 2556,11-03-2008,79431.378,26,berie,harry,male,melb0urne,m,50635.090,vic,28783.021,sydney,m,88.559,male,canberra,57996.346
+rec-38-dup-1,1521 0309 8673 2556,11-03-2008,79431.378,24,beahrv,harry,male,melb0urne,m,50635.090,vic,28783.021,sydney,m,88.559,male,canberra,57996.346
+rec-38-dup-2,,11-03-2008,79431.378,2o,berrv,harry,male,melbourne,m,50635.090,vic,28783.021,sydney,m,88.559,male,canberra,57996.346
+rec-38-dup-3,1521 0309 8673 2556,11-03-2008,79431.378,2o,bery,harry,male,melbo7rne,m,50635.090,vic,28783.021,sydney,m,88.559,male,canberra,57996.346
+rec-38-org,1521 0309 8673 2556,11-03-2008,79431.378,20,berry,harry,male,melbourne,m,50635.090,vic,28783.021,sydney,m,88.559,male,canberra,57996.346
+rec-39-org,8055 5961 7203 3519,15-02-2005,104031.376,5,rudd,mackinley,female,brisbane,na,41421.028,vic,37954.918,sydney,m,157.127,male,melbourne,151959.894
+rec-40-dup-0,,15-01-2005,115717.680,ug,rollinsd,sebastian,female,perth,na,76952.760,tas,57571.931,sydney,m,130.437,female,sydney,179268.810
+rec-40-dup-1,,15-01-2005,115717.680,79,rollinst,sebastian,female,p34th,na,76952.760,tas,57571.931,sydney,m,130.437,female,sydney,179268.810
+rec-40-org,7154 1481 2712 6263,15-01-2005,115717.680,79,rollins,sebastian,female,perth,na,76952.760,tas,57571.931,sydney,m,130.437,female,sydney,179268.810
+rec-41-dup-0,8752 8480 8331 0106,01-10-2012,101430.157,64,blakcklow,cooper,male,per6y,f,82840.850,vic,36105.226,canberra,m,117.514,male,canberra,84333.943
+rec-41-dup-1,8752 8480 8331 0106,01-10-2012,101430.157,64,blaclclow,cooper,male,pe4th,f,82840.850,vic,36105.226,canberra,m,117.514,male,canberra,84333.943
+rec-41-org,8752 8480 8331 0106,01-10-2012,101430.157,46,blacklow,cooper,male,perth,f,82840.850,vic,36105.226,canberra,m,117.514,male,canberra,84333.943
+rec-42-org,2240 9226 5538 1394,19-07-2003,83140.000,65,chandler,harrison,male,sydney,m,40173.318,vic,40130.434,sydney,m,93.760,male,melbourne,148451.367
+rec-43-org,0524 6076 1105 1272,02-02-2002,87368.430,65,hazell,olivia,female,perth,m,90225.945,vic,52071.329,sydney,m,141.020,male,perth,221286.076
+rec-44-org,3238 9894 3098 3141,02-01-2001,113218.243,16,bendt,toby,male,melbourne,f,55848.573,nsw,293725.393,canberra,m,126.084,male,perth,64512.857
+rec-45-org,1583 3521 8607 2808,30-10-2005,112025.222,19,heron,caitlin,male,melbourne,na,53445.178,vic,51411.654,sydney,f,89.613,male,canberra,74147.728
+rec-46-org,3479 2553 2446 3537,31-02-2008,93468.765,62,white,victoria,male,sydney,na,28050.891,wa,98825.628,sydney,f,99.680,male,sydney,134955.713
+rec-47-dup-0,7965 6070 3424 2912,17-05-2008,131389.028,82,kond0poulos,isabella,male,melbl8rne,f,107745.675,tas,71116.232,sydney,m,117.909,female,sydney,166404.768
+rec-47-dup-1,,17-05-2008,131389.028,28,kontopol0s,isabella,male,melbourhe,f,107745.675,tas,71116.232,sydney,m,117.909,female,sydney,166404.768
+rec-47-dup-2,,17-05-2008,131389.028,28,kontop0ulos,isabella,male,melb0urne,f,107745.675,tas,71116.232,sydney,m,117.909,female,sydney,166404.768
+rec-47-dup-3,7965 6070 3424 2912,17-05-2008,131389.028,z8,kontopoloj,isabella,male,melbou4be,f,107745.675,tas,71116.232,sydney,m,117.909,female,sydney,166404.768
+rec-47-org,7965 6070 3424 2912,17-05-2008,131389.028,28,kontopoulos,isabella,male,melbourne,f,107745.675,tas,71116.232,sydney,m,117.909,female,sydney,166404.768
+rec-48-org,6195 2905 0007 7401,28-02-2005,115862.750,59,clarke,harry,male,melbourne,f,54228.392,qld,86463.602,canberra,m,111.140,male,melbourne,60545.309
+rec-49-dup-0,5486 9340 0811 1291,19-01-2003,63527.741,73,l0dge,joe,male,canberrw,f,96970.853,qld,32988.561,sydney,m,140.964,male,sydney,33819.852
+rec-49-dup-1,,19-01-2003,63527.741,37,loclge,joe,male,canb4rra,f,96970.853,qld,32988.561,sydney,m,140.964,male,sydney,33819.852
+rec-49-org,5486 9340 0811 1291,19-01-2003,63527.741,37,lodge,joe,male,canberra,f,96970.853,qld,32988.561,sydney,m,140.964,male,sydney,33819.852
+rec-50-org,1340 8538 5523 8161,22-12-2002,126021.492,50,ryan,mia,male,perth,m,73738.955,qld,43849.561,sydney,m,123.800,female,sydney,174171.388
+rec-51-dup-0,,20-07-2000,117851.628,97,ngvyen,konstantinos,male,melbourne,m,67846.841,qld,77896.501,melbourne,f,95.720,female,brisbane,44838.823
+rec-51-org,6543 3367 0070 1085,20-07-2000,117851.628,93,nguyen,konstantinos,male,melbourne,m,67846.841,qld,77896.501,melbourne,f,95.720,female,brisbane,44838.823
+rec-52-dup-0,5148 8434 7590 2764,05-06-2001,102409.222,73,pufan,aidan,male,melblurne,f,99555.392,wa,37754.274,melbourne,f,110.509,female,canberra,25662.737
+rec-52-org,5148 8434 7590 2764,05-06-2001,102409.222,37,puvan,aidan,male,melbourne,f,99555.392,wa,37754.274,melbourne,f,110.509,female,canberra,25662.737
+rec-53-org,9685 9218 1642 3814,06-10-2012,104428.849,73,ludzioweit,catherine,female,melbourne,f,42260.576,nsw,174383.043,melbourne,f,115.445,male,canberra,56589.631
+rec-54-dup-0,5707 5049 5641 8147,24-10-2009,106557.538,1,hniotist,kyle,female,brisbwje,m,50989.741,wa,28993.764,melbourne,m,104.188,male,melbourne,135760.987
+rec-54-dup-1,,24-10-2009,106557.538,3,hni0tis,kyle,female,bricbane,m,50989.741,wa,28993.764,melbourne,m,104.188,male,melbourne,135760.987
+rec-54-org,5707 5049 5641 8147,24-10-2009,106557.538,3,haniotis,kyle,female,brisbane,m,50989.741,wa,28993.764,melbourne,m,104.188,male,melbourne,135760.987
+rec-55-org,0240 6770 1844 2924,14-11-2004,106111.323,53,braithwaite,malakai,female,brisbane,na,78916.200,vic,35456.547,sydney,f,84.924,female,sydney,180258.568
+rec-56-org,1884 0612 1874 1132,14-10-2000,79864.672,74,deckert,joshua,female,brisbane,f,215694.225,wa,31629.369,melbourne,f,111.677,male,sydney,36272.834
+rec-57-dup-0,,10-04-2012,58042.462,93,whide,taylah,male,melbojrje,m,85649.862,vic,46506.393,melbourne,m,105.699,male,melbourne,143433.414
+rec-57-dup-1,,10-04-2012,58042.462,93,wh:te,taylah,male,melbournd,m,85649.862,vic,46506.393,melbourne,m,105.699,male,melbourne,143433.414
+rec-57-org,5647 8945 2853 1455,10-04-2012,58042.462,93,white,taylah,male,melbourne,m,85649.862,vic,46506.393,melbourne,m,105.699,male,melbourne,143433.414
+rec-58-dup-0,,13-10-2003,120736.724,71,colquh0un,aaliyah,male,melb9urne,f,13929.205,tas,11698.618,melbourne,f,115.945,male,perth,112314.675
+rec-58-dup-1,7883 8709 6284 6761,13-10-2003,120736.724,17,colquoun,aaliyah,male,melbournr,f,13929.205,tas,11698.618,melbourne,f,115.945,male,perth,112314.675
+rec-58-org,7883 8709 6284 6761,13-10-2003,120736.724,71,colquhoun,aaliyah,male,melbourne,f,13929.205,tas,11698.618,melbourne,f,115.945,male,perth,112314.675
+rec-59-org,2287 5060 3255 3106,20-02-2002,130040.309,2,reid,william,female,perth,m,32891.963,wa,102865.477,sydney,f,123.300,male,melbourne,106911.110
+rec-60-org,4552 8528 4753 4479,01-10-2010,49019.001,30,crossman,joshua,male,melbourne,f,76826.147,act,93532.546,melbourne,m,134.759,female,sydney,103259.094
+rec-61-dup-0,0039 8188 9395 3708,22-09-2003,94239.910,g3,clouclsdale,braedon,male,sydnry,f,59263.996,vic,47442.334,melbourne,m,110.580,female,sydney,123330.900
+rec-61-org,0039 8188 9395 3708,22-09-2003,94239.910,39,cloudsdale,braedon,male,sydney,f,59263.996,vic,47442.334,melbourne,m,110.580,female,sydney,123330.900
+rec-62-org,3286 6017 3232 9010,21-03-2008,102975.421,24,vincent,lachlan-john,female,canberra,m,95265.875,vic,54279.735,melbourne,m,103.082,female,brisbane,55952.629
+rec-63-dup-0,2032 1551 2465 0647,23-09-2005,85646.970,9z,wi5by,mitchell,female,canberfa,m,48230.727,tas,16212.002,sydney,f,164.117,female,sydney,139188.277
+rec-63-org,2032 1551 2465 0647,23-09-2005,85646.970,92,wisby,mitchell,female,canberra,m,48230.727,tas,16212.002,sydney,f,164.117,female,sydney,139188.277
+rec-64-org,2236 0147 3528 5513,24-01-2009,147010.467,84,white,isabella,male,melbourne,m,53641.976,sa,174863.709,sydney,f,89.048,male,sydney,92476.216
+rec-65-org,2803 8248 8708 0675,31-08-2007,104052.386,83,szmeja,georgia,male,perth,na,77834.321,qld,40840.082,sydney,f,165.098,male,canberra,77181.689
+rec-66-dup-0,2253 6719 0666 4879,11-03-2003,85505.792,9s,rejt,timothy,female,hoba4t,m,89470.668,vic,32410.120,sydney,m,122.924,female,sydney,188260.408
+rec-66-dup-1,,11-03-2003,85505.792,9s,re'lt,timothy,female,hobart,m,89470.668,vic,32410.120,sydney,m,122.924,female,sydney,188260.408
+rec-66-dup-2,,11-03-2003,85505.792,95,re'lt,timothy,female,hogzrt,m,89470.668,vic,32410.120,sydney,m,122.924,female,sydney,188260.408
+rec-66-dup-3,,11-03-2003,85505.792,95,rejd,timothy,female,hoba56,m,89470.668,vic,32410.120,sydney,m,122.924,female,sydney,188260.408
+rec-66-dup-4,2253 6719 0666 4879,11-03-2003,85505.792,9s,ricl,timothy,female,hobwrt,m,89470.668,vic,32410.120,sydney,m,122.924,female,sydney,188260.408
+rec-66-org,2253 6719 0666 4879,11-03-2003,85505.792,95,reid,timothy,female,hobart,m,89470.668,vic,32410.120,sydney,m,122.924,female,sydney,188260.408
+rec-67-dup-0,8293 9121 4917 4884,16-01-2007,91262.078,47,nolole,natalie,male,melboufnd,f,50534.386,vic,43921.322,sydney,f,110.774,female,sydney,127779.405
+rec-67-org,8293 9121 4917 4884,16-01-2007,91262.078,74,noble,natalie,male,melbourne,f,50534.386,vic,43921.322,sydney,f,110.774,female,sydney,127779.405
+rec-68-org,0388 5060 5950 8777,19-05-2000,144525.240,83,matthews,tia,female,brisbane,na,89880.921,act,144678.506,canberra,m,128.089,male,melbourne,115557.462
+rec-69-org,2837 2744 4582 5016,16-11-2005,120598.124,17,candida,grace,female,brisbane,na,103692.663,nsw,29603.366,melbourne,m,104.981,male,melbourne,119250.768
+rec-70-org,5664 7752 6296 4945,06-01-2003,90278.881,36,leaver,ridley,male,melbourne,na,27860.290,nsw,168214.519,hobart,m,118.249,female,brisbane,51260.579
+rec-71-org,4480 3396 1937 3707,02-07-2002,138963.261,31,stephenson,harvey,male,canberra,f,49251.851,act,144099.556,hobart,f,95.409,male,sydney,60482.721
+rec-72-dup-0,8540 8746 4663 0070,30-03-2006,44566.174,36,ignett,indiana,male,syrney,na,46740.091,wa,28794.993,hobart,f,83.250,male,canberra,75039.161
+rec-72-dup-1,8540 8746 4663 0070,30-03-2006,44566.174,36,hgnett,indiana,male,sydhey,na,46740.091,wa,28794.993,hobart,f,83.250,male,canberra,75039.161
+rec-72-dup-2,,30-03-2006,44566.174,67,hignett,indiana,male,sydnwy,na,46740.091,wa,28794.993,hobart,f,83.250,male,canberra,75039.161
+rec-72-dup-3,8540 8746 4663 0070,30-03-2006,44566.174,36,iknett,indiana,male,sydbey,na,46740.091,wa,28794.993,hobart,f,83.250,male,canberra,75039.161
+rec-72-dup-4,8540 8746 4663 0070,30-03-2006,44566.174,6g,hjqnett,indiana,male,sydne6,na,46740.091,wa,28794.993,hobart,f,83.250,male,canberra,75039.161
+rec-72-org,8540 8746 4663 0070,30-03-2006,44566.174,63,hignett,indiana,male,sydney,na,46740.091,wa,28794.993,hobart,f,83.250,male,canberra,75039.161
+rec-73-dup-0,3628 4491 4339 6098,18-02-2006,111066.353,73,ratoyic,cambell,male,melbou4je,m,74083.710,vic,44039.700,hobart,f,95.351,male,sydney,189297.223
+rec-73-dup-1,3628 4491 4339 6098,18-02-2006,111066.353,32,radofik,cambell,male,melbo85ne,m,74083.710,vic,44039.700,hobart,f,95.351,male,sydney,189297.223
+rec-73-dup-2,,18-02-2006,111066.353,32,radovk,cambell,male,melbourne,m,74083.710,vic,44039.700,hobart,f,95.351,male,sydney,189297.223
+rec-73-org,3628 4491 4339 6098,18-02-2006,111066.353,23,radovic,cambell,male,melbourne,m,74083.710,vic,44039.700,hobart,f,95.351,male,sydney,189297.223
+rec-74-org,5514 7661 7473 1601,15-12-2011,97309.949,89,jolly,charlie,female,brisbane,na,101579.871,tas,21194.288,melbourne,m,103.576,female,melbourne,373323.394
+rec-75-org,2858 1904 4405 9939,20-10-2002,74117.893,14,cappelluti,amy,female,brisbane,f,250365.618,nt,83200.158,sydney,m,136.903,male,canberra,55828.701
+rec-76-org,2239 3480 3301 7384,29-01-2003,98627.705,19,fassina,destynii,male,melbourne,m,96972.221,wa,57019.050,sydney,f,149.457,female,brisbane,57572.347
+rec-77-dup-0,,14-01-2011,128329.673,9,rian,teagan,male,mdlboufne,na,97198.379,nsw,212386.841,canberra,f,62.593,male,melbourne,36516.735
+rec-77-org,5708 4371 7257 4093,14-01-2011,128329.673,9,ryan,teagan,male,melbourne,na,97198.379,nsw,212386.841,canberra,f,62.593,male,melbourne,36516.735
+rec-78-dup-0,3308 9373 6947 3772,23-01-2012,124124.707,2z,coli5s,braedon,male,sydn3y,m,26876.578,act,28674.365,melbourne,m,107.592,male,canberra,79034.314
+rec-78-dup-1,,23-01-2012,124124.707,tz,colli5ts,braedon,male,sydney,m,26876.578,act,28674.365,melbourne,m,107.592,male,canberra,79034.314
+rec-78-org,3308 9373 6947 3772,23-01-2012,124124.707,22,colliss,braedon,male,sydney,m,26876.578,act,28674.365,melbourne,m,107.592,male,canberra,79034.314
+rec-79-org,3588 6769 1507 4221,10-03-2004,139068.066,43,hearn,niamh,female,brisbane,na,64127.436,nsw,112597.642,hobart,m,106.852,female,melbourne,250577.387
+rec-80-org,4379 2984 4572 2098,29-08-2004,119029.099,25,green,jayde,male,melbourne,m,45253.143,nsw,255007.611,melbourne,f,94.740,male,melbourne,120376.240
+rec-81-org,2456 7023 3904 8075,10-04-2000,120565.308,7,colquhoun,michael,female,brisbane,na,42408.576,tas,23604.954,melbourne,m,108.487,male,sydney,82916.877
+rec-82-org,1943 1098 1765 7434,12-01-2009,136139.466,12,mazitelli,luke,male,sydney,m,96543.577,nsw,187952.962,melbourne,m,111.126,male,sydney,56488.523
+rec-83-org,1905 7712 9692 1587,02-10-2006,90324.338,63,buchiw,sophie,male,perth,m,83681.217,wa,99110.323,sydney,m,131.902,male,sydney,71054.386
+rec-84-org,0900 9448 6293 1420,10-03-2002,96956.260,20,whetstone,connor,female,brisbane,na,90693.482,nsw,159668.435,sydney,f,75.017,female,melbourne,1003227.898
+rec-85-org,3085 2390 2692 8236,29-10-2007,127664.468,37,bramble,sophie,female,sydney,na,10746.733,nsw,115107.920,sydney,m,121.136,female,canberra,38674.327
+rec-86-org,8920 3190 2769 0325,16-09-2000,79575.044,28,subaj,jasper,female,canberra,na,94092.520,nsw,399567.465,sydney,m,152.514,female,sydney,173509.164
+rec-87-org,6343 9718 5926 2545,16-11-2010,82740.245,6,blake,ryan,male,sydney,f,56811.524,nt,82909.369,melbourne,f,82.567,female,sydney,67292.646
+rec-88-org,2717 8132 4822 4931,20-04-2000,128917.899,13,barritt,olivia,male,perth,m,81186.254,act,157913.217,melbourne,m,65.712,male,canberra,75093.403
+rec-89-org,9119 0774 7400 3923,07-07-2006,124062.184,35,highet,joshua,male,sydney,m,90879.353,qld,49211.226,sydney,f,72.527,male,melbourne,162358.831
+rec-90-dup-0,,21-09-2004,67406.093,4o,neville,chantelle,male,melboufne,na,66301.587,nsw,137247.008,hobart,m,139.728,male,canberra,87758.910
+rec-90-dup-1,3833 2256 9429 0357,21-09-2004,67406.093,4o,nevilil,chantelle,male,melbourhe,na,66301.587,nsw,137247.008,hobart,m,139.728,male,canberra,87758.910
+rec-90-dup-2,,21-09-2004,67406.093,4o,nevil|e,chantelle,male,melbourne,na,66301.587,nsw,137247.008,hobart,m,139.728,male,canberra,87758.910
+rec-90-org,3833 2256 9429 0357,21-09-2004,67406.093,40,neville,chantelle,male,melbourne,na,66301.587,nsw,137247.008,hobart,m,139.728,male,canberra,87758.910
+rec-91-org,3945 0026 0940 3877,09-06-2003,115477.030,6,browne,cassidy,male,sydney,m,27472.334,vic,29121.472,melbourne,f,120.109,female,brisbane,69651.119
+rec-92-dup-0,,21-01-2002,94716.813,10,peahry,harry,male,perty,na,59963.778,qld,30477.830,hobart,f,118.302,male,perth,103897.805
+rec-92-dup-1,,21-01-2002,94716.813,10,berrv,harry,male,perbh,na,59963.778,qld,30477.830,hobart,f,118.302,male,perth,103897.805
+rec-92-dup-2,,21-01-2002,94716.813,1o,berv,harry,male,perth,na,59963.778,qld,30477.830,hobart,f,118.302,male,perth,103897.805
+rec-92-dup-3,8053 3723 2245 8578,21-01-2002,94716.813,11,berri,harry,male,pertn,na,59963.778,qld,30477.830,hobart,f,118.302,male,perth,103897.805
+rec-92-dup-4,8053 3723 2245 8578,21-01-2002,94716.813,50,perri,harry,male,pertu,na,59963.778,qld,30477.830,hobart,f,118.302,male,perth,103897.805
+rec-92-org,8053 3723 2245 8578,21-01-2002,94716.813,10,berry,harry,male,perth,na,59963.778,qld,30477.830,hobart,f,118.302,male,perth,103897.805
+rec-93-dup-0,2542 2619 8425 1691,31-07-2005,80282.462,99,kerkh0ff,jed,male,pertn,na,93933.241,nsw,385539.996,melbourne,m,96.607,male,melbourne,85597.311
+rec-93-org,2542 2619 8425 1691,31-07-2005,80282.462,19,kerkhoff,jed,male,perth,na,93933.241,nsw,385539.996,melbourne,m,96.607,male,melbourne,85597.311
+rec-94-dup-0,6198 1249 0873 3670,02-07-2009,110856.558,42,lambrinost,jayden,male,sydn4y,f,66746.726,nsw,309265.299,melbourne,m,109.108,female,sydney,88880.044
+rec-94-dup-1,,02-07-2009,110856.558,24,lamhrinost,jayden,male,sydjry,f,66746.726,nsw,309265.299,melbourne,m,109.108,female,sydney,88880.044
+rec-94-dup-2,,02-07-2009,110856.558,24,lamprino5,jayden,male,sydne6,f,66746.726,nsw,309265.299,melbourne,m,109.108,female,sydney,88880.044
+rec-94-dup-3,,02-07-2009,110856.558,24,lamprinos,jayden,male,sydmey,f,66746.726,nsw,309265.299,melbourne,m,109.108,female,sydney,88880.044
+rec-94-dup-4,6198 1249 0873 3670,02-07-2009,110856.558,42,lambrjno5,jayden,male,syfney,f,66746.726,nsw,309265.299,melbourne,m,109.108,female,sydney,88880.044
+rec-94-org,6198 1249 0873 3670,02-07-2009,110856.558,24,lambrinos,jayden,male,sydney,f,66746.726,nsw,309265.299,melbourne,m,109.108,female,sydney,88880.044
+rec-95-dup-0,,06-12-2010,122717.301,45,matthews,william,male,melbou5ne,f,74671.357,nsw,228341.558,melbourne,f,94.462,male,melbourne,189007.428
+rec-95-dup-1,,06-12-2010,122717.301,55,matthevvz,william,male,melb0urne,f,74671.357,nsw,228341.558,melbourne,f,94.462,male,melbourne,189007.428
+rec-95-dup-2,,06-12-2010,122717.301,55,matthewst,william,male,kelbourne,f,74671.357,nsw,228341.558,melbourne,f,94.462,male,melbourne,189007.428
+rec-95-dup-3,0336 1366 3107 9221,06-12-2010,122717.301,58,matewj,william,male,mwlbourne,f,74671.357,nsw,228341.558,melbourne,f,94.462,male,melbourne,189007.428
+rec-95-dup-4,,06-12-2010,122717.301,55,mathews,william,male,melbo8rne,f,74671.357,nsw,228341.558,melbourne,f,94.462,male,melbourne,189007.428
+rec-95-org,0336 1366 3107 9221,06-12-2010,122717.301,55,matthews,william,male,melbourne,f,74671.357,nsw,228341.558,melbourne,f,94.462,male,melbourne,189007.428
+rec-96-org,7340 0538 2777 8737,13-10-2010,95306.192,3,george,michael,female,perth,m,99286.062,vic,61461.303,melbourne,f,75.813,male,melbourne,49034.548
+rec-97-org,9483 9323 2348 9914,02-06-2004,55045.454,78,coleman,aidan,female,canberra,m,74082.717,vic,46660.779,hobart,m,122.869,male,sydney,40422.586
+rec-98-org,6092 4321 8942 9181,12-09-2012,60420.404,95,kostrzynski,joel,male,sydney,m,91170.138,wa,126187.361,canberra,m,96.533,male,perth,152477.183
+rec-99-org,4459 0341 6125 7354,20-01-2012,81824.763,70,ryan,oliver,female,perth,f,125260.934,vic,37349.062,canberra,f,123.317,male,sydney,79108.922
