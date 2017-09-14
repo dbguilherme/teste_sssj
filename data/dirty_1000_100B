@@ -1,0 +1,1101 @@
+rec_id,  culture,  sex,  age,  date_of_birth,  title,  given_name,  surname,  state,  suburb,  postcode,  street_number,  address_1,  address_2
+ rec-63-org,    chi,  ,  28,  19890527,  ,  harry,  in,  sa,  paralowie,  6112,  10,  james smith circuit,  uppingham
+ rec-328-org,    unk,  ,  24,  19930124,  ,  amy,  scollard,  vic,  carisbrook,  4560,  57,  marr street,  wombinoo station
+ rec-932-org,    abo,  ,  29,  19881009,  ,  jed,  tapai,  nsw,  lyndhurst,  3162,  16,  summerville crescent,  ashley manor
+ rec-201-org,    usa,  f,  22,  ,  ,  felicity,  hill,  qld,  burketown,  2173,  16,  mackenzie street,  lambton denture clinic
+ rec-814-org,    ger,  m,  ,  19790304,  ,  april,  bambach,  nsw,  aberglasslyn,  4216,  2,  david street,  pacific palms caravn park
+ rec-959-org,    usa,  f,  ,  19240228,  ,  hannah,  prince,  vic,  coalville,  4556,  3,  woralul street,  taronga
+ rec-783-org,    chi,  m,  ,  ,  ,  sam,  chue,  vic,  seaford,  3124,  4,  magrath crescent,  falcon
+ rec-409-org,    eng,  f,  19,  19980409,  dr,  bianca,  victor,  nsw,  pearl beach,  4886,  4,  bainbridge close,  
+ rec-474-org,    ser,  f,  28,  19891015,  ms,  elly,  zeckovic,  nsw,  monak,  2144,  8,  o'reilly street,  
+ rec-999-org,    rom,  f,  ,  19981206,  ms,  kiera,  munteaunu,  nsw,  hamilton,  5010,  26,  clint place,  huntington
+ rec-299-org,    usa,  f,  8,  ,  ,  samantha,  phillips,  wa,  east fremantle,  3032,  217,  gascoyne circuit,  
+ rec-408-org,    ind,  f,  ,  19170610,  ,  timothy,  navani,  qld,  jimna,  3939,  68,  kendall place,  
+ rec-213-org,    eng,  m,  23,  ,  ,  harrison,  victorsen,  wa,  nairibin,  3912,  12,  adinda street,  west road
+ rec-6-org,    rom,  ,  29,  19880224,  ms,  kyra,  artenie,  nsw,  bundook,  3084,  4,  charterisville avenue,  
+ rec-738-org,    unk,  ,  30,  19871217,  mr,  zarran,  strazzari,  nsw,  chatswood,  4670,  11,  sullivan crescent,  
+ rec-433-org,    ind,  f,  35,  19821002,  ,  madison,  vemireddy,  nt,  ali curung,  2380,  31,  ella close,  tiverton
+ rec-810-org,    ind,  f,  11,  20061008,  dr,  fergus,  bhanghoo,  sa,  kensington gardens,  4306,  36,  hicks street,  
+ rec-490-org,    ger,  f,  ,  19170419,  ms,  sana,  brose,  nsw,  cal lal,  2261,  19,  broadbent street,  henry kendall hostel
+ rec-613-org,    eng,  f,  28,  19890724,  ,  benjamin,  merchant,  qld,  emu vale,  2325,  26,  lutana street,  
+ rec-46-org,    unk,  f,  30,  ,  ,  sarah,  aaron,  nsw,  dareton,  4702,  54,  ware place,  
+ rec-983-org,    chi,  f,  31,  19861214,  mr,  alannah,  kung,  sa,  windsor gardens,  2535,  24,  tyner street,  
+ rec-664-dup-0,  unk,  v,  ,  19520318,  ms,  mekan,  sciacca,  ,  barrakk ighdst,  2065,  39,  holland sdreet,  zanctuary vlge
+ rec-906-org,    usa,  m,  31,  19860910,  ,  kelsey,  key,  vic,  nunawading,  2062,  13,  gray place,  
+ rec-334-org,    ina,  f,  20,  19970202,  ,  ashleigh,  iskandar,  qld,  kewarra beach,  6612,  58,  galibal street,  corunna
+ rec-749-org,    chi,  ,  34,  19831127,  ,  jacob,  jong,  ,  emerald,  4169,  22,  ,  
+ rec-376-org,    unk,  ,  29,  19880325,  ms,  james,  stratou,  sa,  cherry gardens,  3400,  32,  mcdowall place,  
+ rec-784-org,    chi,  f,  28,  19890518,  ms,  amy,  chuen,  wa,  moondah,  3081,  49,  doyle terrace,  karobean
+ rec-916-org,    eng,  f,  29,  19880421,  ,  hayden,  tollemache,  vic,  gorae,  2260,  10,  cossington smith crescent,  cedarview
+ rec-488-org,    ger,  ,  28,  19890411,  pfc,  maya,  marquerink,  nsw,  warwick farm,  3123,  25,  temperley street,  
+ rec-743-org,    eng,  ,  42,  19751126,  ,  jordan,  christophers,  nsw,  thornleigh,  3847,  32,  tudor place,  
+ rec-847-org,    usa,  f,  32,  ,  hon,  laetitia,  michael,  qld,  narko,  3555,  413,  barrett street,  cooroora
+ rec-387-org,    eng,  f,  ,  19650710,  dr,  connor,  carlyle,  ,  scarness,  7277,  23,  ,  
+ rec-459-org,    unk,  f,  26,  19911103,  ms,  danielle,  stranger,  nsw,  balgowlah heights,  4210,  16,  mcdermott street,  
+ rec-850-dup-0,  afg,  f,  ,  1985111,  mr,  lau ren,  zadran,  vic,  koor n alla,  ,  3,  guginyac rescent,  
+ rec-754-org,    swe,  f,  33,  19841029,  ms,  harry,  landgre,  vic,  moyhu,  ,  10,  dryandra street,  
+ rec-439-org,    eng,  f,  27,  19900524,  ,  seth,  michaelson,  sa,  brown hill creek,  4804,  85,  clifford crescent,  dungavon
+ rec-369-org,    usa,  f,  30,  19870806,  ,  ,  burris,  vic,  sunshine,  2166,  58,  badimara street,  koonongal
+ rec-374-org,    dan,  f,  28,  19890322,  ,  jasmine,  werlauff,  nsw,  oak park,  2229,  10,  mcclintock street,  
+ rec-675-org,    ind,  f,  ,  19930210,  mr,  charlie,  yashodhar,  nsw,  windang,  2570,  2,  alexandria street,  leisure living vlge
+ rec-404-org,    eng,  f,  35,  19820907,  ,  lachlan,  macneil,  nsw,  exeter,  3072,  340,  nungara street,  
+ rec-223-org,    chi,  f,  31,  ,  ,  mila,  quan,  nsw,  menangle park,  2099,  33,  cockcroft avenue,  palazz
+ rec-573-org,    chi,  f,  19,  19980320,  ms,  seamus,  vong,  wa,  moonies hill,  3175,  187,  la perouse street,  
+ rec-350-org,    eng,  f,  ,  19581219,  ms,  lily,  christianson,  nsw,  sofala,  2602,  ,  picton close,  brentwood vlge
+ rec-528-org,    unk,  m,  30,  19870406,  ,  zac,  scoby,  sa,  kongorong,  4362,  198,  namatjira drive,  
+ rec-538-org,    ,  m,  28,  19890514,  ,  connor,  morrison,  nsw,  king creek,  2177,  100,  osburn drive,  bronberg plaza medical centre
+ rec-942-org,    tur,  ,  30,  19870319,  ,  madison,  madakbas,  ,  berkeley vale,  4035,  40,  jandamarra street,  athlone
+ rec-264-org,    eng,  ,  26,  19910504,  dr,  bella,  shelby,  nsw,  williamtown raaf,  2580,  ,  marrakai street,  
+ rec-339-org,    chi,  f,  ,  19680108,  ,  tahlia,  kuo,  nsw,  klemzig,  2460,  89,  hetherington circuit,  emerandi
+ rec-101-org,    usa,  m,  37,  19801202,  ,  joshua,  graves,  wa,  pinwernying,  4032,  37,  rooth place,  
+ rec-313-org,    eng,  f,  ,  19670818,  ,  liam,  royston,  nsw,  huntingdon,  4350,  49,  porteous crescent,  
+ rec-317-org,    unk,  m,  31,  19860831,  ,  liam,  ,  nsw,  nullamanna,  4810,  24,  o'sullivan street,  
+ rec-716-org,    unk,  m,  29,  19880316,  ,  sienna,  aaberg,  qld,  dalby,  6148,  184,  eton place,  bella dona
+ rec-609-org,    usa,  m,  28,  19890812,  ,  nicholas,  cameron,  vic,  bungador,  3221,  189,  mccubbin street,  
+ rec-191-org,    chi,  f,  33,  19841019,  ,  jack,  luk,  ,  caulfield,  3940,  38,  cooke street,  
+ rec-854-org,    chi,  f,  ,  ,  ms,  emiily,  quan,  qld,  greensborough,  5093,  26,  woodfull loop,  
+ rec-729-dup-0,  eng,  m,  29,  19880416,  ms,  bentjamin,  klivord,  ,  yarraonga,  2430,  23,  ovvicea crescent,  
+ rec-0-org,    jap,  f,  ,  19730930,  hon,  cooper,  nataga,  vic,  edithvale,  2076,  7,  paul coe crescent,  
+ rec-55-org,    ger,  f,  ,  19830302,  dr,  kylee,  rohre,  vic,  devonport,  6280,  52,  wambo close,  bendine road
+ rec-87-org,    chi,  f,  30,  19870109,  ,  ewan,  shanggwan,  qld,  the pines,  3138,  34,  moura place,  
+ rec-258-org,    pol,  f,  ,  19260831,  ,  joel,  czubak,  tas,  lemont,  2464,  125,  little place,  
+ rec-397-org,    dan,  f,  30,  19870409,  ,  lawson,  qvist,  vic,  taradale,  2170,  14,  colmer street,  
+ rec-457-org,    eng,  f,  28,  19890302,  ,  tahnee,  mcgrory,  nsw,  sofala,  7011,  18,  archibald street,  
+ rec-775-org,    chi,  f,  34,  ,  ms,  joshua,  ke,  vic,  princes hill,  3126,  45,  line place,  new chum
+ rec-796-org,    usa,  m,  ,  19230125,  ms,  ,  bruce,  qld,  mount abundance,  7250,  93,  lewin street,  holmwood cottage
+ rec-193-org,    unk,  f,  29,  19880928,  ,  alison,  strahn,  nsw,  artarmon,  4285,  58,  sturgeon street,  top edge
+ rec-579-org,    chi,  f,  22,  19950809,  ,  simon,  hu,  vic,  fyansford,  2060,  22,  forbes street,  
+ rec-128-org,    eng,  m,  31,  19860113,  ,  matilda,  kendrick,  nsw,  landsborough,  2145,  7,  yalgan place,  
+ rec-119-org,    unk,  f,  22,  19951209,  ,  zack,  strangway,  nsw,  markwell,  4054,  36,  bowser place,  
+ rec-24-org,    ind,  f,  26,  19910815,  ms,  jemima,  sethuraman,  nsw,  warners bay,  3620,  4,  ashcroft crescent,  
+ rec-937-org,    usa,  ,  19,  19980208,  ,  samuel,  ballard,  sa,  paddington,  2073,  61,  moulder court,  
+ rec-608-org,    eng,  ,  36,  19810924,  ms,  jarrod,  haward,  nt,  barrow creek,  4133,  52,  pelham close,  
+ rec-166-org,    eng,  f,  29,  19881108,  ,  alannah,  kelsey,  qld,  woodridge,  3181,  485,  may maxwell crescent,  
+ rec-129-org,    ger,  ,  27,  19900325,  ms,  ellie,  bayerlein,  qld,  coominglah forest,  2046,  38,  broome crescent,  
+ rec-712-org,    chi,  f,  24,  19930203,  pfc,  jessica,  xi,  sa,  ottoway,  3133,  515,  murdoch street,  
+ rec-935-org,    usa,  f,  22,  19950224,  ,  annabelle,  frye,  vic,  talgarno,  4109,  31,  gascoyne circuit,  rowethorpe
+ rec-822-org,    unk,  f,  31,  19860707,  ,  emiily,  abbatista,  qld,  wahoon,  2365,  2,  oatley court,  
+ rec-445-org,    usa,  f,  37,  19800211,  ,  lily,  rios,  vic,  heyfield,  2256,  18,  maynard street,  
+ rec-383-org,    jew,  f,  28,  19890816,  ms,  ryan,  jacobowitz,  nsw,  killara,  3610,  4,  moorehead place,  
+ rec-496-org,    eng,  m,  20,  19971112,  ,  lewis,  royce,  nsw,  south tamworth,  5308,  9,  inkster street,  mayo
+ rec-289-org,    usa,  f,  39,  19781027,  ,  ,  yang,  sa,  hahndorf,  2261,  10,  wheeler crescent,  
+ rec-542-org,    tur,  ,  ,  19850517,  ,  jade,  hayreddn,  qld,  euramo,  4220,  45,  nunan crescent,  ascot park
+ rec-34-org,    ind,  f,  28,  19890812,  ms,  zac,  niradhara,  sa,  paracombe,  2165,  44,  rich street,  elenera
+ rec-272-org,    usa,  ,  36,  19810413,  mr,  monique,  simpson,  nsw,  hillston,  7290,  3,  jaeger circuit,  garden settlement
+ rec-482-org,    unk,  f,  26,  19910204,  ,  zane,  strapp,  qld,  stratford,  4164,  29,  pryor place,  
+ rec-220-org,    eng,  f,  23,  19940313,  ,  amber,  kendrick,  sa,  outer harbor,  2794,  71,  boddington crescent,  
+ rec-228-org,    eng,  f,  31,  19861206,  ,  shakira,  hackett,  qld,  nangwee,  2430,  246,  cotton street,  salimtal
+ rec-470-org,    usa,  f,  35,  19820331,  ,  noah,  hensley,  vic,  deniliquin,  3805,  15,  conder street,  greenwood
+ rec-26-org,    usa,  f,  ,  19551028,  ,  ellouise,  holden,  ,  jolimont,  6008,  44,  vogelsang place,  parry hse
+ rec-729-dup-2,  eng,  m,  29,  19880416,  ms,  penzamin,  clivvord,  ,  yarawonga,  2430,  23,  ovfiser crescent,  
+ rec-80-org,    ger,  f,  27,  19900305,  ,  kierra,  mathes,  nsw,  camellia,  3073,  8,  beasley street,  
+ rec-644-org,    chi,  m,  ,  19060911,  ,  james,  ,  vic,  narre warren north,  2830,  12,  skinner street,  wandana
+ rec-808-org,    eng,  f,  33,  19840711,  ,  jesse,  ,  nsw,  brunswick heads,  2155,  33,  ,  thane house
+ rec-388-org,    eng,  f,  ,  19800423,  ,  lily,  quick,  sa,  wudinna,  3280,  33,  hetherington circuit,  heatherdale
+ rec-510-org,    chi,  ,  ,  19400201,  hon,  anika,  ouyong,  sa,  henley beach,  4161,  8,  gouger street,  
+ rec-296-org,    unk,  ,  21,  19960307,  ,  chloe,  abbetmeyer,  nsw,  dalmeny,  2747,  50,  walker crescent,  
+ rec-817-org,    usa,  m,  31,  19860612,  ,  jack,  rowe,  qld,  west prairie,  3192,  108,  mirning crescent,  
+ rec-410-org,    unk,  f,  27,  19900403,  ,  annika,  scottjackson,  nsw,  bedgerebong,  2333,  88,  ashby circuit,  
+ rec-965-org,    ser,  f,  30,  19870614,  ms,  lily,  savic,  qld,  glen echo,  2533,  468,  kerkeri close,  
+ rec-715-org,    ind,  ,  28,  19890908,  mr,  melissa,  teckchandani,  qld,  ryan,  5343,  16,  ,  biggin hill
+ rec-864-org,    unk,  f,  18,  19990511,  ,  sophie,  aani,  vic,  rubicon,  3268,  74,  greenway street,  
+ rec-212-org,    chi,  f,  ,  19790404,  pfc,  samuel,  pat,  qld,  buddina,  5290,  5,  mcbeath place,  
+ rec-71-org,    chi,  f,  25,  19920920,  ,  claudia,  ker,  qld,  golden fleece,  3198,  9,  pickworth street,  
+ rec-520-org,    eng,  m,  35,  ,  ,  jaime,  merricks,  sa,  darlington,  2663,  64,  elwick place,  
+ rec-595-org,    unk,  f,  29,  19880908,  dr,  amy,  strehovski,  nsw,  connells point,  4551,  20,  padbury street,  
+ rec-649-org,    eng,  f,  33,  19840319,  ms,  karla,  kendrick,  nsw,  neurea,  6153,  15,  kirby place,  
+ rec-643-org,    eng,  m,  29,  19881118,  ms,  kirra,  ,  qld,  eli waters,  4387,  376,  delegate street,  
+ rec-865-org,    chi,  m,  32,  19850207,  ms,  sophie,  teng,  sa,  seacliff,  4221,  16,  barlee place,  
+ rec-202-org,    spa,  m,  24,  19930929,  pfc,  talia,  mojica,  vic,  crib point,  3195,  151,  froggatt street,  
+ rec-486-dup-0,  usa,  f,  ,  1977072 3,  ,  cai  in,  gor on,  q|d,  wallumbil   south,  2261,  2,  trickett street,  in9lewood
+ rec-539-org,    gre,  f,  21,  19960702,  ,  tristan,  liatakas,  nsw,  bogangar,  2176,  170,  ,  wattandee
+ rec-10-org,    pol,  f,  32,  19850309,  ms,  jack,  burstzyn,  nsw,  whittington,  6009,  90,  bow place,  
+ rec-141-org,    usa,  m,  ,  19150102,  dr,  ,  warner,  nsw,  clovelly,  3125,  4,  girdlestone circuit,  sec 791
+ rec-241-dup-0,  eng,  f,  28,  19890107,  ms,  ruben,  walterson,  nsq,  tidal river,  5108,  28,  waller crescent,  lyndale park
+ rec-178-org,    eng,  f,  26,  19910213,  ,  matthew,  mcdougall,  qld,  thuringowa central,  3125,  63,  glenmaggie street,  
+ rec-500-org,    usa,  f,  ,  19530805,  mr,  stephanie,  fox,  wa,  pemberton,  4510,  11,  gurrang avenue,  rhosewyn
+ rec-436-org,    fin,  f,  11,  20061231,  ,  james,  soimakallio,  ,  willagee,  2256,  3,  gouger street,  
+ rec-944-org,    usa,  f,  28,  19890719,  ms,  chelsea,  chambers,  qld,  mitcham,  3925,  3,  ligertwood street,  
+ rec-255-org,    ind,  ,  11,  20060122,  ms,  oscar,  persaud,  sa,  como,  2148,  9,  selwyn street,  
+ rec-54-dup-2,  eng,  ,  ,  19880206,  pfc,  ethan,  travses,  vic,  carahu,  3135,  11,  gundara street,  blue hills
+ rec-265-org,    ser,  f,  32,  19851110,  ,  matthew,  marsic,  vic,  heathmont,  3136,  151,  howitt street,  
+ rec-82-org,    ina,  f,  33,  19840610,  ,  aneka,  siregar,  nsw,  uranquinty,  3106,  16,  bottrill street,  
+ rec-961-org,    chi,  ,  21,  19960405,  dr,  ethan,  shang,  wa,  coolgardie,  2429,  26,  angas street,  
+ rec-205-org,    sri,  m,  28,  19891208,  ,  sophie,  bandartilleke,  qld,  blacks beach,  3168,  42,  moynihan street,  
+ rec-335-dup-0,  wel,  f,  13,  20040418,  ,  jacob,  edmunds,  vic,  carrasobitty,  3377,  5,  groveland crescent,  
+ rec-843-org,    ina,  ,  19,  19981117,  ,  matthew,  gunawan,  nsw,  bullaburra,  6714,  43,  darwinia terrace,  dockside 44
+ rec-841-org,    usa,  m,  20,  19970209,  ,  olivia,  floyd,  nsw,  ,  2594,  9,  walker crescent,  norfolk estate
+ rec-525-org,    afr,  m,  21,  ,  ,  luke,  fotso,  vic,  lucyvale,  2170,  40,  drysdale circuit,  
+ rec-710-org,    usa,  f,  ,  19921006,  ,  sophie,  klein,  qld,  edens landing,  3019,  32,  malcolm place,  
+ rec-745-org,    sri,  f,  8,  20090603,  hon,  brodee,  ranatunga,  nsw,  rossmore,  3825,  71,  throsby crescent,  nunkeri
+ rec-946-org,    usa,  f,  27,  ,  ms,  isabella,  colon,  sa,  strathalbyn,  5073,  30,  pethebridge street,  
+ rec-745-dup-0,  sri,  f,  8,  20090603,  hon,  brode ,  rana  unga,  nsw,  rossm re,  3 25,  71,  throsbyc escent,  nunkeri
+ rec-519-org,    ,  f,  ,  19040805,  ,  lachlan,  campbell,  wa,  darlington,  3040,  26,  currey street,  bonnie doon
+ rec-84-org,    por,  f,  30,  19870325,  ,  stephanie,  prestes,  vic,  blampied,  2210,  25,  ,  ningana
+ rec-136-org,    usa,  f,  24,  19930728,  ,  alexis,  craft,  nsw,  tenterfield,  2145,  18,  proctor street,  
+ rec-463-org,    tur,  f,  26,  19911022,  ms,  jory,  demirtas,  wa,  tutunup,  3188,  45,  black street,  brunniana
+ rec-952-org,    ind,  f,  31,  ,  ,  carly,  nashier,  qld,  merryvale,  5075,  4,  enid lorimer circuit,  
+ rec-21-org,    unk,  m,  37,  19800714,  mr,  bertie,  scollard,  vic,  buninyong,  6151,  21,  luckins place,  karingal nursing wing
+ rec-40-org,    pak,  ,  30,  19870730,  ms,  dante,  chunhar,  vic,  patho,  3126,  105,  barker street,  glen mere
+ rec-364-dup-1,  ser,  ,  31,  19860528,  ms,  bella,  gojkovic,  qld,  newtown,  3002,  1,  moore street,  airlie
+ rec-16-org,    ina,  f,  29,  19880206,  ,  jacob,  salim,  qld,  rush creek,  2261,  35,  dalrymple street,  
+ rec-666-dup-0,  ira,  ,  ,  19060508,  ,  teakin,  fallai,  qld,  milljdream,  2790,  25,  ,  kraigie-lea
+ rec-665-org,    ind,  ,  29,  19880520,  ,  isabella,  mallikarjun,  qld,  meringandan west,  2195,  287,  maitland street,  
+ rec-764-org,    unk,  f,  22,  19950219,  ,  sarah,  aani,  nsw,  fairfield heights,  2195,  165,  cossington smith crescent,  wanding
+ rec-714-org,    usa,  f,  30,  19870911,  ,  ayla,  velazquez,  qld,  lynford,  3064,  30,  angophora street,  narondell
+ rec-765-org,    usa,  ,  ,  19520923,  ms,  amelia,  roman,  sa,  flaxley,  5523,  23,  hewlett circuit,  
+ rec-895-org,    eng,  f,  9,  20080315,  ms,  hayley,  fraser,  vic,  rushworth,  3630,  64,  notting court,  
+ rec-18-org,    usa,  f,  33,  19840516,  dr,  lucy,  montoya,  nsw,  colo,  4070,  17,  mcinnes street,  
+ rec-729-dup-1,  eng,  m,  29,  19880416,  ms,  penzamin,  clivoahd,  ,  yarawonga,  2430,  23,  officer cresckent,  
+ rec-351-org,    eng,  ,  27,  19900508,  ,  imogen,  statham,  qld,  maudsland,  2063,  62,  ,  west-view
+ rec-153-org,    usa,  f,  34,  19830712,  ms,  jackson,  haney,  qld,  wellers hill,  5253,  36,  antares crescent,  
+ rec-261-org,    eng,  f,  24,  19931210,  pfc,  maddison,  prescott,  sa,  crafers,  2338,  270,  newman morris circuit,  
+ rec-394-org,    chi,  f,  ,  19170317,  ms,  gemaley,  yam,  wa,  acton park,  3630,  220,  learmonth drive,  
+ rec-663-org,    chi,  m,  ,  19930323,  pfc,  sophie,  ngok,  nsw,  coolangatta,  4109,  15,  gascoyne circuit,  
+ rec-210-dup-0,  eng,  ,  26,  19910730,  ,  joshua,  invilt,  qld,  allinkam,  3144,  14,  howitt ztreet,  
+ rec-565-org,    usa,  f,  29,  19880723,  ms,  annabelle,  little,  vic,  numurkah,  2233,  20,  carrington road,  
+ rec-682-org,    hun,  m,  41,  19760320,  ms,  sam,  balzar,  vic,  staughton vale,  4802,  1,  muntz street,  gemma
+ rec-487-org,    usa,  ,  35,  19821217,  ,  naomi,  blankenship,  qld,  boonooroo plains,  6061,  55,  percival street,  
+ rec-11-org,    eng,  ,  32,  19851003,  mr,  madeline,  hobson,  wa,  frankston,  2727,  14,  bellingham crescent,  
+ rec-8-org,    abo,  f,  29,  ,  ,  mathilde,  worosun,  wa,  gidgegannup,  5041,  9,  ,  locn 2093
+ rec-245-org,    unk,  f,  29,  19880721,  ,  liam,  strahn,  vic,  hamilton,  5159,  30,  grayson street,  
+ rec-874-org,    fin,  f,  36,  19810610,  ,  benjamin,  huttunen,  nsw,  gresford,  2502,  35,  gooromon ponds road,  
+ rec-396-org,    eng,  f,  22,  19951003,  pfc,  harrison,  quincey,  vic,  benayeo,  4817,  72,  bellchambers crescent,  kilvinton village
+ rec-145-org,    tur,  m,  12,  20050207,  dr,  charlie,  ozalan,  sa,  whyte yarcowie,  4034,  35,  dawes street,  windy gully
+ rec-772-dup-1,  unk,  f,  32,  19851202,  mr,  adrian,  strah,  sa,  parahjlls,  509 2,  155,  noarlungac rescent,  
+ rec-300-org,    chi,  f,  ,  19501013,  ms,  jacqueline,  shuk,  nsw,  forster,  2259,  28,  grant crescent,  
+ rec-996-org,    usa,  f,  19,  19981230,  ms,  jake,  harris,  nsw,  burraneer,  3146,  4,  walu street,  
+ rec-943-org,    unk,  f,  38,  ,  dr,  oscar,  scirri,  nsw,  shalvey,  7250,  12,  martin street,  
+ rec-316-org,    eng,  ,  30,  19870924,  ms,  liam,  bateson,  vic,  melbourne airport,  2160,  24,  ngunawal drive,  
+ rec-343-org,    cze,  f,  ,  19860728,  ,  emiily,  halapy,  vic,  caroline springs,  2151,  48,  tipper place,  tumbeeluwa
+ rec-744-org,    eng,  f,  28,  19890625,  ms,  kadin,  hawking,  vic,  bridgewater,  3032,  12,  mcdougall street,  yarrowee farm
+ rec-920-org,    usa,  f,  24,  19930405,  ,  olivia,  randolph,  nsw,  north bondi,  4680,  36,  butlin place,  gundaline
+ rec-184-org,    ger,  ,  24,  19930615,  ,  erin,  deardorff,  nsw,  craigie,  2077,  48,  ,  
+ rec-595-dup-0,  unk,  f,  29,  19880908,  d r,  amy,  strehov ski,  nsw,  connell  point,  4551,  20,  padbur   t reet,  
+ rec-689-org,    eng,  f,  32,  19850406,  ,  anthony,  adamson,  nsw,  central tilba,  3620,  19,  badimara street,  wanding
+ rec-117-org,    ind,  f,  29,  19880320,  ,  brendan,  koothrappally,  wa,  finucane,  2627,  88,  burara crescent,  vil 21
+ rec-93-dup-0,  eng,  f,  ,  ,  d r,  a1exander,  clauss on,  qld,  silvercreek,  3759,  2 0,  eggleston rescent,  marina one
+ rec-149-org,    fin,  m,  31,  19860109,  mr,  grace,  piipi,  nsw,  peel,  5064,  6,  mayo street,  
+ rec-395-org,    unk,  f,  32,  19850403,  ,  harrison,  scorsone,  qld,  garners beach,  4214,  2,  moroak street,  
+ rec-618-org,    ,  f,  34,  19831029,  ,  jayden,  prideaux,  ,  beecroft,  2126,  81,  alice jackson crescent,  hamilton
+ rec-941-org,    unk,  f,  ,  19880607,  ,  ,  strampher,  qld,  tumoulin,  5214,  8,  stockdale street,  
+ rec-233-org,    ind,  f,  32,  19850918,  ,  jasmine,  syamala,  qld,  kamma,  3796,  29,  eggleston crescent,  
+ rec-108-org,    ind,  ,  2,  20150203,  mr,  lauren,  ravikanth,  vic,  arthurs seat,  2115,  22,  pandanus street,  
+ rec-333-org,    eng,  f,  ,  19941125,  pfc,  cameron,  archer,  sa,  aberfoyle park,  2850,  48,  galleghan circuit,  northwest medical centre
+ rec-341-org,    eng,  f,  27,  19900205,  ,  dimitri,  espenson,  sa,  para vista,  4075,  18,  arakoon crescent,  
+ rec-900-org,    eng,  f,  26,  19910228,  ,  raquel,  jephson,  tas,  old beach,  6060,  ,  barangaroo street,  
+ rec-834-org,    unk,  ,  39,  19780202,  mr,  blake,  sciacca,  nsw,  matcham,  2350,  35,  drevermann street,  
+ rec-898-org,    unk,  f,  21,  19960621,  mr,  sam,  aaron,  vic,  sovereign hill,  3130,  37,  litchfield place,  rocklea
+ rec-435-org,    usa,  f,  26,  ,  ,  meagan,  merritt,  nsw,  newtown,  3038,  5,  shumack street,  
+ rec-726-org,    chi,  f,  24,  ,  ms,  samuel,  oyang,  nsw,  glennies creek,  5012,  26,  ,  
+ rec-260-org,    chi,  f,  28,  19890621,  ms,  liam,  jia,  qld,  macalister,  2204,  17,  hargrave street,  
+ rec-79-org,    unk,  f,  26,  19910809,  ,  finlay,  scoby,  nsw,  ,  6025,  43,  mackie crescent,  
+ rec-271-dup-0,  eng,  f,  24,  19930729,  ,  carn n,  goode,  ac ,  holt,  2165,  18 ,  solly place,  walla es ck
+ rec-541-org,    eng,  f,  ,  19131213,  ms,  trevor,  mckenna,  ,  mirrabooka,  4722,  16,  paul coe crescent,  
+ rec-315-org,    jew,  f,  35,  19820817,  ,  kane,  apfel,  nsw,  queens park,  3840,  123,  allambee street,  
+ rec-986-org,    ger,  f,  ,  19550708,  ,  courtney,  mair,  nsw,  rye park,  2224,  100,  willis street,  noosa outlook
+ rec-813-org,    usa,  f,  32,  19850923,  ,  emiily,  riley,  nsw,  wareemba,  4390,  45,  goldsborough close,  
+ rec-731-org,    por,  f,  34,  ,  ,  michael,  dacunhalisboa,  wa,  murdoch,  5162,  18,  bluett place,  newland park
+ rec-438-dup-0,  unk,  f,  2 6,  19910518,  hon,  maso n,  strec  uss,  nsw,  du ,   3 2 4,  11,  steele street,  
+ rec-794-org,    ara,  ,  ,  19311012,  ,  jacinta,  mahvish,  vic,  st kilda west,  0836,  1501,  uren place,  
+ rec-154-org,    eng,  f,  28,  19891108,  ,  joshua,  hanley,  vic,  callignee,  4120,  101,  marrakai street,  
+ rec-564-org,    ind,  f,  36,  ,  ,  wilson,  nachiketa,  nsw,  trunkey creek,  2161,  17,  phillip avenue,  brentwood vlge
+ rec-53-org,    usa,  f,  34,  19830508,  ,  madison,  cooper,  vic,  chisholm,  2170,  4,  sulman place,  bronberg plaza medical centre
+ rec-453-org,    tha,  f,  ,  19360406,  mr,  sarah,  prateung,  sa,  hilton,  2095,  46,  edmond close,  
+ rec-50-org,    ind,  f,  30,  19870527,  ,  katelin,  sandhu,  vic,  elliminyt,  2011,  48,  victoria street,  
+ rec-917-org,    ,  f,  27,  19901014,  ms,  hattie,  matson,  wa,  carani,  2041,  552,  fowles street,  
+ rec-750-org,    unk,  f,  34,  19830204,  ,  ava,  abbetmeyer,  ,  blacks beach,  2220,  31,  hopetoun circuit,  
+ rec-524-org,    usa,  f,  34,  19830127,  ,  ava,  britt,  vic,  mid valley,  3150,  ,  davidson street,  
+ rec-767-org,    unk,  f,  ,  19740429,  ms,  macy,  sclater,  nsw,  devonport,  6169,  27,  hagon place,  
+ rec-911-org,    ger,  ,  ,  19811218,  ,  alexandra,  wassel,  qld,  east toowoomba,  2118,  8,  dallachy place,  
+ rec-625-org,    ,  f,  26,  19911216,  ,  kelsey,  bastiaans,  nt,  barcaldine,  2750,  56,  emerton street,  sheep station
+ rec-958-org,    eng,  f,  21,  19961019,  ,  brooke,  hampson,  wa,  west end,  2230,  39,  adamson crescent,  yarren
+ rec-807-org,    fin,  f,  7,  20100124,  ,  tylah,  toikka,  nsw,  wongarbon,  3186,  43,  spafford crescent,  
+ rec-513-org,    unk,  f,  29,  19880413,  ,  caleb,  strapp,  vic,  hamlyn heights,  3139,  14,  riddell court,  
+ rec-563-org,    unk,  f,  30,  19871114,  ,  joshua,  scolastique,  nsw,  roseville chase,  5461,  51,  chappell street,  
+ rec-601-org,    ,  f,  28,  19891217,  ,  lachlan,  nieva,  nsw,  the ponds,  2518,  136,  lyndon street,  cypress garden
+ rec-629-org,    chi,  m,  25,  ,  dr,  kayden,  mau,  nsw,  moonee beach,  4118,  12,  waramanga place,  
+ rec-99-org,    chi,  ,  11,  20060112,  ,  caitlin,  hsing,  nsw,  south golden beach,  2428,  6,  boas place,  
+ rec-172-org,    eng,  f,  ,  19340806,  ,  brianna,  savege,  vic,  tecoma,  4106,  4,  tyson street,  
+ rec-826-org,    usa,  m,  31,  19860722,  ,  aleisha,  sears,  qld,  corio,  3550,  80,  warrego circuit,  
+ rec-578-org,    usa,  ,  30,  19870911,  ,  sam,  mayer,  nsw,  kings langley,  4077,  9,  millen street,  
+ rec-312-org,    eng,  ,  39,  ,  ,  cameron,  milburn,  nsw,  woollamia,  2905,  9,  meagher place,  
+ rec-378-org,    ser,  f,  29,  19880904,  ,  jesse,  lasic,  tas,  southport,  2000,  7,  woolner circuit,  flr 5 john flynn medical centre
+ rec-872-org,    eng,  f,  20,  19970209,  ,  james,  carlisle,  sa,  hawker,  3280,  19,  rabnor place,  never-never lodge
+ rec-77-org,    usa,  f,  32,  19850908,  mr,  emiily,  ferrell,  wa,  kwelkan,  4849,  41,  federal highway,  canowindra
+ rec-327-org,    usa,  f,  22,  19950513,  ,  kyle,  ramirez,  nsw,  lane cove west,  0870,  38,  eaglemont retreat,  
+ rec-599-org,    unk,  m,  32,  19850627,  ms,  ebony,  scjum,  vic,  neerim,  2716,  187,  perry drive,  isle of palms reso
+ rec-475-org,    eng,  f,  25,  19920203,  ms,  timothy,  adam,  nsw,  erina heights,  4560,  2,  bailey place,  
+ rec-880-dup-0,  usa,  f,  ,  19490526,  m ,  jak ,  david son,  vic,  touk ey,  511 ,  &3,  ,  
+ rec-405-org,    chi,  f,  29,  19881102,  ,  carly,  sun,  nsw,  ladysmith,  5092,  26,  launceston street,  
+ rec-753-org,    ser,  f,  9,  20080824,  mr,  abbey,  kriez,  nsw,  maclean,  4170,  61,  finnerty place,  
+ rec-342-org,    afr,  ,  23,  19940325,  ms,  thomas,  kabeya,  vic,  campsie,  2233,  529,  ebeling court,  vision park
+ rec-569-org,    eng,  ,  9,  20080512,  ,  ethan,  hendry,  wa,  manmanning,  4113,  22,  strong place,  
+ rec-345-dup-1,  afr,  f,  ,  19010 21,  mr,  chl o,  jagne,  vic,  southme bourne,  3182,  14,  roderick street,  
+ rec-443-org,    unk,  f,  32,  19851030,  ,  jordan,  abadi,  qld,  koombooloomba,  2777,  193,  kingsford smith drive,  
+ rec-929-org,    eng,  f,  31,  19860611,  ms,  daniel,  mottershead,  sa,  kensington park,  2541,  1501,  theodore street,  
+ rec-627-org,    ,  m,  ,  19491208,  pfc,  phoenix,  paine,  qld,  pimlico,  2478,  7,  ,  
+ rec-950-org,    eng,  ,  ,  19710804,  ,  harry,  scriven,  sa,  ironbank,  6056,  5,  mcdonald street,  
+ rec-406-org,    eng,  f,  10,  ,  ,  isaac,  ,  nsw,  south wentworthville,  4703,  33,  mcnicoll street,  huntington
+ rec-434-org,    ,  f,  25,  ,  ,  tiahana,  webb,  ,  flagstaff hill,  2430,  20,  wilkins street,  laguna retirement village
+ rec-628-org,    usa,  f,  30,  19871031,  mr,  daniel,  velasquez,  qld,  kyoomba,  4715,  10,  glenmaggie street,  
+ rec-455-org,    eng,  f,  30,  19871008,  ,  braiden,  carlisle,  qld,  sarina,  3147,  4,  poynton street,  rsde 668
+ rec-746-org,    unk,  ,  ,  19590603,  ,  liam,  scofield,  sa,  wallaroo mines,  2099,  16,  kirkland circuit,  
+ rec-484-org,    nor,  ,  36,  19810630,  ms,  jordan,  daehlie,  nsw,  balranald,  3074,  13,  ellis place,  
+ rec-819-org,    hun,  f,  32,  19850226,  ms,  lachlan,  nyilas,  qld,  beaumaris,  3840,  13,  morrison street,  rockview
+ rec-631-org,    usa,  ,  36,  19810709,  ,  william,  henson,  nsw,  lidsdale,  5114,  13,  byrnes place,  
+ rec-904-org,    unk,  f,  ,  19660128,  ,  dominic,  aakre,  vic,  miners rest,  2195,  108,  blackbutt street,  
+ rec-615-org,    chi,  f,  25,  19920524,  ,  gillian,  ,  ,  belmont,  2330,  154,  edkins street,  
+ rec-460-org,    eng,  f,  ,  19560210,  ,  lily,  lund,  nsw,  stanhope gardens,  4211,  14,  tarra place,  
+ rec-617-org,    usa,  f,  34,  19830225,  ,  chelsea,  mcleod,  tas,  killora,  4560,  24,  cambage street,  trinity haven
+ rec-657-org,    unk,  ,  29,  19880615,  ,  riley,  strawbridge,  nsw,  narellan vale,  3465,  4,  city walk,  
+ rec-33-org,    chi,  f,  34,  19831121,  dr,  kazuki,  bau,  wa,  beachlands,  2325,  34,  jackie howe crescent,  wyrema
+ rec-896-org,    eng,  f,  35,  19820318,  ms,  harrison,  royle,  vic,  kew,  3071,  18,  bussell crescent,  
+ rec-600-org,    ser,  f,  ,  19520122,  ,  alexander,  bjondic,  vic,  great western,  4814,  32,  adam place,  
+ rec-32-org,    pol,  f,  ,  19520221,  ,  edward,  ciesinski,  nsw,  balmain east,  3976,  13,  ogilvie place,  
+ rec-830-org,    eng,  f,  38,  19790226,  ,  sophie,  donalds,  ,  lamington,  5280,  19,  eugenia street,  
+ rec-138-org,    unk,  f,  29,  ,  pfc,  arabella,  aaternir,  nsw,  girvan,  2283,  2,  katherine avenue,  
+ rec-355-org,    ira,  f,  29,  19880315,  ,  jasper,  shahidi,  sa,  ,  3070,  10,  redcliffe street,  
+ rec-673-org,    chi,  ,  27,  19900615,  ,  lushia,  kai,  qld,  kogan,  3046,  24,  greenough circuit,  
+ rec-15-org,    hun,  f,  32,  19851104,  hon,  tara,  kasnar,  qld,  tara,  3151,  18,  john young crescent,  
+ rec-506-org,    eng,  ,  ,  19650310,  ,  emiily,  earlson,  vic,  goonellabah,  2111,  226,  rosman circuit,  citi centre
+ rec-29-org,    usa,  f,  37,  ,  ,  mia,  powell,  wa,  armidale,  3630,  99,  vidal street,  pankina
+ rec-758-org,    ind,  m,  ,  19970628,  ms,  amber,  adani,  vic,  koondrook,  2794,  4,  wattle street,  
+ rec-987-org,    eng,  m,  ,  19110525,  ,  stephanie,  arthurson,  nsw,  bunyah,  2340,  1,  gudgenby close,  windalea
+ rec-478-org,    eng,  ,  35,  19821228,  ,  harry,  mcneill,  ,  callala bay,  6055,  4,  rose scott circuit,  
+ rec-905-org,    vie,  f,  27,  19900311,  ms,  monique,  dang,  wa,  merredin,  5019,  5,  investigator street,  
+ rec-954-org,    unk,  f,  31,  19860720,  mr,  lachlan,  sciacca,  nsw,  ladysmith,  3338,  5,  stone place,  
+ rec-620-org,    usa,  f,  31,  19860514,  ms,  nicholas,  summers,  wa,  boyanup,  3930,  16,  lumholtz place,  
+ rec-588-org,    unk,  f,  24,  19930526,  ,  nacoya,  scollard,  ,  balwyn north,  3995,  41,  robertson street,  
+ rec-787-org,    eng,  ,  12,  20051106,  ,  oliver,  newell,  vic,  willaura,  2795,  27,  clive steele avenue,  marylebone
+ rec-683-org,    unk,  m,  21,  19960427,  ,  erin,  aaternir,  vic,  collins street west,  6066,  23,  namatjira drive,  
+ rec-167-org,    ger,  f,  28,  19890811,  ms,  jack,  zellweger,  sa,  inman valley,  4560,  20,  fawkner street,  
+ rec-975-org,    usa,  f,  34,  19830809,  ,  alexandra,  raymond,  vic,  yuroke,  3156,  186,  ,  shadell
+ rec-873-org,    unk,  f,  24,  19930809,  mr,  stella,  abat,  vic,  greendale,  2614,  8,  carroll street,  the haven pole
+ rec-238-org,    usa,  m,  36,  19810423,  mr,  luke,  douglas,  nsw,  kemps creek,  5167,  153,  blamey crescent,  carngeal
+ rec-377-org,    usa,  f,  ,  19460816,  ,  taliah,  dotson,  qld,  marian,  4055,  33,  rufus place,  kingswood park
+ rec-384-org,    usa,  f,  24,  ,  ,  natalie,  duffy,  sa,  barmera,  3141,  52,  vansittart crescent,  
+ rec-30-org,    usa,  ,  26,  19910729,  mr,  hayden,  oconnor,  nsw,  tuckurimba,  2640,  13,  gratwick street,  
+ rec-508-org,    ger,  f,  31,  19861107,  ms,  ,  nussbaum,  qld,  taranganba,  3056,  12,  read place,  
+ rec-253-org,    eng,  f,  22,  19950621,  ,  ,  hawking,  vic,  hmas cerberus,  2250,  4,  boote place,  rose-lea
+ rec-768-org,    jap,  ,  29,  19880808,  hon,  john,  naito,  ,  swan hill,  2833,  17,  ,  
+ rec-187-org,    ser,  f,  ,  19030724,  ms,  oliver,  ruhban,  nsw,  bowraville,  6163,  469,  kennedy street,  
+ rec-655-org,    eng,  f,  34,  19830426,  ,  amelia,  hightower,  ,  landsdale,  5419,  1,  ,  
+ rec-793-org,    eng,  m,  23,  19940219,  ms,  isabella,  cristians,  vic,  beaufort,  4677,  14,  westgarth street,  woorabinda
+ rec-732-org,    eng,  f,  ,  19610728,  ,  ethan,  snyders,  qld,  warwick,  5700,  876,  crozier circuit,  
+ rec-969-org,    tur,  f,  29,  19881116,  ms,  emiily,  tanaoglu,  nsw,  terrey hills,  2203,  425,  stonehaven crescent,  marylands
+ rec-733-org,    wel,  ,  20,  19970104,  ,  edward,  gogh,  sa,  colonel light gardens,  2614,  38,  gillespie street,  sec 1 hd molineux
+ rec-909-org,    unk,  f,  20,  19970707,  ,  julia,  scogin,  sa,  hampstead gardens,  2360,  36,  dampier crescent,  parklands village
+ rec-982-org,    ,  f,  28,  19890409,  ms,  madeleine,  hope,  vic,  rosanna,  2539,  49,  hardey place,  
+ rec-189-org,    eng,  f,  28,  19890211,  ,  mya,  bernardson,  nsw,  kialla,  2350,  16,  throsby crescent,  white house
+ rec-324-org,    usa,  ,  ,  19270929,  ,  callum,  roman,  ,  port macquarie,  5255,  1,  northbourne avenue,  
+ rec-833-org,    tur,  ,  ,  19511029,  ,  anthea,  binark,  nsw,  st leonards,  3073,  2,  currong street,  rsl park
+ rec-988-org,    ind,  m,  ,  19640722,  hon,  lucy,  aidasani,  qld,  mooroobool,  2550,  295,  pawsey circuit,  bindaree
+ rec-467-org,    usa,  f,  11,  20060202,  ,  william,  wilson,  nsw,  calga,  5291,  49,  furey street,  
+ rec-60-dup-0,  eng,  m,  28,  19890 20,  dr,  bai lee,  earl 5on,  qld,  narshla ds,  5025,  1,  gellibrand street,  
+ rec-695-org,    eng,  ,  27,  19900809,  ,  leo,  lund,  nsw,  mittagong,  2161,  1,  newman morris circuit,  kurrajong
+ rec-592-org,    usa,  f,  31,  19860824,  ,  ,  sweeney,  qld,  garbutt,  3168,  55,  ashley drive,  
+ rec-329-org,    ind,  ,  37,  19801222,  ,  lachlan,  raje,  vic,  morwell,  3129,  24,  kalgoorlie crescent,  norfolk park
+ rec-137-dup-0,  ina,  f,  31,  ,  ms,  maahli,  tjandra,  qlt,  glenrocck,  2745,  75,  fellowjt street,  eight mile
+ rec-431-org,    eng,  f,  34,  19830907,  ,  izaac,  elmerson,  nsw,  meroo meadow,  4220,  56,  wheeler crescent,  eventide homes
+ rec-273-org,    eng,  f,  22,  19950726,  hon,  finlay,  merricks,  nsw,  tweed heads,  3912,  10,  darmody street,  greenwood
+ rec-306-org,    ,  f,  13,  20041109,  ms,  ajay,  bellchambers,  nsw,  baerami creek,  2577,  18,  murranji street,  carrangarra
+ rec-297-org,    eng,  ,  ,  19560125,  dr,  emiily,  leonardson,  vic,  meadow heights,  2163,  1,  reid place,  delmar
+ rec-54-dup-0,  eng,  ,  29,  19880206,  pfc,  ethan,  traves,  vic,  carmat,  3135,  11,  gundara street,  blue hills
+ rec-836-org,    ser,  m,  ,  19751130,  mr,  jairus,  petranovic,  ,  clifton springs,  2161,  491,  parker street,  
+ rec-375-org,    ,  f,  ,  19401126,  ms,  alisha,  matthews,  qld,  o'briens hill,  2219,  43,  carbeen street,  
+ rec-401-org,    eng,  f,  34,  ,  ,  danika,  akers,  nsw,  termeil,  2350,  11,  kambalda crescent,  
+ rec-853-org,    eng,  f,  37,  ,  ,  isabella,  pond,  wa,  breton bay,  5204,  50,  maltby circuit,  
+ rec-696-org,    chi,  ,  11,  20060605,  ,  campbell,  liang,  vic,  ravenswood,  2026,  164,  northcott drive,  
+ rec-779-org,    usa,  ,  37,  19800516,  ,  tara,  morrow,  nsw,  mount lewis,  3171,  14,  arnot place,  john flynn hospital
+ rec-556-org,    ser,  f,  29,  19881121,  pfc,  amalia,  buzolic,  nsw,  tweed heads,  2902,  29,  galloway street,  
+ rec-380-org,    sri,  f,  32,  ,  ,  jake,  handunpurage,  nsw,  little bay,  2250,  35,  churchill way,  rowethorpe
+ rec-106-org,    eng,  f,  28,  19890314,  sgt,  hayley,  styles,  ,  gilmore,  5108,  5,  blamey crescent,  sbend carvn park
+ rec-742-org,    ind,  f,  33,  19840222,  ,  natalie,  dristi,  qld,  gargett,  6059,  25,  mt warning crescent,  cave ridge
+ rec-691-org,    eng,  f,  31,  19860705,  ms,  cameron,  alfson,  nsw,  guerilla bay,  6535,  125,  hambidge crescent,  tulgeywood
+ rec-924-org,    unk,  m,  29,  19880729,  ,  maconal,  abadi,  qld,  yangan,  2250,  4,  dugdale street,  
+ rec-888-org,    ind,  m,  26,  19910715,  ms,  sonja,  vinita,  nsw,  strathfield south,  3630,  77,  dettmann close,  diment towers
+ rec-219-org,    unk,  m,  38,  ,  ,  bodhi,  aaberg,  vic,  peronne,  3084,  27,  captain cook crescent,  arcadia
+ rec-97-org,    unk,  ,  30,  19871116,  ms,  charlotte,  aani,  sa,  bugle ranges,  2251,  69,  jelbart street,  brentwood vlge
+ rec-173-org,    usa,  f,  22,  19951017,  ,  alivia,  allison,  vic,  murroon,  2194,  107,  tipiloura street,  tarqua
+ rec-606-org,    unk,  f,  31,  19860128,  ,  emma,  scolastique,  nsw,  point piper,  3152,  169,  kambalda crescent,  
+ rec-550-org,    unk,  m,  11,  20060425,  ,  cade,  ,  ,  jandowae,  ,  30,  english court,  yanagin
+ rec-78-org,    chi,  f,  7,  20100923,  ,  mitchell,  tam,  nsw,  tighes hill,  6164,  104,  tompson street,  
+ rec-321-org,    eng,  f,  ,  19310617,  ms,  jessica,  martins,  nsw,  chittaway point,  2617,  28,  richter close,  
+ rec-649-dup-1,  eng,  f,  33,  19840319,  ms,  ckaahla,  kendrick,  nsw,  neurea,  6153,  15,  ckirby plast,  
+ rec-776-org,    usa,  f,  32,  19850611,  ,  brooke,  michael,  nsw,  glenmore park,  2170,  1,  donohoe place,  
+ rec-697-org,    usa,  f,  ,  19891201,  ,  jayden,  lowery,  sa,  gray,  2479,  17,  avoca place,  
+ rec-325-org,    usa,  f,  30,  19871013,  ,  mitchell,  deleon,  nt,  lajamanu,  6149,  10,  marquet retreat,  
+ rec-161-org,    dut,  f,  33,  19840410,  ms,  daniel,  wagemans,  vic,  werribee,  2220,  5,  ,  
+ rec-3-org,    usa,  m,  8,  20090123,  ms,  julia,  johnson,  vic,  seven hills,  4034,  201,  perry drive,  
+ rec-485-org,    usa,  f,  40,  19771214,  mr,  lachlan,  maxwell,  vic,  clarkefield,  3561,  44,  bangalay crescent,  
+ rec-188-org,    eng,  f,  37,  19800101,  ,  trey,  whittemore,  nsw,  tura beach,  2530,  200,  shumack street,  bulala
+ rec-367-org,    eng,  f,  31,  19860322,  ms,  kaitlyn,  wyndham,  nsw,  boree creek,  2170,  38,  scott street,  caergwrle
+ rec-690-org,    ,  f,  9,  20080822,  pfc,  kyle,  clarke,  ,  south west rocks,  0830,  19,  fornax street,  
+ rec-373-org,    wel,  ,  ,  19481015,  ,  ellie,  goodge,  vic,  dingley village,  4114,  31,  crofts crescent,  
+ rec-513-dup-1,  unk,  f,  29,  19880143,  ,  csltb,  strazpp,  vic,  st kziclda,  3139,  14,  riddell court,  
+ rec-65-org,    usa,  f,  ,  19511211,  ms,  kelsy,  benton,  nsw,  duns creek,  4564,  40,  angliss place,  gorge creek orchards
+ rec-399-org,    usa,  ,  27,  19900620,  ,  charlotte,  simmons,  nsw,  tinonee,  2745,  23,  guthrie street,  brunton
+ rec-472-org,    ,  f,  30,  19870718,  ,  christian,  miles,  nsw,  tottenham,  5608,  ,  ,  
+ rec-840-org,    fin,  f,  37,  19800730,  ms,  leah,  puputti,  vic,  cavendish,  2580,  28,  florence fuller crescent,  
+ rec-737-org,    usa,  f,  25,  19920123,  ms,  lily,  burt,  nsw,  bribbaree,  3644,  17,  freney place,  moreton
+ rec-848-org,    jap,  m,  32,  19850202,  ,  jake,  yamhata,  qld,  kincora,  2261,  29,  la perouse street,  gordale
+ rec-577-org,    eng,  f,  30,  19870930,  ms,  brody,  badcoke,  ,  rossmoyne,  6112,  61,  ,  
+ rec-416-org,    eng,  f,  23,  19940224,  ,  catherine,  haywood,  nsw,  coolangatta,  4031,  8,  duffus place,  greenhills
+ rec-785-org,    eng,  f,  20,  19970613,  ,  zac,  hopson,  sa,  pennington,  4514,  26,  counsel street,  
+ rec-891-org,    usa,  f,  33,  ,  ms,  jemma,  goff,  vic,  para hills,  4873,  10,  medley street,  lazy acres
+ rec-939-org,    ,  f,  ,  19330411,  mr,  noah,  sau,  nt,  kaltukatjara,  2594,  16,  endeavour street,  
+ rec-708-org,    chi,  ,  5,  20120929,  ,  robbie,  dun,  vic,  pomonal,  2258,  11,  lamington street,  
+ rec-450-org,    chi,  ,  25,  19921018,  ,  emiily,  kin,  nsw,  st ives,  3072,  11,  morrow street,  
+ rec-42-org,    ind,  ,  29,  ,  ,  archie,  kandathil,  vic,  woodside,  2086,  69,  ,  
+ rec-901-org,    usa,  m,  ,  ,  ms,  evan,  stein,  vic,  red hill south,  5070,  43,  bonython street,  
+ rec-56-org,    usa,  f,  ,  19980423,  mr,  amelia,  oconnor,  sa,  richmond,  2148,  8,  carnall close,  
+ rec-75-org,    ind,  f,  ,  19111225,  ,  benjamin,  vijayagopalan,  nsw,  baerami creek,  3075,  18,  winnecke street,  sydney road
+ rec-580-org,    usa,  ,  30,  19870725,  ,  samantha,  donaldson,  act,  frenchs forest,  5038,  46,  mcmaster street,  
+ rec-160-org,    por,  f,  29,  19880129,  ms,  eloise,  figueiredo,  qld,  berriedale,  5600,  12,  callaway crescent,  glenlofty
+ rec-637-org,    eng,  ,  13,  20041218,  ,  maya,  paterson,  wa,  dorre island,  4112,  1,  kinchela crescent,  
+ rec-985-org,    rom,  f,  27,  19900219,  ,  hannah,  nastase,  nsw,  breadalbane,  3187,  11,  burramurra avenue,  dooducinn
+ rec-385-org,    ser,  f,  22,  19950220,  ,  madeline,  siprak,  qld,  pine mountain,  2906,  4,  wilton place,  
+ rec-666-org,    ira,  ,  ,  19060508,  ,  deakin,  fallahi,  qld,  millstream,  2790,  25,  ,  craigie-lea
+ rec-771-org,    eng,  f,  37,  19800314,  ,  bethany,  sniders,  nsw,  spicers creek,  2034,  9,  ballumbir street,  
+ rec-158-org,    usa,  f,  32,  19850108,  ,  erin,  phillips,  nsw,  frankston,  6109,  8,  spring range road,  
+ rec-605-org,    ser,  f,  32,  19851001,  ms,  simone,  taniskovic,  nsw,  dyraaba,  3677,  10,  gollan street,  
+ rec-724-org,    usa,  f,  ,  19940718,  ,  amy,  hatfield,  nsw,  sydenham,  2350,  189,  bungonia street,  parkland motor village
+ rec-962-org,    spa,  m,  10,  20070111,  ,  jade,  ,  nsw,  sutton,  2018,  30,  selwyn street,  heritage mobile village
+ rec-948-org,    ind,  f,  28,  19890413,  ms,  oliver,  shivaprakash,  nsw,  panania,  5162,  1467,  richards street,  thorndale
+ rec-824-dup-0,  usa,  f,  30,  19870917,  ,  f:n,  par,  q ld,  goodna,  38 6,  1,  ashcroft crescent,  
+ rec-504-org,    chi,  f,  ,  19241224,  ,  jacob,  yong,  nsw,  ringwood,  4883,  25,  liffey circuit,  sec 960
+ rec-150-org,    eng,  ,  24,  19931204,  ,  ruby,  ,  vic,  wulgulmerang,  3469,  29,  birdwood street,  
+ rec-918-org,    eng,  f,  26,  19910912,  pfc,  annabel,  brigham,  nsw,  willawarrin,  2324,  3,  caley crescent,  brentwood village
+ rec-957-org,    ger,  f,  24,  19930917,  ,  lily,  ,  qld,  goondi bend,  4218,  15,  hopegood place,  gowrie
+ rec-823-org,    ind,  f,  31,  19860426,  dr,  samantha,  ,  ,  paralowie,  4034,  55,  barritt street,  
+ rec-824-dup-2,  usa,  f,  30,  19870 17,  ,  fin,  pa r,  ql d,  good a,  3856,  3,  ashcroft crescent,  
+ rec-243-org,    eng,  f,  10,  20070630,  ms,  makenzie,  mcnab,  ,  orange,  4159,  21,  cossington smith crescent,  
+ rec-862-org,    afr,  f,  25,  19921024,  ,  ruby,  balogun,  ,  panton hill,  4179,  39,  starke street,  
+ rec-67-org,    ser,  ,  25,  19921223,  dr,  henry,  ,  nsw,  windang,  5434,  45,  poynton street,  
+ rec-318-org,    usa,  ,  27,  19901230,  mr,  lillianna,  durham,  nsw,  caves beach,  2148,  26,  limestone avenue,  
+ rec-546-org,    usa,  f,  ,  19730627,  ,  trent,  franks,  nsw,  bungendore,  2455,  44,  fred johns crescent,  hilltop hostel rowethorpe
+ rec-621-org,    chi,  f,  33,  19840719,  ms,  kaitlyn,  gai,  qld,  palm grove,  2583,  316,  chauvel circle,  talooby
+ rec-845-org,    usa,  f,  26,  19910306,  ,  noah,  moss,  sa,  glenside,  4850,  340,  ferdinand street,  
+ rec-170-org,    eng,  f,  30,  19870130,  ms,  holly,  sudworth,  act,  ainslie,  4069,  39,  mckeahnie street,  
+ rec-64-org,    ger,  m,  29,  19880514,  ,  rebecca,  frankenstein,  ,  hamilton,  7004,  17,  reveley crescent,  morago
+ rec-365-org,    eng,  f,  28,  19890323,  mr,  madison,  sackville,  vic,  castlemaine,  3148,  82,  ,  craiglea
+ rec-976-org,    usa,  f,  ,  19200729,  pfc,  nicholas,  vinson,  nsw,  collie,  3054,  63,  burrinjuck crescent,  isavale
+ rec-555-org,    spa,  f,  ,  19550712,  hon,  brooke,  corbelan,  vic,  rathscar,  4178,  114,  gaunson crescent,  ocean crt (cnr beach s street
+ rec-654-org,    eng,  f,  33,  ,  mr,  renai,  cristians,  nsw,  tambar springs,  4216,  3,  kootara crescent,  
+ rec-417-org,    gre,  f,  ,  19311009,  ms,  julia,  kalvos,  nsw,  the entrance,  5290,  31,  belfield crescent,  
+ rec-788-dup-1,  unk,  ,  31,  198604 3,  ,  ella,  scol s   que,  qld,  goo lman,  4O 9,  1 5,  ,  
+ rec-362-org,    unk,  f,  26,  19911212,  ,  elli,  scinto,  act,  chapman,  6153,  12,  john young crescent,  corunna
+ rec-305-org,    jew,  ,  33,  19841026,  ,  tara,  kadish,  ,  mckinnon,  4163,  40,  magarey place,  
+ rec-831-org,    vie,  f,  27,  19900908,  ms,  flynn,  sam,  nsw,  greenhill,  2071,  26,  buckmaster crescent,  creekside cottage
+ rec-319-org,    jap,  f,  27,  19900423,  ,  harry,  takabe,  vic,  lyonville,  5024,  9,  lavan place,  
+ rec-762-dup-0,  rom,  ,  31,  19861026,  ,  eboni,  dodoz,  ns,  homepusth bay,  4216,  9,  federal highway,  
+ rec-811-org,    unk,  f,  ,  19011121,  ,  clodagh,  sciacca,  qld,  iveragh,  5222,  19,  walsh place,  
+ rec-805-dup-2,  eng,  m,  23,  19940722,  ,  elly,  bloxham,  n,  sylvania,  2230,  39,  narrabun esy lane,  albion
+ rec-303-org,    chi,  f,  24,  19931116,  ,  paige,  tsong,  ,  ethelton,  2033,  125,  paul coe crescent,  
+ rec-259-org,    chi,  ,  7,  20100325,  mr,  madeleine,  wu,  wa,  nilgen,  3875,  5,  shannon circuit,  glenlee
+ rec-543-org,    dut,  ,  38,  19791101,  ,  joshua,  seyerling,  nsw,  cessnock,  3939,  5,  barrington crescent,  maalancamp
+ rec-344-org,    wel,  f,  ,  19420901,  ,  thomas,  bennion,  vic,  irymple,  3161,  70,  peppin place,  dundarve
+ rec-602-org,    chi,  f,  ,  19110414,  ,  shawn,  yam,  vic,  ,  4075,  52,  stead place,  
+ rec-413-org,    eng,  f,  ,  ,  ,  corey,  hardwick,  vic,  outtrim,  2456,  5,  darrington crescent,  
+ rec-440-org,    dut,  f,  30,  19870924,  ms,  emalene,  vanhoyweghen,  nsw,  kempsey,  5025,  6,  ranken place,  
+ rec-146-dup-1,  ,  m,  26,  19912011,  pfc,  rilmy,  galrbaith,  nse,  chinderah,  6101,  1895,  blamey crescent,  
+ rec-558-org,    ger,  f,  27,  19901213,  ,  fraser,  wassersug,  qld,  sunshine acres,  4883,  284,  tatchell street,  kyeema
+ rec-687-org,    chi,  f,  25,  19920421,  ,  connor,  cao,  ,  bayview heights,  5073,  211,  shortland crescent,  st georges park
+ rec-438-dup-1,  unk,  f,  Z,  19910518,  ho n,  mas n,  5treck uss,  nsw,  duri,  3264,  1 1,  steele street,  
+ rec-567-org,    usa,  f,  ,  19010423,  ,  ethan,  combs,  ,  view bank,  3030,  5,  arabana street,  
+ rec-575-org,    dan,  ,  ,  19020612,  hon,  daniel,  kotzebue,  sa,  port elliot,  4226,  24,  hemmant street,  
+ rec-945-org,    eng,  f,  34,  19831219,  ms,  blake,  carlyle,  vic,  epping,  4122,  1,  cordeaux street,  barton view
+ rec-74-org,    ind,  f,  25,  ,  mr,  paris,  gunendran,  sa,  ,  2382,  184,  marlee place,  
+ rec-597-org,    eng,  ,  27,  19901227,  ,  ned,  elmerson,  wa,  boorara,  2154,  11,  sheaffe street,  pontresina
+ rec-256-org,    unk,  ,  32,  19850427,  ,  cain,  stratou,  qld,  mount stanley,  3810,  22,  john russell circuit,  
+ rec-727-org,    usa,  f,  32,  19850625,  ,  georgia,  mcleod,  nsw,  ,  2318,  78,  jerome place,  
+ rec-598-org,    jap,  ,  35,  19820310,  ,  peter,  tommii,  qld,  toorbul,  5070,  21,  marien place,  wrensfield
+ rec-871-org,    eng,  m,  10,  20070201,  mr,  adele,  rutherfurd,  qld,  wynnum west,  6024,  52,  karuah street,  
+ rec-298-org,    usa,  ,  27,  19900918,  rev,  blake,  case,  nsw,  moe,  2604,  107,  sharland place,  rosehill
+ rec-320-org,    ita,  ,  9,  20080824,  ,  benjamin,  boccasino,  ,  emerald,  5042,  16,  hansen circuit,  
+ rec-249-org,    abo,  f,  ,  19651128,  ,  joshua,  ofanengaue,  qld,  nome,  3980,  10,  kerrigan street,  
+ rec-415-org,    ser,  f,  29,  ,  ms,  paige,  fogec,  ,  louth bay,  2031,  5,  ,  
+ rec-566-org,    pak,  ,  10,  20071111,  ,  jett,  muhammad,  nsw,  auburn,  2470,  19,  jandamarra street,  
+ rec-93-org,    eng,  f,  ,  ,  dr,  alexander,  clausson,  qld,  silver creek,  3759,  209,  eggleston crescent,  marina one
+ rec-923-org,    eng,  f,  23,  19940911,  ,  mattheo,  hilton,  wa,  warwick,  3930,  6,  bolali place,  
+ rec-314-org,    unk,  ,  33,  19840525,  ms,  ky,  abadi,  wa,  widgiemooltha,  3823,  77,  prichard circuit,  
+ rec-141-dup-0,  usa,  m,  ,  19150102,  dr,  ,  warejr,  nsw,  clovelly,  3125,  9,  girdlestone circuit,  sec 791
+ rec-304-org,    ger,  f,  29,  19880526,  ms,  caitlin,  hammerstein,  vic,  collins street west,  4006,  23,  jackie howe crescent,  nyngan
+ rec-358-org,    afg,  ,  33,  19840201,  mr,  joel,  hazara,  qld,  ellen grove,  3198,  187,  ,  glenview
+ rec-913-org,    usa,  ,  ,  19970709,  ms,  jesse,  bailey,  ,  port elliot,  4350,  162,  beaumont close,  stockland cairns
+ rec-113-org,    chi,  m,  33,  19840127,  mr,  tara,  hsieh,  sa,  marden,  2122,  26,  harris street,  
+ rec-121-org,    ita,  f,  32,  19850129,  mr,  michael,  maitan,  qld,  lavington,  2142,  4,  beattie crescent,  
+ rec-521-org,    eng,  f,  32,  19850331,  ms,  andrew,  rennold,  nsw,  ballalaba,  2283,  4,  crisp circuit,  burramunda
+ rec-400-org,    unk,  f,  35,  19820401,  ,  caleb,  scolastique,  wa,  inggarda,  2294,  33,  nardoo crescent,  
+ rec-969-dup-0,  tur,  f,  29,  19881116,  ms,  emii y,  tanaoglu,  n svv,  terrey ills,  2203,   2,  stonehaven crescent,  marylands
+ rec-346-org,    ira,  f,  21,  19961114,  ,  isabelle,  gharibian,  qld,  yandaran,  2478,  9,  maranboy street,  buderim meadows
+ rec-623-org,    unk,  f,  31,  19860521,  ,  jarrod,  strampher,  qld,  mackay mc,  ,  8,  davitt close,  
+ rec-852-org,    fin,  f,  ,  ,  ,  joel,  sivonen,  vic,  colbinabbin,  2583,  275,  mills place,  
+ rec-951-org,    ,  ,  24,  ,  ms,  holly,  vettese,  vic,  walpa,  2168,  ,  pulleine crescent,  beredon
+ rec-437-org,    usa,  ,  37,  19800426,  ,  genevieve,  roy,  nsw,  cronulla,  6030,  106,  newman morris circuit,  riana
+ rec-953-org,    eng,  m,  35,  ,  ,  liam,  rowntree,  qld,  tamborine mountain,  3104,  23,  bruch road,  sunbury
+ rec-159-org,    eng,  f,  28,  19890715,  hon,  benjamin,  dennell,  qld,  emerald,  4036,  48,  clydesteel avenue,  
+ rec-234-dup-1,  ind,  v,  ,  19211130,  dr,  aston,  indrani,  vic,  tongala,  4615,  15,  namadsira sdrit,  
+ rec-131-org,    unk,  ,  ,  19750501,  ms,  sarah,  abat,  nsw,  bendemeer,  2259,  19,  carslaw street,  
+ rec-679-org,    chi,  ,  9,  20080318,  ,  katherine,  chau,  nsw,  pelton,  3131,  43,  gabriel place,  
+ rec-782-org,    usa,  f,  27,  19901101,  ms,  melanie,  rowe,  nsw,  kamarah,  4059,  194,  tauss place,  
+ rec-267-org,    usa,  f,  28,  ,  ,  shaun,  duncan,  nsw,  moore park,  3114,  6,  baskerville street,  bethany
+ rec-118-org,    unk,  f,  ,  19330717,  ,  spyke,  scopel,  nsw,  denistone,  6503,  49,  campbell street,  
+ rec-922-org,    unk,  ,  26,  19910522,  pfc,  dillon,  scofield,  wa,  ettalong,  2165,  14,  jindabyne street,  
+ rec-559-org,    usa,  f,  34,  19830608,  dr,  oscar,  oneill,  sa,  jervois,  3186,  63,  albermarle place,  wilga
+ rec-246-org,    ind,  ,  36,  19810322,  ms,  kira,  godambe,  qld,  bushley,  ,  234,  chapman street,  
+ rec-960-org,    tha,  m,  33,  19840402,  ,  emmerson,  praves,  qld,  graceville,  3555,  1,  ,  
+ rec-137-dup-1,  ina,  f,  31,  ,  ms,  maaley,  tzantra,  qlt,  klenrokk,  2745,  75,  fellows sdreet,  eight mile
+ rec-789-org,    jap,  ,  9,  20080617,  ,  amelia,  omori,  wa,  bannister,  2850,  201,  davidson street,  
+ rec-806-org,    jew,  f,  ,  19890702,  ms,  jed,  ,  nsw,  gunbar,  3165,  44,  chippindall circuit,  
+ rec-849-org,    ser,  ,  22,  19950411,  ,  elizabeth,  topic,  nsw,  mount annan,  3550,  73,  groom street,  
+ rec-144-org,    chi,  f,  23,  19940208,  ,  kaitlyn,  pi,  vic,  horsham,  2259,  2,  tudawalli place,  harvies haven
+ rec-556-dup-1,  ser,  f,  29,  19881121,  pfc,  amalia,  buzo ic,  n sw,  tweedheads,  z902,   2 9,  galloway street,  
+ rec-812-org,    eng,  ,  44,  19731109,  ,  bayley,  christopher,  nsw,  wandandian,  5018,  169,  langdon avenue,  
+ rec-890-org,    eng,  f,  ,  19600115,  ,  riley,  wootton,  nsw,  east lindfield,  4121,  40,  archibald street,  millard centre
+ rec-277-org,    ind,  m,  38,  19790910,  ms,  madeline,  kriplani,  nsw,  greta,  6164,  26,  holt place,  banksia
+ rec-612-org,    tha,  f,  ,  19970626,  ,  ebonie,  silpaarcha,  wa,  lake grace,  6255,  15,  pearson street,  
+ rec-963-org,    ger,  f,  30,  19870911,  ms,  lewis,  kirchbach,  wa,  erskine,  2777,  18,  williams street,  
+ rec-477-org,    ser,  f,  23,  19941120,  ,  ,  adamovic,  vic,  bogong,  4555,  100,  maddock place,  
+ rec-414-org,    unk,  f,  28,  19890409,  ,  benjamin,  sclater,  vic,  peronne,  2460,  46,  hindmarsh drive,  north point plaza
+ rec-805-dup-1,  eng,  f,  23,  19940722,  ,  elly,  bloxham,  wa,  sylvania,  2230,  39,  forsyth place,  
+ rec-720-org,    chi,  f,  22,  19950802,  dr,  adela,  awyeung,  nsw,  bankstown,  5014,  74,  currong street,  
+ rec-773-org,    eng,  f,  32,  19850808,  ,  jade,  travers,  nsw,  lake cargelligo,  6156,  12,  whitfield circuit,  
+ rec-894-org,    ser,  ,  ,  19870502,  pfc,  kane,  dziewulski,  nsw,  grays point,  3337,  20,  sherbrooke street,  
+ rec-192-org,    eng,  f,  29,  19881105,  ,  millie,  royston,  vic,  cheltenham,  6050,  2,  ballumbia street,  
+ rec-624-org,    unk,  f,  22,  19950709,  ,  brendan,  scollard,  nsw,  warners bay,  6152,  2,  arawang lane,  
+ rec-157-org,    eng,  m,  34,  19831225,  ,  sophie,  martins,  nsw,  valla beach,  3165,  8,  buntine crescent,  
+ rec-390-org,    unk,  f,  34,  19831107,  ,  aaron,  strainij,  qld,  camp hill,  2780,  7,  richmond street,  
+ rec-857-org,    sri,  f,  28,  19891202,  ,  macey,  gunasekara,  nsw,  emerald beach,  4720,  216,  hakea crescent,  morgiana
+ rec-561-org,    ger,  f,  ,  19490530,  mr,  blake,  derr,  sa,  westbourne park,  3644,  7,  ross smith crescent,  
+ rec-336-org,    usa,  m,  34,  19830711,  ,  isabella,  hyde,  nsw,  padstow,  4518,  305,  shackleton circuit,  
+ rec-301-org,    ger,  f,  ,  19791217,  mr,  owen,  klingberg,  vic,  albion park rail,  3029,  2,  barraclough crescent,  brandywine stud
+ rec-107-org,    usa,  f,  ,  19540521,  ,  jacob,  joyce,  sa,  yankalilla,  3193,  19,  martens crescent,  lvel 2180
+ rec-908-org,    usa,  f,  ,  ,  ,  alisa,  salinas,  qld,  cooran,  2089,  10,  mcinnes street,  
+ rec-447-org,    eng,  ,  ,  19910328,  ms,  natalia,  harman,  vic,  kiata,  5161,  1255,  mawalan street,  the wedge
+ rec-928-org,    ind,  f,  28,  19891122,  ,  isabella,  dalmiya,  wa,  nyabing,  4352,  231,  hedland circuit,  
+ rec-739-org,    hun,  f,  25,  19920917,  ms,  nikita,  csaba,  qld,  mackenzie river,  4013,  230,  tullaroop street,  milton
+ rec-667-org,    eng,  f,  33,  19840726,  ms,  isaac,  dennell,  qld,  deagon,  2535,  269,  enderby street,  myola glen
+ rec-614-org,    eng,  f,  38,  19791211,  mr,  deakin,  ,  nsw,  south coogee,  6149,  3,  yates garden,  
+ rec-970-org,    unk,  f,  ,  19210213,  ms,  mitchell,  aballon,  qld,  howard,  5172,  34,  stace place,  
+ rec-426-org,    wel,  f,  20,  19970812,  mr,  madeline,  bedward,  nsw,  canley vale,  3111,  1,  chevalier street,  
+ rec-370-org,    nor,  f,  24,  19930202,  ms,  charlotte,  tonder,  ,  norwood,  3041,  39,  morrow street,  
+ rec-93-dup-2,  eng,  f,  ,  ,  dr,  alexander,  clauson,  qld,  silver creek,  3759,  20 ,  egglesto n rescent,  marina one
+ rec-635-org,    ger,  ,  21,  19960729,  ,  james,  narr,  nsw,  gowrie,  6167,  34,  kennedy street,  mornington ret vlg
+ rec-363-org,    usa,  f,  25,  19921001,  ,  marko,  foley,  vic,  koetong,  2905,  71,  ,  sec 619
+ rec-37-org,    usa,  f,  38,  19790921,  ,  liam,  french,  vic,  winchelsea,  4350,  57,  english court,  
+ rec-211-org,    unk,  m,  28,  19890816,  ,  logan,  aaternir,  nsw,  paralowie,  2259,  218,  mccormack street,  glenfine station
+ rec-171-org,    jew,  f,  26,  19910424,  ,  nicholas,  hadar,  vic,  drillham,  4078,  11,  guthridge crescent,  kimberly vale
+ rec-180-org,    chi,  f,  ,  ,  dr,  luke,  dzeng,  sa,  dernancourt,  7304,  22,  harry hopman circuit,  
+ rec-650-org,    nor,  f,  ,  19620120,  ,  luca,  flo,  qld,  coolbellup,  4215,  131,  mullan street,  
+ rec-551-org,    ger,  ,  33,  19840331,  ,  aleisha,  buchholz,  vic,  staughton vale,  2481,  16,  jondol place,  
+ rec-734-org,    eng,  ,  25,  19920913,  ,  ,  huxtable,  wa,  cowcowing,  3205,  6,  suttor street,  
+ rec-332-org,    chi,  f,  30,  19871216,  ,  thomas,  qian,  nsw,  redhead,  3150,  6,  ,  
+ rec-223-dup-0,  chi,  f,  31,  ,  ,  mila,  farah,  nsw,  menangl jpark,  2920,  3,  cockcroft avenue,  palazz
+ rec-1-org,    eng,  f,  22,  ,  ,  emiily,  merricks,  ,  mirrabooka,  2232,  8,  bunton place,  
+ rec-498-org,    usa,  m,  ,  19550106,  ,  aidan,  henry,  ,  coolbellup,  3103,  3,  lewin street,  
+ rec-112-org,    usa,  f,  31,  19861011,  hon,  mitchell,  galloway,  qld,  seaforth,  2065,  12,  macarthur place,  
+ rec-740-org,    usa,  f,  ,  19580318,  ms,  timothy,  marks,  nsw,  dangar island,  2758,  14,  clive steele avenue,  
+ rec-140-org,    chi,  f,  30,  19871124,  ms,  jessica,  syau,  vic,  campbelltown,  3355,  6,  ,  
+ rec-971-org,    eng,  f,  27,  19901019,  ,  christian,  sniders,  nsw,  springdale,  3842,  140,  lyall crescent,  henzells plaza
+ rec-990-org,    unk,  f,  ,  19680303,  ,  lillian,  aballon,  qld,  parkhurst,  2035,  46,  forbes street,  stoney station
+ rec-137-org,    ina,  f,  31,  ,  ms,  marley,  tjandra,  qld,  glenrock,  2745,  75,  fellows street,  eight mile
+ rec-842-org,    unk,  f,  ,  ,  ,  kate,  strawbridge,  ,  port macquarie,  3304,  4,  powlett street,  
+ rec-218-org,    unk,  ,  ,  19970201,  ,  jackson,  sclater,  nsw,  mullumbimby,  4152,  10,  moran place,  
+ rec-889-org,    eng,  f,  31,  ,  ,  ebony,  quincy,  qld,  finch hatton,  2565,  2,  canning street,  
+ rec-501-dup-0,  usa,  f,  37,  19800526,  ms,  tyleah,  lezttter,  fic,  upei,  3088,  40,  stouter place,  kelkoola
+ rec-825-org,    eng,  f,  34,  19830608,  dr,  ysobel,  mclain,  qld,  athol,  2650,  22,  kavel street,  
+ rec-851-org,    jew,  f,  20,  ,  mr,  kayla,  argov,  nsw,  tingha,  2196,  2,  werong close,  
+ rec-556-dup-0,  ser,  f,   2 9,  1988 121,  pfc,  amalia,  buzolic,  ns ,  tweed  ads,  2902,  2 ,  galloway street,  
+ rec-48-org,    ara,  ,  28,  19890128,  mr,  fyynlay,  ,  wa,  greenwood,  2539,  45,  beaumont close,  forster specialist medical centre
+ rec-493-org,    ind,  m,  30,  19871231,  ,  luke,  doenani,  vic,  lovely banks,  2753,  630,  kambalda crescent,  skilbister
+ rec-977-org,    iri,  f,  21,  19960329,  ,  olivia,  sheridan,  nsw,  airds,  3788,  4,  somerset street,  
+ rec-846-org,    chi,  f,  25,  19920711,  ,  courtney,  teoh,  nsw,  kyle bay,  3199,  54,  freda gibson circuit,  
+ rec-196-org,    eng,  ,  6,  20110720,  ms,  jack,  spear,  sa,  coober pedy,  4350,  52,  knox street,  
+ rec-759-org,    pak,  f,  ,  19280321,  ,  jacob,  aagari,  qld,  windeyer,  2444,  106,  finlayson place,  
+ rec-589-org,    usa,  m,  19,  19981031,  ,  jessica,  hendricks,  vic,  bungador,  3108,  165,  darlot place,  bernleigh
+ rec-933-org,    unk,  ,  25,  19920915,  ,  olivia,  scottjackson,  vic,  clayton,  2290,  58,  hurley street,  hawksview
+ rec-210-dup-1,  eng,  ,  26,  19910730,  ,  zoekdztua,  winfield,  qld,  allingham,  3144,  14,  howitt street,  
+ rec-266-org,    unk,  f,  28,  19890718,  ,  jasmine,  abadi,  wa,  nulsen,  4101,  4,  ambalindum street,  glenmore
+ rec-127-org,    rom,  f,  27,  19900914,  ,  jacqueline,  siperco,  vic,  noble park,  5221,  76,  jondol place,  
+ rec-832-org,    chi,  ,  25,  19920305,  ,  noah,  sang,  ,  wangi wangi,  6014,  53,  clement place,  
+ rec-816-org,    afg,  ,  29,  19880426,  mr,  christian,  bettani,  nsw,  forest hill,  2263,  54,  wilkins street,  
+ rec-282-org,    ira,  m,  7,  20101013,  ,  ,  rezaei,  ,  christies beach,  4220,  7,  achernar close,  telooma
+ rec-274-org,    ind,  f,  25,  19920807,  ms,  chantelle,  katragadda,  nsw,  croydon,  4305,  349,  echo place,  ponderosa
+ rec-936-org,    ara,  m,  25,  19920713,  ms,  jack,  noreen,  sa,  loxton north,  6076,  ,  mcgee place,  
+ rec-886-org,    chi,  f,  29,  19881215,  ,  samantha,  ssutu,  vic,  kings park,  3139,  50,  cumpston place,  
+ rec-357-org,    chi,  f,  39,  19781129,  ,  joshua,  guang,  nsw,  castle hill,  4305,  4,  florence fuller crescent,  
+ rec-670-org,    chi,  f,  24,  19930212,  ms,  thomas,  tuenmuk,  nsw,  hastings point,  6430,  75,  mackennal street,  wingara
+ rec-356-org,    usa,  ,  37,  19801223,  ,  tate,  francis,  nsw,  harwood,  4740,  1,  notting court,  
+ rec-693-org,    usa,  ,  29,  19880918,  ,  hannah,  jordan,  ,  toowoomba,  5031,  20,  mcmanus place,  
+ rec-262-org,    ara,  ,  ,  19340918,  ,  rosie,  afiyah,  tas,  don,  2035,  15,  broadbent street,  busselton holiday village
+ rec-584-org,    ,  f,  31,  19860512,  ,  william,  penno,  qld,  dianella,  4124,  11,  hackett garden,  southern cross
+ rec-548-org,    usa,  ,  30,  19870711,  ms,  amelia,  vance,  nt,  elwood,  3125,  68,  fortescue place,  glenhay
+ rec-630-org,    ,  m,  4,  20131229,  ,  andrew,  pascale,  nsw,  shoal bay,  2539,  4,  hosking place,  paddington place
+ rec-505-org,    eng,  f,  28,  19890916,  ,  jaggah,  earl,  qld,  diddillibah,  2148,  6,  pattinson crescent,  
+ rec-652-org,    eng,  f,  42,  19751114,  pfc,  blake,  earl,  vic,  gredgwin,  3550,  29,  livingston avenue,  morningsite
+ rec-4-org,    hun,  ,  38,  19790218,  ,  jacob,  dombi,  ,  forrestfield,  2194,  5,  serpentine street,  
+ rec-745-dup-2,  sri,  f,  8,  20090 03,  hon,  brod e,  ranatunga,  nsw,  rossmore,  3 2 5,  71,  throsby  rescent,  nunk  i
+ rec-876-org,    eng,  f,  38,  19790409,  ,  ,  abel,  qld,  moore park beach,  3130,  3,  namatjira drive,  
+ rec-788-dup-0,  unk,  ,  3 ,  1986  13,  ,  ell ,  scolastique,  qld,  goolman,  406 9,  1 ,  ,  
+ rec-94-org,    tha,  ,  13,  20040923,  ,  reuben,  wongrutiyan,  qld,  lower tenthill,  5169,  20,  donnan street,  
+ rec-780-org,    usa,  ,  35,  19821021,  dr,  sarah,  barlow,  nsw,  dunkeld,  2580,  47,  verbrugghen street,  
+ rec-576-org,    ,  ,  29,  19881023,  gen,  ,  feil,  qld,  geebung,  6082,  2,  forwood street,  adelaide dental hospital
+ rec-217-org,    ser,  f,  13,  20040606,  ms,  jacobie,  majic,  qld,  doughboy,  2148,  11,  wedgewood close,  
+ rec-164-org,    usa,  f,  ,  19821121,  ,  michael,  larson,  wa,  withers,  2880,  184,  ,  rowethorpe
+ rec-345-dup-0,  afr,  f,  ,  19010121,  mr,  chloe,  jag ne,  vic,  south me l ourne,  318 ,  1,  roderickstreet,  
+ rec-7-org,    unk,  f,  23,  ,  ms,  lucy,  stranger,  qld,  bracken ridge,  2018,  1,  rivett street,  
+ rec-790-dup-0,  vie,  f,  ,  19630611,  ,  sophie,  tra,  nsw,  upper bowman,  2170,  30,  hopegood place,  meadowvale village
+ rec-984-org,    spa,  f,  ,  19640519,  dr,  adam,  belande,  ,  anglesea,  3093,  1,  rufus place,  waddi
+ rec-32-dup-1,  pol,  f,  ,  19520221,  ,  edwarhd,  ciejinski,  njw,  balmain east,  3976,  13,  ogilvie place,  
+ rec-352-org,    unk,  m,  12,  20050609,  ,  dominic,  strazzari,  vic,  peterborough,  5162,  4,  paul coe crescent,  longridge
+ rec-972-org,    eng,  ,  24,  19930929,  ,  zack,  aitken,  nsw,  hamilton south,  3444,  2,  williams street,  bowen palms caravan park
+ rec-59-org,    unk,  f,  30,  19870207,  dr,  katelyn,  aani,  nsw,  bonnyrigg,  7030,  21,  florence taylor street,  rosehill
+ rec-828-org,    ind,  f,  21,  19960827,  ,  emma,  sathianarayan,  qld,  eton,  3070,  14,  william wilkins crescent,  
+ rec-661-org,    wel,  ,  32,  19850125,  ,  abby,  humphreys,  wa,  hoddys well,  2000,  42,  chaffey crescent,  
+ rec-597-dup-0,  eng,  ,  27,  19901227,  ,  nd,  elmeahstton,  wa,  purara,  2154,  11,  sheaffe street,  pontrezina
+ rec-797-org,    eng,  f,  ,  19671127,  ,  christian,  hawking,  vic,  redesdale,  2033,  ,  chevalier street,  
+ rec-438-org,    unk,  f,  26,  19910518,  hon,  mason,  streckfuss,  nsw,  duri,  3264,  11,  steele street,  
+ rec-281-org,    fin,  f,  29,  19880924,  ms,  michael,  linna,  nsw,  tooleybuc,  2780,  27,  macdonnell street,  
+ rec-717-org,    ger,  f,  ,  19050402,  ms,  alex,  kerwer,  ,  pottsville,  4390,  8,  spigl street,  
+ rec-790-org,    vie,  f,  ,  19630611,  ,  sophie,  tra,  nsw,  upper bowman,  2170,  30,  hopegood place,  meadowvale village
+ rec-926-org,    ,  f,  25,  19921224,  mr,  kayne,  maynard,  nsw,  carrathool,  2297,  19,  dines place,  
+ rec-778-dup-0,  usa,  f,  29,  19880709,  ,  summer,  parks,  wa,  inglewood,  2099,  4,  stieglitz circuit,  oatlands court
+ rec-165-org,    chi,  ,  30,  19870911,  ms,  olivia,  ieong,  act,  macgregor,  5091,  40,  moulden court,  
+ rec-596-org,    ser,  m,  29,  19880712,  ,  chloe,  ramic,  nsw,  wyndham,  4054,  37,  wearing street,  
+ rec-234-dup-0,  ind,  f,  ,  19211130,  dr,  ajton,  intrani,  vic,  donkala,  4615,  15,  namadjira sdreet,  
+ rec-549-org,    cze,  m,  31,  19860417,  ,  jai,  soukop,  ,  batchelor,  ,  ,  greenhood place,  
+ rec-547-org,    fre,  ,  7,  20100128,  ,  talia,  diomede,  vic,  anakie,  4565,  335,  hagen place,  hillcrest lodge
+ rec-887-org,    fre,  f,  8,  20090217,  ms,  ryleh,  latouche,  vic,  taylors lakes,  5023,  31,  totterdell street,  
+ rec-195-org,    ara,  f,  ,  19940912,  ,  teagan,  ghareebah,  vic,  costerfield,  2151,  21,  cobbadah street,  
+ rec-451-org,    eng,  f,  ,  19250113,  pfc,  sidonie,  garrod,  qld,  willows gemfields,  2768,  246,  allambee street,  
+ rec-536-org,    jew,  f,  37,  ,  ,  mitchell,  lebzelter,  qld,  emerald,  4350,  5,  feltus place,  
+ rec-501-dup-1,  usa,  v,  37,  19800526,  ms,  tyler,  lejtea,  vic,  upey,  3088,  40,  jouter plase,  ckelgoola
+ rec-123-org,    eng,  m,  ,  19861004,  ,  georgia,  dennel,  qld,  teebar,  2250,  78,  tipiloura street,  little glencoe
+ rec-837-org,    wel,  f,  38,  19790428,  ,  matthew,  ceidiog,  wa,  lumeah,  2439,  45,  chevalier street,  
+ rec-534-org,    chi,  f,  32,  ,  ,  alana,  shou,  nsw,  bindoon,  6162,  5,  barr-smith avenue,  
+ rec-855-org,    pol,  f,  25,  19921108,  ,  sascha,  borzecki,  nsw,  dean park,  5048,  12,  davenport street,  hansons estate
+ rec-544-org,    iri,  m,  26,  19910916,  ms,  jed,  oneill,  nsw,  corrimal,  5213,  31,  hindmarsh drive,  
+ rec-103-org,    ger,  f,  26,  19910727,  ,  jacqueline,  schuster,  nsw,  bedgerebong,  2701,  48,  hodgson crescent,  northwest medical centre
+ rec-870-org,    unk,  f,  26,  19910728,  ,  jack,  aarcy,  vic,  ballarat west,  2580,  1025,  cameron street,  
+ rec-582-org,    chi,  f,  28,  19890112,  ,  sophie,  thien,  nsw,  murrumbateman,  3995,  56,  shumack street,  mount patrick
+ rec-412-org,    usa,  f,  36,  19810906,  dr,  mikaela,  holder,  nsw,  nimmitabel,  5066,  23,  jim pike avenue,  gerapna
+ rec-115-org,    ser,  f,  28,  19891222,  ms,  harrison,  pogelsek,  nsw,  cooleys creek,  4103,  8,  gurubun close,  
+ rec-203-org,    sri,  f,  24,  19931016,  ms,  sam,  nagendra,  ,  orelia,  2155,  56,  enid lorimer circuit,  
+ rec-672-org,    abo,  ,  27,  19901111,  ,  lachlan,  worosun,  vic,  gwandalan,  2126,  58,  hensman street,  qunaba
+ rec-122-org,    jap,  f,  39,  19780810,  ,  finn,  ogiwara,  nsw,  kariong,  4346,  30,  cardell place,  
+ rec-786-dup-0,  usa,  f,  29,  19880728,  ms,  sadst,  flowers,  ,  mosman,  2754,  6,  zabanunkga avenue,  amarilo
+ rec-326-org,    jap,  ,  12,  20050624,  pfc,  harrison,  kusunoki,  wa,  metricup,  4350,  35,  chandler street,  
+ rec-461-org,    ara,  f,  29,  ,  ,  kane,  saida,  qld,  coominglah forest,  3148,  17,  berne crescent,  
+ rec-479-org,    rom,  f,  27,  ,  ,  mia,  munteanu,  vic,  barwon downs,  3163,  63,  walsh place,  
+ rec-934-org,    unk,  f,  34,  19830311,  ms,  chelsea,  sclafani,  act,  bonython,  3150,  18,  terewah circuit,  parkfield
+ rec-509-org,    chi,  f,  29,  19880928,  hon,  hayley,  hsia,  vic,  violet town,  3133,  125,  bundock place,  cooee palms
+ rec-473-org,    usa,  m,  23,  19940210,  ,  joanna,  mayo,  qld,  cranbourne north,  3304,  315,  longley place,  currandina
+ rec-489-org,    por,  f,  30,  19870630,  ms,  aiden,  sousa,  nsw,  grogan,  4816,  70,  pearson street,  ashell
+ rec-863-org,    por,  m,  ,  ,  ,  noah,  azocar,  nsw,  miranda,  2087,  195,  state circle,  marohn
+ rec-14-org,    unk,  f,  ,  19780504,  ms,  isabelle,  scolastique,  vic,  numurkah,  2042,  5,  carstensz street,  berkeley vlge
+ rec-777-org,    nor,  f,  19,  19981027,  ms,  sachin,  mostue,  nsw,  owens gap,  4558,  16,  o'halloran circuit,  
+ rec-310-org,    unk,  ,  30,  19870506,  mr,  matthew,  scottjackson,  qld,  loganholme,  2122,  113,  carnegie crescent,  
+ rec-81-org,    ina,  ,  30,  19871029,  ms,  rachel,  wibowo,  nsw,  orange,  4053,  19,  ainslie avenue,  
+ rec-809-org,    gre,  m,  30,  19870318,  ms,  bridget,  kazantzaki,  nsw,  neville,  3166,  131,  davitt close,  
+ rec-660-org,    tha,  f,  26,  19910906,  mr,  robbie,  suprija,  tas,  glenlusk,  3850,  134,  cobar place,  
+ rec-503-org,    ind,  ,  28,  19891120,  ,  callum,  vishwamber,  vic,  keysborough,  3169,  9,  glenorchy street,  
+ rec-730-org,    ind,  f,  25,  19920414,  mr,  chloe,  nachnani,  nsw,  woodrising,  2560,  15,  dines place,  
+ rec-349-org,    wel,  m,  34,  19830214,  ,  madelyn,  nanney,  tas,  penna,  3075,  44,  charterisville avenue,  sec 64
+ rec-308-org,    eng,  f,  22,  19951005,  ,  jacob,  tasker,  wa,  toodyay,  2095,  26,  darwinia terrace,  
+ rec-641-org,    pak,  f,  39,  19780110,  ms,  livia,  bizenjo,  vic,  tidal river,  3083,  82,  furphy place,  dental 3 garden city shopping centre
+ rec-456-org,    spa,  f,  ,  19260719,  ,  olivia,  hurtado,  ,  thornlie,  3204,  2,  krichauff street,  
+ rec-707-org,    eng,  m,  ,  19891128,  ,  shakira,  brewster,  wa,  coonabidgee,  0810,  9,  leahy close,  boronia
+ rec-422-org,    usa,  f,  22,  19950528,  ms,  deakin,  randolph,  nsw,  stanwell tops,  3782,  2,  mcburney crescent,  horseshoe bend
+ rec-114-org,    unk,  ,  ,  19191115,  ,  joe,  strainij,  vic,  lynbrook,  2580,  65,  maygar street,  
+ rec-838-org,    ser,  f,  26,  19910825,  hon,  amelia,  velic,  wa,  ardross,  3630,  26,  jondol place,  
+ rec-492-org,    chi,  m,  30,  19870721,  ,  thomas,  hsieh,  ,  warburton east,  4061,  10,  kenyon circuit,  
+ rec-648-org,    eng,  f,  32,  19851111,  ,  aleisha,  bullard,  wa,  wilgarrup,  3131,  15,  finniss crescent,  
+ rec-148-org,    eng,  m,  34,  19830724,  ,  beau,  raynerson,  ,  malvern east,  6450,  7,  jackie howe crescent,  
+ rec-28-org,    fre,  ,  10,  20070121,  ,  dylan,  perrey,  vic,  viewbank,  3188,  ,  kintore crescent,  
+ rec-62-org,    usa,  f,  33,  19840609,  ,  emiily,  hardy,  vic,  barrabool,  7005,  4,  newland street,  robb farm
+ rec-227-org,    eng,  ,  33,  19840107,  ,  aikaterina,  sharman,  vic,  rupanyup,  6167,  6,  julia flynn avenue,  
+ rec-216-org,    usa,  f,  28,  19890116,  ms,  natalia,  mcbride,  ,  granville,  2007,  73,  keith street,  
+ rec-668-org,    ind,  ,  31,  19861208,  ,  connor,  darsha,  vic,  maude,  5253,  117,  mataranka street,  
+ rec-68-org,    unk,  f,  35,  19820215,  ,  georgia,  aakre,  nsw,  nulkaba,  4671,  124,  james street,  amble side garden
+ rec-210-dup-2,  eng,  ,  26,  19910730,  ,  jostthua,  winfielt,  qld,  allingham,  3144,  14,  owitt street,  
+ rec-90-org,    afr,  f,  37,  ,  ,  ashleigh,  appiah,  ,  scarness,  2035,  9,  whitham place,  
+ rec-452-org,    swe,  ,  33,  19840323,  ,  jacob,  isberg,  qld,  camp mountain,  3393,  4,  angliss place,  dugout 65
+ rec-721-org,    eng,  f,  37,  ,  ,  jessica,  proudfoot,  ,  woy woy,  6725,  3,  grigg place,  
+ rec-570-org,    chi,  m,  ,  19141121,  ,  riley,  chan,  wa,  amelup,  3216,  14,  tatchell street,  peak view
+ rec-632-org,    ira,  f,  25,  19921127,  ms,  jack,  salehi,  act,  eaglehawk,  5016,  25,  saville close,  
+ rec-420-org,    ger,  f,  23,  19940722,  ,  taylor,  lingen,  wa,  bulgarra,  2810,  10,  ,  
+ rec-209-org,    chi,  f,  36,  19810824,  ,  keegan,  lyu,  qld,  taroomball,  6052,  278,  suttor street,  
+ rec-371-dup-1,  usa,  ,  3 ,  ,  ,  chel ea,  carver,  w a,  welljngto  forest,  5608,  3,  ,  
+ rec-278-org,    eng,  f,  21,  19960520,  mr,  katelin,  cristiansen,  vic,  creighton,  3168,  86,  majura avenue,  
+ rec-5-org,    unk,  ,  24,  19930622,  ,  tiana,  scorsone,  qld,  rosella,  5000,  7,  young street,  
+ rec-194-org,    chi,  f,  32,  19850507,  mr,  matthew,  ngai,  nsw,  yarrawonga,  2028,  10,  hallstrom circuit,  garden settlement
+ rec-882-org,    chi,  f,  34,  19830420,  ,  michael,  gao,  nsw,  lavington,  4350,  12,  dunlop street,  
+ rec-805-org,    eng,  m,  23,  19940722,  ,  elly,  bloxham,  wa,  sylvania,  2230,  39,  forsyth place,  albion
+ rec-177-org,    chi,  f,  30,  ,  ,  quinn,  tuanmu,  qld,  greycliffe,  4122,  72,  hardwick crescent,  diment towers
+ rec-72-org,    eng,  m,  ,  19540925,  mr,  jeremiah,  rennold,  vic,  manunda,  4814,  101,  philp place,  pinelea
+ rec-867-org,    eng,  f,  28,  19890907,  ,  joshua,  danniel,  nsw,  kurrajong,  3193,  64,  antill street,  
+ rec-476-org,    usa,  f,  27,  19900211,  ms,  juliana,  ochoa,  vic,  yandoit,  5074,  3,  lipscomb place,  
+ rec-125-org,    ara,  f,  36,  19810102,  ,  talia,  baseema,  tas,  westerway,  3636,  61,  whitty crescent,  glen mia
+ rec-458-org,    chi,  f,  28,  19891215,  ms,  jye,  kuk,  sa,  dalbeg,  6169,  62,  wadham place,  
+ rec-411-org,    tur,  ,  32,  19850630,  ,  jacob,  gek,  nsw,  woodlands,  2220,  11,  alawa street,  
+ rec-839-org,    eng,  f,  ,  19581214,  pfc,  yana,  keegan,  sa,  marryatville,  2646,  25,  postle circuit,  
+ rec-664-org,    unk,  f,  ,  19520318,  ms,  megan,  sciacca,  ,  barrack heights,  2065,  39,  holland street,  sanctuary vlge
+ rec-786-org,    usa,  f,  29,  19880728,  ms,  jazz,  flowers,  ,  mosman,  2754,  6,  jabanungga avenue,  amarillo
+ rec-502-org,    usa,  f,  37,  19801220,  ,  jayden,  tanner,  nsw,  greystanes,  4740,  87,  macalister crescent,  
+ rec-402-org,    unk,  f,  38,  19790411,  ms,  aurora,  aakre,  ,  port pirie,  3028,  2,  ,  prospect creek
+ rec-594-org,    ,  ,  30,  ,  ms,  hayden,  maynard,  vic,  weering,  2713,  11,  jinka street,  
+ rec-386-org,    por,  f,  26,  19910314,  ,  ,  e¸adequeiroz,  ,  salisbury heights,  7249,  ,  campaspe circuit,  rathdangan
+ rec-407-org,    unk,  m,  ,  19470511,  ,  keelin,  streckfuss,  act,  belconnen,  4054,  5,  kirkland circuit,  our folly
+ rec-792-org,    swe,  f,  25,  19920530,  ,  emma,  hakanson,  qld,  west mackay,  2153,  481,  scantlebury crescent,  kenmay
+ rec-198-org,    chi,  f,  32,  19851221,  dr,  caleb,  chiang,  vic,  nowa nowa,  3041,  240,  wattle street,  
+ rec-557-org,    ind,  m,  31,  19860429,  mr,  madeline,  lecamwasam,  vic,  st kilda,  3392,  11,  oliver street,  nunkeri
+ rec-778-org,    usa,  f,  29,  19880709,  ,  summer,  parks,  wa,  inglewood,  2099,  13,  stieglitz circuit,  oatlands court
+ rec-43-org,    unk,  ,  27,  19901217,  ,  dylan,  aaternir,  tas,  don,  3199,  1,  narrabundah lane,  killarney
+ rec-706-org,    ger,  f,  8,  20090502,  ,  katie,  meiss,  vic,  gheringhap,  5253,  1,  lyttleton crescent,  quandialla
+ rec-801-org,    eng,  f,  29,  19880916,  mr,  kayla,  spear,  nsw,  leadville,  3185,  4,  diamantina crescent,  
+ rec-603-org,    usa,  f,  30,  19871018,  ,  jasmine,  merrill,  qld,  robina,  6019,  486,  custance street,  
+ rec-770-org,    fin,  m,  23,  19941002,  ,  jessica,  paasio,  ,  figtree,  6152,  5,  petterd street,  medical centre
+ rec-535-org,    ind,  f,  ,  19150914,  ms,  blake,  chana,  nsw,  north arm cove,  2480,  12,  hilder street,  
+ rec-39-org,    ind,  ,  26,  19910704,  mr,  lara,  girdhani,  qld,  caloundra west,  2021,  52,  gouger street,  
+ rec-649-dup-0,  eng,  f,  33,  19840319,  ms,  ckarla,  kentrikk,  nsw,  neurea,  6153,  15,  ckirby plaje,  
+ rec-444-org,    ina,  ,  25,  19920902,  cpl,  kiria,  iskandar,  vic,  murtoa,  2227,  11,  ,  
+ rec-902-org,    chi,  f,  26,  19911108,  mr,  kane,  syau,  nsw,  nowendoc,  2250,  8,  ranken place,  glennhill
+ rec-83-org,    usa,  f,  27,  19900505,  ms,  declen,  buck,  qld,  mount stanley,  2731,  7,  street place,  belgrano glenalvie
+ rec-147-org,    eng,  f,  24,  19930106,  mr,  jessica,  edison,  vic,  hampton,  3028,  6,  beasley street,  
+ rec-931-org,    ,  f,  30,  19871107,  ,  sienna,  esplen,  nsw,  hill top,  2536,  8,  parkhill street,  
+ rec-240-org,    swe,  f,  32,  19850111,  ,  liam,  lannefors,  nsw,  allworth,  2072,  3101,  blamey crescent,  
+ rec-486-org,    usa,  f,  ,  19770723,  ,  caitlin,  gordon,  qld,  wallumbilla south,  2261,  2,  trickett street,  inglewood
+ rec-879-org,    unk,  f,  ,  19550814,  ,  daniel,  scinto,  ,  noble park,  4067,  73,  jabanungga avenue,  
+ rec-139-org,    vie,  f,  ,  19900419,  ms,  imogen,  truong,  act,  bonner,  2289,  40,  federal highway,  fenner hall
+ rec-237-org,    usa,  f,  ,  ,  ms,  shakira,  macias,  qld,  west stowe,  2250,  368,  mills street,  
+ rec-100-org,    eng,  f,  28,  19890429,  ,  emiily,  cocks,  nsw,  moorland,  3631,  1,  owen dixon drive,  rosary village
+ rec-382-org,    ser,  f,  43,  ,  ,  ebony,  nola,  nsw,  kareela,  ,  60,  wilkins street,  
+ rec-200-org,    eng,  m,  19,  19980211,  ms,  bree,  norwood,  nsw,  north narrabeen,  6155,  53,  legge street,  
+ rec-595-dup-2,  unk,  f,  2 ,  19880908,  d ,  amy,  strehovski,  n w,  connel ls  oint,  455,  20,  padbury street,  
+ rec-640-org,    ger,  f,  29,  19880309,  ,  matthew,  gerver,  vic,  ouyen,  5606,  1,  rene street,  
+ rec-96-org,    usa,  f,  12,  20051029,  ,  brianna,  andrews,  ,  narrogin,  7321,  12,  allison place,  lamont park
+ rec-146-dup-0,  ,  f,  26,  19910211,  pfc,  riley,  callahan,  nsw,  chinderah,  6019,  1895,  blamey crescent,  colonial village
+ rec-556-dup-2,  ser,  f,  29,  19881121,  pfc,  amalia,  buzo ic,  ns w,  tweedbeads,  290 ,    ,  galloway street,  
+ rec-756-org,    ind,  m,  35,  19820821,  ,  shakira,  majety,  qld,  downsfield,  3199,  3,  burn street,  
+ rec-12-org,    usa,  m,  32,  19850814,  ,  samuel,  good,  nsw,  schofields,  3122,  275,  verbrugghen street,  sunshine coast private hosptl medcl cent
+ rec-372-org,    eng,  f,  29,  19880524,  mr,  alana,  banister,  qld,  carnegie,  3429,  32,  carnegie crescent,  berkeley village
+ rec-280-org,    unk,  f,  28,  19890404,  ,  zoe,  straw,  qld,  deebing heights,  3137,  8,  bunbury street,  
+ rec-572-org,    gre,  f,  23,  19940128,  mr,  hannah,  castriota,  ,  padstow,  2048,  3,  beasley street,  
+ rec-680-org,    ser,  f,  ,  19801005,  ,  demie,  augustic,  qld,  capalaba west,  4171,  52,  ,  
+ rec-61-org,    unk,  f,  11,  20060121,  ,  thomas,  aaternir,  qld,  yandina,  4211,  26,  vesta place,  
+ rec-438-dup-2,  unk,  f,  26,  19910518,  hon,  rnas o n,  streckfuss,  n w,  dur i,  3264,    ,  steel  street,  
+ rec-288-org,    eng,  f,  ,  19720323,  ,  benjamin,  mackenzie,  qld,  bartle frere,  3851,  4,  mcburney crescent,  
+ rec-515-org,    ,  f,  9,  20080220,  ,  william,  blake,  nsw,  barrengarry,  3242,  92,  stretton crescent,  danallor
+ rec-146-org,    ,  f,  26,  19910211,  pfc,  riley,  callahan,  nsw,  chinderah,  6101,  1895,  blamey crescent,  colonial village
+ rec-360-org,    nor,  f,  ,  19041110,  ms,  lachlan,  midttun,  qld,  college view,  2118,  11,  holmes crescent,  cranbrook
+ rec-523-org,    hun,  f,  28,  ,  ,  samuel,  nagy,  vic,  hunter,  3249,  24,  chappell street,  
+ rec-762-org,    rom,  ,  31,  19861026,  ,  ebony,  dodos,  nsw,  homebush bay,  4216,  9,  federal highway,  
+ rec-666-dup-1,  ira,  ,  ,  19060508,  ,  deaccckin,  fallahy,  qld,  millsdream,  2790,  25,  ,  craisie-lea
+ rec-221-org,    eng,  f,  ,  19651020,  dr,  oliver,  haggard,  vic,  maroona,  2528,  15,  castleton crescent,  walnut grove estate
+ rec-269-org,    chi,  f,  ,  ,  mr,  michael,  ssima,  ,  oxley vale,  6012,  4,  snowden place,  qbd bldg
+ rec-967-org,    usa,  f,  19,  ,  ,  mitchell,  welch,  act,  weston creek,  2602,  231,  thurlow place,  
+ rec-263-org,    usa,  f,  ,  19620118,  ,  cooper,  stanley,  nsw,  blandford,  3166,  ,  foxall street,  
+ rec-684-org,    eng,  f,  ,  ,  ,  william,  simms,  qld,  amamoor,  2325,  8,  palmer street,  
+ rec-610-org,    usa,  ,  29,  19880508,  ms,  bethanie,  sheppard,  vic,  sunnycliffs,  2530,  1,  tullaroop street,  the links
+ rec-214-org,    usa,  f,  28,  19890716,  ,  jessica,  cross,  wa,  marradong,  4103,  1089,  booroondara street,  
+ rec-593-org,    usa,  f,  33,  19841218,  ms,  isabella,  rodriguez,  ,  yarra junction,  5108,  2,  gurrang avenue,  
+ rec-994-org,    eng,  f,  28,  19891102,  ms,  jared,  morriss,  nsw,  buff point,  2154,  11,  walsh place,  
+ rec-185-org,    ind,  f,  24,  19930510,  ,  jye,  shinu,  ,  ballarat,  5014,  62,  galvin place,  wirruna
+ rec-206-org,    dut,  m,  28,  19890708,  ,  dante,  ,  vic,  shelford,  4660,  20,  cargelligo street,  st francis vlge
+ rec-110-org,    chi,  m,  25,  19921211,  ,  nacoya,  ngai,  nsw,  oak flats,  3216,  7,  shackleton circuit,  caroki
+ rec-251-org,    chi,  f,  29,  19881101,  mr,  sarah,  ting,  qld,  yuleba north,  2088,  29,  knox street,  nedlyn
+ rec-850-org,    afg,  f,  ,  19851211,  mr,  lauren,  zadran,  vic,  koornalla,  ,  3,  guginya crescent,  
+ rec-361-org,    usa,  f,  ,  19661029,  dr,  william,  buckner,  qld,  rangemore,  5204,  31,  conley drive,  
+ rec-27-org,    chi,  f,  11,  20060205,  ,  hana,  awyeung,  ,  broadmeadows,  ,  23,  sentry crescent,  aleon
+ rec-741-org,    eng,  m,  ,  19820630,  ,  shaun,  proudfoot,  qld,  tinana,  2428,  4,  carumbi place,  glenbrae
+ rec-595-dup-1,  unk,  f,  2,  1g880908,  dr,  amy,  stre h o v ski,  nsw,  connell s point,  455 ,  20,  padbury street,  
+ rec-545-org,    usa,  m,  29,  19881031,  dr,  marcus,  bridges,  tas,  jackeys marsh,  4032,  36,  nangi place,  longplain
+ rec-120-org,    eng,  ,  36,  19811115,  ,  kai,  newport,  nsw,  teralba,  4870,  1,  kallara close,  evergreen
+ rec-702-org,    unk,  f,  13,  20040919,  ,  chloe,  sckel,  sa,  freeling,  4217,  18,  dumas street,  ocean star villas
+ rec-646-org,    chi,  f,  37,  19800217,  ,  jack,  yim,  sa,  andamooka,  3173,  61,  london circuit,  
+ rec-207-org,    ind,  f,  26,  19910317,  ,  tiahana,  gordha,  act,  yarralumla,  3977,  29,  blackman crescent,  tulla burra
+ rec-511-org,    eng,  ,  34,  19831103,  ms,  ryley,  samuels,  qld,  doctor creek,  5108,  22,  horrocks street,  salford park
+ rec-283-org,    hun,  ,  29,  19880817,  dr,  ,  kazinczy,  qld,  morayfield,  2113,  58,  taronga place,  beaumont hills
+ rec-270-org,    ,  f,  34,  19831216,  ,  ryan,  hasenbalg,  qld,  mermaid waters,  4069,  23,  mackerras crescent,  
+ rec-49-org,    eng,  f,  20,  19970730,  ,  hudson,  hackett,  nsw,  east hills,  4011,  49,  allchin circuit,  pineview farm
+ rec-688-org,    ind,  f,  ,  19510607,  ,  dylan,  sainani,  nsw,  conargo,  5277,  23,  wade street,  
+ rec-234-dup-2,  ind,  f,  ,  19211130,  dr,  ajhton,  indrany,  vic,  tongala,  4615,  15,  namatsira strit,  
+ rec-35-org,    tur,  m,  27,  19900208,  ,  bethany,  kurtbek,  nsw,  nerriga,  3128,  1,  stockdale street,  tabermory
+ rec-995-org,    eng,  f,  28,  19890103,  mr,  timothy,  jephson,  wa,  boodarockin,  2133,  120,  domain street,  
+ rec-13-org,    hun,  f,  21,  19960424,  ,  lucas,  arany,  nsw,  wakeley,  4017,  12,  longmore crescent,  
+ rec-116-org,    sri,  f,  32,  19850420,  mr,  lachlan,  thilakaratne,  qld,  new chum,  ,  80,  mackay crescent,  
+ rec-95-org,    eng,  ,  26,  19911201,  mr,  meg,  moores,  nsw,  camberwell,  2528,  5,  goa place,  
+ rec-20-org,    eng,  ,  38,  19790314,  ,  emma,  harley,  qld,  peranga,  2226,  93,  verco street,  edge hill
+ rec-428-org,    unk,  ,  25,  19920401,  ,  catherine,  aakre,  nsw,  glendale,  7054,  3,  hargrave street,  
+ rec-791-org,    chi,  m,  ,  19770902,  dr,  zachary,  quan,  vic,  millbrook,  4821,  26,  ferguson circuit,  
+ rec-893-org,    ger,  ,  36,  19810601,  ms,  daniel,  eschenbach,  wa,  datatine,  2168,  35,  torres street,  
+ rec-993-org,    eng,  m,  33,  ,  pfc,  mitchell,  hyland,  ,  emmaville,  3130,  3,  le hunte street,  guest village (cnr bullcreek d drive
+ rec-70-org,    eng,  m,  9,  20080622,  ms,  ned,  winfield,  nsw,  conoble,  6317,  13,  torrens street,  
+ rec-998-org,    unk,  f,  27,  19900304,  dr,  hugo,  sciacca,  ,  elsternwick,  4680,  2,  boyle place,  
+ rec-421-org,    gre,  f,  26,  19910111,  ,  sian,  pretenteri,  vic,  eskdale,  2324,  51,  mehaffey crescent,  
+ rec-464-org,    chi,  ,  35,  19820702,  ms,  lucas,  cao,  ,  bayswater,  2777,  12,  grey street,  rowethorpe
+ rec-526-org,    usa,  ,  35,  19820906,  ,  max,  savage,  ,  miami,  5009,  201,  chuculba crescent,  
+ rec-527-org,    usa,  f,  ,  19720108,  ,  lucy,  todd,  vic,  calivil,  3206,  33,  bareena street,  
+ rec-51-org,    eng,  ,  23,  19940525,  ms,  taliah,  kersey,  vic,  renown park,  2148,  7,  woralul street,  
+ rec-262-dup-0,  ara,  ,  ,  1934 0918,  ,  ro sie,  af:y h,  ta ,  don,  2035,  15,  broadben t s treet,  busselton hol day village
+ rec-423-org,    chi,  f,  10,  20070403,  ,  darcy,  duan,  qld,  dulong,  6156,  16,  golden grove,  
+ rec-671-org,    ger,  m,  19,  19980711,  ,  joshua,  pohl,  vic,  kew east,  4017,  60,  dempster place,  
+ rec-244-org,    ,  f,  28,  19890222,  ,  charlotte,  stanley,  nsw,  coolangatta,  4737,  75,  glencross street,  cascade condo
+ rec-364-dup-0,  ser,  f,  31,  19860528,  ms,  beljl,  goj kioc,  qlqu,  newtown,  3029,  1,  moore street,  airlie
+ rec-722-org,    usa,  f,  35,  19820526,  ,  benjamin,  ,  nsw,  woodcroft,  2747,  1,  jackie howe crescent,  upa cottages
+ rec-286-org,    usa,  ,  44,  19731017,  ,  braedon,  franks,  nsw,  bexhill,  6148,  47,  cooba place,  
+ rec-747-org,    usa,  f,  28,  19891028,  ms,  antonio,  andrews,  qld,  scarborough,  2615,  56,  rymill place,  willandra village
+ rec-102-org,    usa,  m,  33,  19840616,  mr,  spyke,  chambers,  wa,  rossmoyne,  2045,  107,  tinderry circuit,  talawa
+ rec-800-org,    jew,  f,  19,  19980204,  ,  dominic,  krickstein,  qld,  lower mount walker,  2350,  35,  falkiner place,  vil 21
+ rec-915-org,    eng,  f,  21,  19960305,  ,  juliana,  walmsley,  qld,  caloundra west,  3525,  16,  bursaria street,  bega flats
+ rec-571-org,    ser,  m,  27,  19901007,  dr,  nicholas,  mozi,  wa,  big grove,  6101,  16,  wheeler crescent,  dugout
+ rec-728-org,    ind,  ,  26,  19910301,  ,  georgia,  khanna,  ,  hoppers crossing,  2170,  12,  praed place,  pearce shoppng centre
+ rec-653-org,    eng,  m,  24,  19930813,  mr,  elizabeth,  carlyle,  vic,  wycheproof,  3941,  76,  lincoln close,  bennett chambers
+ rec-709-org,    usa,  f,  29,  19880129,  dr,  lucas,  floyd,  nsw,  bendalong,  5501,  43,  marshall street,  tundarra
+ rec-875-org,    abo,  f,  33,  19841109,  ,  danielle,  goolagong,  vic,  monomeith,  6062,  19,  hooley place,  st john of god hospital
+ rec-25-org,    ind,  m,  31,  19860723,  ms,  sophie,  mahtani,  ,  kingsford,  6050,  229,  forbes street,  
+ rec-701-org,    chi,  f,  ,  19641011,  ,  emiily,  tian,  vic,  cowwarr,  3156,  15,  barr-smith avenue,  forestvale
+ rec-465-org,    pak,  f,  28,  19891224,  ms,  talia,  karzai,  wa,  kings park,  6110,  20,  ,  
+ rec-866-org,    rom,  m,  25,  19920701,  ,  leo,  ojacarcu,  vic,  ensay,  4401,  20,  bonython street,  
+ rec-629-dup-0,  chi,  m,  25,  ,  dr,  kayden,  mau,  nsw,  moonee peakh,  4118,  12,  aramanka plake,  
+ rec-956-org,    eng,  ,  ,  19450713,  ,  luke,  dick,  nsw,  st kilda,  6168,  103,  erskine street,  
+ rec-47-org,    unk,  f,  ,  19670615,  ,  cheyenne,  scime,  qld,  sundown,  2045,  7,  lawrence wackett crescent,  
+ rec-398-org,    ger,  f,  26,  19910918,  ,  jacqueline,  kemle,  vic,  bolton,  2621,  185,  boolee street,  
+ rec-713-org,    ind,  f,  ,  19560524,  ,  callum,  balli,  wa,  moonyoonooka,  2540,  19,  fremantle drive,  rp 24089
+ rec-639-org,    ina,  m,  12,  ,  ,  jacqueline,  hartono,  ,  frankston,  2290,  115,  kavel street,  
+ rec-124-org,    eng,  f,  27,  19900213,  ,  lachlan,  earlson,  nsw,  ashley,  3148,  13,  castieau street,  sbend carvn park
+ rec-2-org,    ger,  f,  26,  ,  ,  noah,  jancker,  vic,  myrniong,  2650,  8,  eldershaw place,  pearce shoppng centre
+ rec-590-org,    eng,  m,  31,  19860710,  ,  emiily,  paterson,  vic,  camberwell east,  3020,  7,  james street,  
+ rec-486-dup-1,  usa,  f,  ,  19770723,  ,  caitlin,  gordon,  9 l d,  wallumbilla south,  22G1,  2,  trickett  treet,  inglewood
+ rec-483-org,    chi,  f,  31,  19860406,  ,  jacob,  sha,  vic,  tankerton,  2486,  10,  pridham street,  kirklands
+ rec-556-dup-3,  ser,  f,  2 ,  19881121,  pfc,  amalia,  buzol c,  nsw,  tweed heads,  2902,    ,  gallowa y street,  
+ rec-729-org,    eng,  m,  29,  19880416,  ms,  benjamin,  clifford,  ,  yarrawonga,  2430,  23,  officer crescent,  
+ rec-501-dup-2,  usa,  f,  37,  19800526,  ms,  tyler,  lezteah,  vic,  upwei,  3088,  40,  souter plac,  ckelkula
+ rec-111-org,    eng,  f,  31,  19860605,  mr,  ,  anson,  nsw,  north albury,  2104,  11,  irvine street,  
+ rec-88-org,    unk,  f,  31,  19860310,  mr,  emiily,  strangway,  nsw,  richmond hill,  2036,  46,  kanooka street,  
+ rec-611-org,    unk,  f,  13,  ,  ms,  libby,  sciacca,  qld,  victoria point,  2194,  7,  tenison-woods circuit,  moriah fields
+ rec-285-org,    jap,  ,  32,  19850110,  ms,  darcy,  shimada,  vic,  rosewhite,  4809,  11,  graham street,  
+ rec-133-org,    ser,  ,  29,  19880402,  ,  cameron,  pogelsek,  nsw,  bell,  2195,  107,  augustus close,  
+ rec-892-org,    eng,  ,  35,  19820915,  ,  kylie,  bennet,  wa,  bundarra,  3941,  65,  launceston street,  
+ rec-17-org,    sri,  f,  29,  19880121,  mr,  nikita,  senanayake,  nsw,  mayfield,  3043,  18,  terewah circuit,  
+ rec-462-org,    usa,  ,  32,  19850131,  ,  giuliana,  allen,  nsw,  quaama,  3555,  13,  lee-steere crescent,  
+ rec-23-org,    unk,  m,  38,  19791212,  ,  teaha,  aarts,  nsw,  hunters hill,  3350,  34,  forbes street,  
+ rec-634-org,    dan,  f,  29,  19880816,  lgt,  ruby,  kruhl,  ,  punchbowl,  2144,  9,  jacoby place,  
+ rec-364-dup-2,  ser,  d,  13,  19860528,  ms,  bella,  gojkovic,  qld,  werington,  3015,  1,  moore street,  airlie
+ rec-824-dup-1,  usa,  f,  30,  19870917,  ,  f:nn,  pa rl c,  qld,  goo na,  38S6,  13,  ashcroft crescent,  
+ rec-881-org,    unk,  f,  22,  19951231,  ,  nathan,  strawbridge,  act,  deakin west,  2088,  6,  ebden street,  
+ rec-271-org,    eng,  f,  24,  19930729,  ,  carmen,  goode,  act,  holt,  2165,  184,  solly place,  wallaces ck
+ rec-772-org,    unk,  f,  32,  19851202,  mr,  adrian,  strahn,  sa,  para hills,  5092,  155,  noarlunga crescent,  
+ rec-481-org,    eng,  f,  41,  19760321,  ms,  india,  speight,  wa,  kumarina,  2171,  56,  douglass place,  
+ rec-595-dup-3,  unk,  f,  29,  19880908,  dr,  amy,  streh v ki,  n sw,  connellspoint,  45 1,  20,  padhury s reet,  
+ rec-858-org,    usa,  f,  21,  19960411,  ,  danielle,  puckett,  act,  acton,  7050,  154,  fimister circuit,  burnside
+ rec-225-org,    ind,  f,  27,  19900227,  ,  emiily,  privrata,  qld,  ,  3150,  12,  cooling place,  
+ rec-859-org,    ind,  ,  22,  19950210,  ,  joshua,  kotla,  sa,  marree,  2290,  109,  scott street,  aleon
+ rec-22-org,    chi,  f,  ,  19030323,  hon,  jock,  yei,  qld,  cottonvale,  3875,  189,  mack street,  aumuller house
+ rec-512-org,    chi,  f,  29,  19881029,  ,  marcus,  xiao,  wa,  myara,  4880,  1,  starke street,  
+ rec-52-org,    usa,  m,  27,  19900124,  ,  madison,  wilkerson,  tas,  forcett,  2283,  109,  cockle street,  fairdeal
+ rec-182-org,    rom,  f,  40,  19771212,  ,  cassandra,  preda,  vic,  macedon,  2289,  30,  jarrah street,  arthur river park
+ rec-513-dup-0,  unk,  ,  29,  19987023,  ,  caleb,  strapp,  vic,  hamlyn heights,  3139,  14,  riddell mcourt,  
+ rec-903-org,    tha,  f,  29,  19880203,  dr,  andrea,  nut,  tas,  memana,  4114,  27,  copland drive,  seabrook chambers
+ rec-239-org,    eng,  f,  29,  19880926,  ,  lee,  earlson,  vic,  hopetoun gardens,  3154,  29,  clamp place,  
+ rec-518-org,    ger,  f,  ,  19490703,  ,  nathan,  griem,  vic,  hamlyn heights,  2110,  52,  bavin street,  
+ rec-604-org,    ind,  f,  32,  19850330,  ,  ,  pushkarini,  wa,  karakin,  3523,  14,  clyde place,  trail view
+ rec-636-org,    unk,  f,  ,  19981210,  ,  jack,  scofield,  vic,  connewirricoo,  2536,  28,  lienhop street,  
+ rec-677-org,    ser,  f,  28,  19890620,  ,  charles,  bodaroga,  wa,  newman,  3355,  8,  hutcheson street,  matilda blue
+ rec-821-org,    usa,  ,  32,  19850126,  ,  ruby,  clarke,  qld,  watsons crossing,  3047,  267,  morrison street,  hstgs
+ rec-31-org,    jew,  m,  19,  19980618,  ,  jesse,  benzeev,  vic,  wandong,  4511,  32,  longford street,  
+ rec-250-org,    chi,  f,  22,  19951125,  ,  eloise,  pak,  sa,  linden park,  4670,  147,  budden crescent,  
+ rec-980-org,    usa,  m,  29,  19880719,  ,  kirrah,  williams,  tas,  tunnack,  2164,  35,  moulden court,  noosa village shopping centre
+ rec-860-org,    dut,  m,  ,  19571207,  ms,  jordan,  scholey,  ,  toorak,  2576,  122,  seymour place,  tower b rockdale
+ rec-748-org,    ara,  m,  20,  19970830,  ms,  amy,  fariha,  nsw,  ashford,  2200,  12,  max henry crescent,  landen
+ rec-126-org,    ind,  f,  ,  19780306,  mr,  adam,  amarnani,  nsw,  matheson,  2145,  165,  gallagher street,  
+ rec-533-org,    unk,  f,  ,  19890612,  ms,  jasmine,  strawbridge,  qld,  tinbeerwah,  4810,  5,  bennett place,  
+ rec-427-org,    ind,  f,  19,  19980211,  ,  holly,  sulagna,  nsw,  charbon,  3155,  35,  carnegie crescent,  
+ rec-798-org,    cze,  f,  20,  ,  ,  jake,  smicer,  qld,  victoria hill,  2902,  22,  therry place,  sec 692
+ rec-827-org,    eng,  f,  34,  19830404,  ,  tansy,  hext,  qld,  boyne valley,  2065,  21,  dyring place,  
+ rec-134-org,    usa,  m,  34,  19830618,  ,  ,  kidd,  qld,  st agnes,  4814,  49,  learmonth drive,  cypress garden
+ rec-232-org,    sri,  f,  30,  19870831,  mr,  amelia,  gunasekera,  vic,  coburg north,  2153,  37,  oxley street,  avonlea park rmb 4045
+ rec-880-org,    usa,  f,  ,  19490526,  ms,  jake,  davidson,  vic,  toukley,  5113,  83,  ,  
+ rec-236-org,    chi,  m,  33,  19840630,  mr,  maxin,  jong,  qld,  baffle creek,  2611,  1,  rayment place,  danica
+ rec-222-org,    ina,  m,  22,  19950515,  ms,  koben,  budiman,  vic,  freeburgh,  4825,  5,  eddison place,  
+ rec-241-org,    eng,  f,  28,  19890107,  ms,  ruben,  walterson,  vic,  tidal river,  5108,  28,  waller crescent,  lyndale park
+ rec-424-org,    unk,  f,  29,  19880621,  ,  briony,  straw,  qld,  black snake,  3049,  86,  bertram street,  
+ rec-736-org,    ,  f,  32,  19850818,  ,  joel,  beattie,  nsw,  awaba,  3038,  39,  ,  
+ rec-152-org,    ara,  f,  ,  19471215,  hon,  april,  issa,  qld,  upper mount gravatt,  2782,  36,  ebenezer street,  
+ rec-76-org,    chi,  f,  32,  19850805,  ,  ryan,  quian,  wa,  erskine,  3393,  270,  marconi crescent,  
+ rec-151-org,    usa,  f,  ,  19390212,  ,  taylah,  callahan,  vic,  warrenheip,  2761,  55,  clement place,  
+ rec-268-org,    ger,  f,  ,  19280316,  ms,  james,  steen,  ,  brooklyn,  6059,  8,  keverstone circuit,  glendower
+ rec-19-org,    vie,  ,  ,  19391216,  ,  sachin,  bui,  vic,  seaspray,  4113,  36,  flora place,  
+ rec-752-org,    eng,  ,  39,  19780729,  mr,  oscar,  styles,  nsw,  turrella,  2153,  3,  parfitt crescent,  belvedere
+ rec-162-org,    eng,  ,  33,  ,  ,  jack,  sudworth,  nsw,  shell cove,  2825,  213,  cooinda court,  
+ rec-338-org,    usa,  ,  10,  20070512,  ,  brayden,  monroe,  nt,  batchelor,  7275,  4,  bugden avenue,  
+ rec-681-org,    ger,  m,  36,  19811023,  ,  brianna,  reich,  ,  bayonet head,  2075,  5,  chandler street,  
+ rec-279-org,    eng,  f,  20,  19970703,  ms,  noah,  sudworth,  wa,  bayswater,  2575,  7,  ebden street,  miranda
+ rec-491-org,    usa,  f,  29,  19880622,  ms,  jamie,  moran,  qld,  bajool,  3551,  ,  belfield crescent,  
+ rec-802-org,    unk,  f,  23,  19941113,  ,  lachlan,  strahn,  nsw,  primbee,  3011,  169,  napthali close,  meadow view
+ rec-135-org,    ser,  ,  ,  19491103,  pfc,  talia,  trivic,  wa,  bundaberg,  5333,  45,  barron street,  figtree
+ rec-499-org,    eng,  ,  36,  19810407,  ,  breana,  danell,  vic,  coghills creek,  2120,  7,  tarraleah crescent,  
+ rec-517-org,    ser,  f,  26,  19910801,  ,  ysobel,  rosso,  qld,  lonesome creek,  2777,  5,  willara close,  
+ rec-989-org,    wel,  f,  28,  19890530,  ,  breana,  vane,  ,  picnic point,  6030,  25,  diggles street,  
+ rec-425-org,    unk,  f,  ,  19890312,  ms,  riley,  schwanke,  wa,  the plains,  4053,  3,  culgoa circuit,  
+ rec-927-org,    usa,  f,  26,  ,  ms,  zachary,  kim,  qld,  cloverdale,  6168,  250,  norman street,  north stirling downs
+ rec-991-org,    ser,  m,  20,  19970922,  ,  james,  maluta,  nsw,  craven,  4067,  52,  goldstein crescent,  georgedale
+ rec-803-org,    ind,  f,  24,  19930801,  ms,  olivia,  selvam,  vic,  viewbank,  3393,  12,  blowering street,  
+ rec-878-org,    ser,  ,  ,  19910108,  hon,  joshua,  dragulic,  nsw,  cecil hills,  3012,  24,  merriman crescent,  
+ rec-537-org,    ger,  f,  27,  19900613,  ,  joseph,  seiler,  nsw,  frederickton,  6537,  10,  phillip avenue,  
+ rec-883-org,    chi,  m,  26,  19910715,  dr,  india,  syin,  vic,  foster,  ,  80,  balala place,  
+ rec-974-org,    usa,  m,  40,  19770726,  mr,  georgina,  workman,  nsw,  winegrove,  6253,  60,  ,  
+ rec-292-org,    eng,  m,  24,  19931212,  ,  larissa,  daniell,  ,  rye,  2558,  75,  cunningham street,  kareela
+ rec-856-org,    ger,  m,  ,  ,  ms,  giorgia,  weygrand,  wa,  koojan,  3810,  1,  sue geh circuit,  lyndale
+ rec-86-org,    unk,  f,  27,  19900828,  ms,  aaron,  scofield,  vic,  darlington,  6152,  52,  henry melville crescent,  
+ rec-175-org,    usa,  f,  25,  19920309,  ,  tara,  murphy,  tas,  caveside,  4350,  17,  nungara street,  penny lane shopping centre
+ rec-869-org,    unk,  f,  30,  19870406,  ,  peyton,  scopel,  wa,  antonymyre,  3922,  22,  fitzmaurice street,  
+ rec-379-org,    usa,  f,  25,  19920325,  ms,  joel,  garner,  ,  penshurst,  3174,  17,  lewis luxton avenue,  congreave court
+ rec-215-org,    chi,  ,  ,  19980419,  ,  dean,  qu,  nsw,  bogangar,  7250,  17,  sharwood crescent,  
+ rec-940-org,    eng,  ,  32,  19850730,  ,  jessica,  josephs,  nsw,  church point,  6155,  18,  dinnison circuit,  
+ rec-659-org,    usa,  f,  ,  19250605,  ,  charlie,  ,  nsw,  wakool,  4510,  241,  handcock crescent,  
+ rec-293-org,    ita,  f,  26,  19910813,  mr,  ebony,  masolino,  sa,  dover gardens,  6163,  5,  ebden street,  
+ rec-587-org,    ,  f,  27,  19900329,  ms,  riley,  reid,  nsw,  penshurst,  6021,  75,  walton street,  
+ rec-155-org,    jew,  ,  35,  19820715,  ms,  jack,  pirbright,  nsw,  judds creek,  4178,  10,  pankhurst crescent,  
+ rec-885-org,    ,  m,  35,  19820802,  ,  kiria,  trimmer,  wa,  concord,  3148,  113,  chewings street,  killanoola
+ rec-507-org,    ind,  m,  ,  19110717,  mr,  ,  kenchammana,  nsw,  kelvin,  3185,  33,  elimatta street,  
+ rec-132-org,    usa,  f,  7,  20100221,  ,  jayden,  leonard,  vic,  caulfield east,  2305,  4,  mctaggart crescent,  
+ rec-347-org,    unk,  f,  33,  19841024,  ,  caleb,  abbetmeyer,  nsw,  mount view,  2261,  35,  raoul place,  bowen palms caravan park
+ rec-552-org,    eng,  m,  28,  19890216,  ,  michaela,  norwood,  qld,  mighell,  2730,  22,  ellis place,  
+ rec-418-org,    ser,  f,  9,  20080502,  ms,  kenneth,  dmitrovic,  nsw,  woodburn,  4165,  95,  mansfield place,  rowethorpe
+ rec-763-org,    unk,  m,  ,  19760905,  ,  hayley,  aani,  qld,  abergowrie,  3151,  3,  leahy close,  willandra
+ rec-45-org,    ser,  f,  38,  19790809,  ,  tahnee,  terzic,  ,  ringwood,  2303,  4,  copland drive,  
+ rec-585-org,    eng,  f,  24,  19931124,  ,  erin,  mclain,  vic,  piangil,  2284,  24,  bindel street,  
+ rec-704-org,    usa,  f,  ,  19090126,  pfc,  charlotte,  spence,  qld,  djiru,  2223,  10,  dodwell street,  
+ rec-619-org,    nor,  f,  33,  19840727,  ms,  emma,  ingebriktsson,  vic,  watchem,  3137,  175,  angophora street,  
+ rec-442-org,    eng,  f,  25,  19921213,  ,  emiily,  jeffers,  nsw,  orchard hills,  2905,  27,  tenison-woods circuit,  
+ rec-224-org,    pol,  f,  29,  19880309,  ,  samantha,  balanowski,  nsw,  st clair,  2176,  720,  clem hill street,  ainslie house
+ rec-805-dup-0,  eng,  m,  23,  19940722,  ,  elly,  bloxham,  wa,  sylvania,  2230,  0,  forsyth place,  
+ rec-9-org,    ,  m,  31,  19860813,  ms,  alexander,  blackwell,  nsw,  gwynneville,  5609,  82,  glenelg street,  elouera park
+ rec-109-org,    ind,  ,  36,  19810707,  ms,  ruby,  tetegni,  vic,  graytown,  2097,  24,  ash place,  
+ rec-295-org,    eng,  f,  34,  19830916,  ms,  eleni,  goode,  qld,  boynewood,  6076,  7,  pryor place,  brindabella specialist centre
+ rec-234-org,    ind,  f,  ,  19211130,  dr,  ashton,  indrani,  vic,  tongala,  4615,  15,  namatjira street,  
+ rec-38-org,    usa,  f,  36,  19810222,  mr,  ,  allen,  qld,  mount samson,  3032,  3,  mcbeath place,  meander caravan park
+ rec-331-org,    usa,  f,  ,  19310507,  ,  bailley,  ballard,  vic,  yeo,  4205,  43,  ,  tunis
+ rec-983-dup-0,  chi,  f,  31,  19861214,  mr,  alannah,  kung,  sa,  windsorgadens,  2535,  2 ,  tvner street,  
+ rec-711-org,    usa,  ,  31,  19861028,  ms,  devan,  rowe,  nsw,  cobbadah,  2329,  83,  carne place,  
+ rec-241-dup-1,  eng,  f,  28,  19890107,  ms,  rubbw,  walterson,  vic,  tidal river,  5108,  28,  waller crescent,  
+ rec-60-org,    eng,  m,  28,  19890620,  dr,  bailee,  earlson,  qld,  marshlands,  5025,  17,  gellibrand street,  
+ rec-642-org,    usa,  f,  32,  19850111,  ms,  blake,  morin,  ,  burwood east,  2340,  3,  higgins place,  
+ rec-323-org,    tur,  ,  26,  19910816,  ms,  helena,  nuri,  vic,  research,  3075,  167,  powlett street,  
+ rec-622-org,    eng,  ,  33,  19840724,  ,  erin,  raynerson,  nsw,  bass hill,  2877,  27,  loch street,  
+ rec-89-org,    ara,  f,  26,  ,  ,  alexandra,  jehaan,  wa,  maya,  3041,  35,  howe crescent,  
+ rec-685-org,    ger,  f,  29,  19880509,  mr,  emma,  buschmann,  nsw,  broken hill,  2120,  6,  robinson street,  hawkins masonic vlge
+ rec-230-org,    eng,  m,  33,  19841023,  ms,  ellouise,  adam,  nsw,  boat harbour,  4868,  116,  brockway circuit,  
+ rec-992-org,    unk,  f,  34,  19830116,  ,  alessandra,  scjum,  sa,  moonta bay,  4558,  6,  antill street,  
+ rec-287-org,    unk,  ,  ,  19940615,  ms,  dimitri,  strehovski,  sa,  paradise,  3158,  41,  griver place,  grassmere downs
+ rec-616-org,    ita,  f,  20,  ,  ,  mila,  lambertini,  qld,  wilson valley,  3155,  2,  bavay place,  
+ rec-495-org,    usa,  f,  27,  19901124,  dr,  chloe,  vasquez,  qld,  yatala,  2165,  17,  archibald street,  bryngola
+ rec-130-org,    chi,  m,  ,  19770518,  ,  cameron,  tsoy,  nsw,  morisset,  4860,  429,  garis place,  
+ rec-532-org,    unk,  f,  33,  19841124,  ,  charlotte,  scottjackson,  nsw,  beacon hill,  3065,  7,  gouger street,  
+ rec-85-org,    unk,  ,  ,  19670125,  ms,  charlotte,  scollard,  sa,  uleybury,  2065,  56,  ashby circuit,  montrose
+ rec-540-org,    ind,  f,  25,  19921211,  ,  alyssa,  mukhi,  nsw,  yass,  2605,  19,  kerferd street,  
+ rec-229-org,    eng,  m,  27,  19900505,  ,  ruby,  melville,  nsw,  ellalong,  2633,  120,  ,  locn 105
+ rec-441-org,    eng,  f,  35,  19820728,  ,  jasmine,  matheson,  qld,  dalysford,  4503,  26,  kumm place,  
+ rec-176-org,    ser,  f,  32,  19850519,  ,  kyle,  mehmedovic,  wa,  angelo river,  2820,  1,  jervois street,  whiskers hill
+ rec-699-org,    sri,  f,  33,  ,  ms,  joshua,  kaluwitharana,  vic,  rangeview,  2197,  8,  blair street,  orana back
+ rec-674-org,    ,  f,  36,  19810401,  mr,  samuel,  coleman,  nsw,  elermore vale,  2036,  77,  oldham court,  silkwood estate
+ rec-597-dup-1,  eng,  ,  27,  19901227,  ,  ned,  elmerson,  wa,  boorara,  2154,  11,  sheave strit,  pondrestina
+ rec-568-org,    eng,  f,  ,  19770731,  ms,  jack,  winchester,  nsw,  wooli,  ,  10,  badimara street,  
+ rec-69-org,    spa,  f,  37,  19800705,  ,  mikhayla,  cepeda,  nsw,  jindabyne,  2227,  1,  cooney court,  
+ rec-174-org,    eng,  ,  25,  19921121,  mr,  jasmine,  gardener,  vic,  kooyong,  3280,  51,  tungun street,  
+ rec-309-org,    cze,  f,  ,  19140607,  ,  jacob,  bena,  ,  carrara,  3796,  75,  pinkerton circuit,  
+ rec-252-org,    ,  f,  25,  19921006,  ,  annabel,  mahony,  ,  launceston south,  2570,  17,  britten-jones drive,  wahbilla park
+ rec-910-org,    eng,  f,  28,  ,  ,  dimitri,  jephson,  vic,  fitzroy,  4121,  1871,  ,  mabuiag island
+ rec-345-org,    afr,  f,  ,  19010121,  mr,  chloe,  jagne,  vic,  south melbourne,  3182,  14,  roderick street,  
+ rec-968-org,    usa,  f,  22,  19950727,  ms,  isaac,  mays,  nsw,  griffith,  3380,  12,  sturgeon street,  ocean park towers
+ rec-607-org,    spa,  f,  25,  19921025,  ,  emiily,  navaez,  vic,  moliagul,  4019,  46,  mataranka street,  
+ rec-210-org,    eng,  ,  26,  19910730,  ,  joshua,  winfield,  qld,  allingham,  3144,  14,  howitt street,  
+ rec-391-org,    ind,  ,  24,  19931125,  ,  madeline,  ,  nsw,  majors creek,  2777,  63,  edman close,  
+ rec-480-org,    usa,  f,  29,  19880430,  ,  kyle,  huffman,  vic,  tatong,  6009,  24,  nullagine street,  goulburn south caravan park
+ rec-197-org,    usa,  f,  35,  19821228,  ,  angus,  franklin,  nsw,  bamarang,  4116,  55,  ramage place,  
+ rec-745-dup-1,  sri,  f,  8,  20090 03,  hon,  brode,  ranatu ga,  nsw,  ros ore,  382 5,  7 ,  throsby crescent,  nunkeri
+ rec-322-org,    chi,  f,  28,  19890224,  ms,  alana,  chywan,  tas,  glenfern,  2615,  82,  mcdermott street,  bunavon
+ rec-168-org,    eng,  f,  ,  19800508,  pfc,  michelle,  oakley,  nsw,  cumnock,  2065,  24,  bingley crescent,  
+ rec-419-org,    eng,  f,  34,  19830824,  ,  hannah,  cocks,  nsw,  chittaway point,  6065,  31,  daley crescent,  cannells hill
+ rec-297-dup-0,  eng,  ,  ,  19560125,  dr,  emiiy,  leona dson,  vi c,  meadow  e ghts,  216 ,  1,  reid p  ce,  delmar
+ rec-899-org,    chi,  f,  ,  19971011,  ms,  hannah,  yam,  tas,  poatina,  2615,  39,  levine street,  cypress garden
+ rec-955-org,    afr,  f,  ,  19400612,  ,  thomas,  mollel,  vic,  hunter,  6164,  40,  tilley place,  
+ rec-354-org,    eng,  ,  30,  19871110,  ,  blake,  mcniel,  nsw,  greenwich,  4067,  3,  alberga street,  
+ rec-297-dup-1,  eng,  ,  ,  195615,  dr,  emiily,  leonar son,  vi c,  meadow heights,  2163,  1,  reidplace,  delmar
+ rec-235-org,    rus,  f,  27,  19900724,  ,  alexandra,  tretyak,  vic,  matlock,  3187,  6,  boas place,  glenora court
+ rec-54-org,    eng,  ,  29,  19880206,  pfc,  ethan,  traves,  vic,  caramut,  3135,  11,  gundara street,  blue hills
+ rec-393-org,    cze,  ,  30,  19870824,  ,  timothy,  kovacikova,  wa,  carina heights,  4659,  14,  blamey crescent,  flt 24
+ rec-142-org,    usa,  f,  12,  20050731,  pfc,  michael,  sweeney,  qld,  meringandan,  4574,  61,  rumbelow court,  
+ rec-389-org,    unk,  f,  27,  19901021,  ,  sophie,  straw,  ,  auburn,  ,  9,  archdall street,  
+ rec-254-org,    usa,  f,  31,  19860118,  ,  imogen,  gordon,  nsw,  willawarrin,  2758,  38,  cutlack street,  
+ rec-236-dup-0,  chi,  m,  33,  19840630,  mr,  mait,  jong,  vic,  baffl epreek,  2611,  1,  rayment place,  danica
+ rec-468-org,    usa,  f,  ,  19381201,  ,  kobe,  hickman,  qld,  perseverance,  6025,  24,  john russell circuit,  
+ rec-583-org,    eng,  f,  6,  20111125,  ,  nell,  isaacson,  vic,  ,  6061,  17,  biddlecombe street,  fairfield housing bg
+ rec-248-org,    ,  m,  28,  19890122,  ,  isaac,  grey-smith,  vic,  combienbar,  4812,  47,  tewksbury circuit,  sec 231
+ rec-143-org,    eng,  m,  37,  19801023,  ,  brianna,  styles,  wa,  mosman,  3350,  26,  burdekin avenue,  
+ rec-307-org,    ina,  ,  33,  19841016,  ms,  isabella,  santoso,  qld,  nedlands,  4354,  14,  william wilkins crescent,  loyt 19
+ rec-678-org,    usa,  m,  28,  19890703,  ,  jacob,  phelps,  vic,  daylesford,  5033,  12,  burara crescent,  
+ rec-91-org,    chi,  f,  ,  19460218,  ,  finnbar,  xiao,  sa,  warramboo,  3350,  552,  ashburton circuit,  
+ rec-629-dup-2,  chi,  m,  25,  ,  dr,  kayden,  mo,  nsw,  moonee peac,  4118,  12,  waramanga place,  
+ rec-294-org,    eng,  f,  28,  ,  ms,  jayden,  ryely,  nsw,  tullymorgan,  3156,  164,  cobbadah street,  carisbrook
+ rec-271-dup-1,  eng,  f,  2 ,  19930729,  ,  carmen,  g0ode,  a  ,  holt,  2165,   84,  sollyp lace,  walla c s ck
+ rec-981-org,    chi,  ,  37,  19801217,  ,  lillian,  suu,  nsw,  braidwood,  6014,  ,  carstensz street,  ainslie nursing home
+ rec-699-dup-0,  sri,  f,  3 ,  ,  ms,  joshua,  kaluwi t ar ana,  vi ,  rangeview,  219 7,  &,  blair str eet,  orana baclc
+ rec-735-org,    por,  f,  10,  20070604,  ms,  louise,  hechevaria,  qld,  millaa millaa,  2050,  5,  goodchild street,  st francis village
+ rec-302-org,    eng,  f,  20,  19970310,  ,  cambell,  oliverson,  nsw,  central macdonald,  3196,  2,  snowden place,  
+ rec-662-org,    usa,  f,  30,  19870316,  ,  reece,  davenport,  sa,  eastwood,  4814,  6,  johnson place,  
+ rec-949-org,    abo,  f,  13,  20040817,  ,  karla,  tapai,  nsw,  lower templestowe,  4173,  213,  madigan street,  
+ rec-448-org,    eng,  ,  30,  19870523,  mr,  jacob,  mackenzie,  nsw,  bangalow,  4211,  7,  ,  beltrasna angus stud
+ rec-247-org,    chi,  m,  33,  19841104,  ,  madeleine,  chiang,  qld,  talegalla weir,  3021,  22,  strzelecki crescent,  fairholme
+ rec-179-org,    usa,  ,  27,  19900720,  ,  aleisha,  todd,  sa,  clearview,  2650,  ,  owen crescent,  
+ rec-629-dup-1,  chi,  m,  25,  ,  dr,  cckayden,  mo,  nsw,  mooni peac,  4118,  12,  aramanga plak,  
+ rec-877-org,    usa,  f,  23,  19940111,  ,  jack,  kemp,  nsw,  loftus,  6556,  16,  lindsay street,  willalooka
+ rec-824-org,    usa,  f,  30,  19870917,  ,  finn,  park,  qld,  goodna,  3856,  13,  ashcroft crescent,  
+ rec-429-org,    jew,  ,  27,  19900221,  ,  dylan,  alter,  sa,  redwood park,  2680,  18,  alroy circuit,  
+ rec-828-dup-0,  ind,  f,  21,  19960827,  ,  emma,  sathianarayan,  qld,  eton,  3070,  14,  wilkiiawill tm crescent,  
+ rec-32-dup-0,  pol,  f,  ,  19520221,  ,  edward,  cizinski,  nsw,  palmain east,  3976,  13,  ogilvi place,  
+ rec-36-org,    chi,  m,  28,  19890124,  ,  arabella,  tsu,  vic,  woodstock west,  2443,  12,  ashby circuit,  
+ rec-751-org,    ger,  ,  28,  19890314,  pfc,  brock,  geisheimer,  vic,  hamilton,  2251,  20,  chevalley loop,  
+ rec-645-org,    eng,  f,  ,  19360927,  ,  brooklyn,  thacker,  vic,  middle camberwell,  2287,  570,  hambidge crescent,  
+ rec-694-org,    unk,  f,  21,  19960225,  mr,  lucas,  abat,  sa,  sellicks hill,  2261,  7,  burtt crescent,  
+ rec-799-org,    usa,  f,  10,  20070903,  ms,  lewis,  yates,  ,  rose bay,  4030,  9,  von guerard crescent,  
+ rec-204-org,    eng,  f,  ,  ,  ,  adriana,  lund,  qld,  miami,  3101,  27,  golden grove,  st francis village
+ rec-719-org,    usa,  f,  12,  20050810,  mr,  isabelle,  horne,  sa,  rosslyn park,  3081,  318,  outtrim avenue,  kersley mews
+ rec-718-org,    eng,  f,  36,  19810802,  ,  benjamin,  hext,  vic,  coleraine,  3219,  85,  blythe close,  rocky flat
+ rec-371-dup-2,  usa,  ,  30,  ,  ,  chele a,  carv r,  w ,  wellington forest,   5  &,  3,  ,  
+ rec-66-org,    usa,  f,  32,  19850407,  ms,  elki,  abbott,  qld,  kapaldo,  2485,  12,  ivo whitton circuit,  myross
+ rec-757-org,    chi,  m,  ,  19670223,  ms,  chelsea,  cho,  vic,  warragul,  6110,  147,  ,  
+ rec-966-org,    afg,  f,  24,  19930121,  ms,  cooper,  tarin,  qld,  ross creek,  6019,  18,  dianella street,  
+ rec-208-org,    eng,  f,  8,  20091104,  dr,  noah,  hampson,  nsw,  billinudgel,  3764,  598,  mcluckie crescent,  
+ rec-725-org,    usa,  f,  35,  19820411,  mr,  benjamin,  barron,  nsw,  brunkerville,  6031,  181,  mcculloch street,  trewalla
+ rec-638-org,    chi,  ,  25,  19920529,  ,  cameron,  kuet,  vic,  venus bay,  2263,  6,  stubbs crescent,  
+ rec-997-org,    nor,  f,  39,  19780911,  ,  tommy,  ,  tas,  neika,  2705,  14,  ijong street,  woodleigh
+ rec-815-dup-0,  unk,  f,  29,  19 8 8 5,  ,  dav id,  scj m,  nsw,  ulamambri,  474 ,  20,  hartigangarden,  
+ rec-656-org,    afg,  ,  27,  19901105,  ms,  tess,  jaji,  qld,  koongal,  2113,  477,  bugden avenue,  beechworth
+ rec-884-org,    eng,  m,  31,  19860206,  ,  chloe,  alfredson,  vic,  landsborough,  6054,  2856,  goa place,  
+ rec-553-org,    unk,  f,  32,  19851009,  ms,  charlotte,  scinto,  nsw,  concord repatriation hospital,  2650,  78,  fink crescent,  
+ rec-449-org,    usa,  f,  26,  19910221,  ,  alexia,  graham,  wa,  plumridge lakes,  5031,  154,  riley place,  rockwood
+ rec-514-org,    chi,  f,  30,  19871122,  ,  harry,  yuen,  ,  bossley park,  4060,  10,  jamieson crescent,  west
+ rec-381-org,    usa,  f,  41,  19760210,  ,  grace,  woods,  ,  moorooka,  2456,  462,  clarnette place,  
+ rec-366-org,    usa,  f,  28,  19891002,  ,  kieren,  delgado,  nsw,  cooranbong,  4076,  69,  strutt place,  
+ rec-531-org,    unk,  ,  41,  19760728,  ,  dante,  aakre,  nsw,  tura beach,  3844,  36,  esau place,  villa 36 sovereign garden
+ rec-199-org,    usa,  m,  21,  19960626,  ,  kobe,  ochoa,  nsw,  kirrawee,  4650,  306,  barney street,  immanuel garden
+ rec-364-org,    ser,  f,  31,  19860528,  ms,  bella,  gojkovic,  qld,  newtown,  3015,  1,  moore street,  airlie
+ rec-835-org,    eng,  f,  33,  19840531,  ,  maddison,  kyles,  nsw,  peats ridge,  2322,  14,  newman morris circuit,  baptist retirement
+ rec-183-org,    fin,  m,  ,  19431114,  ,  jade,  keskitalo,  nsw,  putty,  3201,  2,  schonell circuit,  
+ rec-181-org,    usa,  f,  30,  19870519,  ,  isaac,  mcconnell,  nsw,  benandarah,  7320,  58,  ,  
+ rec-348-org,    usa,  m,  8,  20090930,  ,  lauren,  cervantes,  tas,  loccota,  2170,  17,  mouat street,  badjaree
+ rec-591-org,    afg,  f,  33,  19840129,  ,  noah,  nawabi,  nsw,  exeter,  6175,  44,  studley street,  woodstock park
+ rec-755-org,    usa,  f,  ,  ,  pfc,  mia,  pitts,  nsw,  mumbil,  3177,  474,  hart street,  
+ rec-522-org,    pol,  m,  ,  19971108,  ,  caleb,  dembowski,  wa,  picton east,  3175,  2,  alawa street,  
+ rec-820-org,    usa,  f,  29,  19880202,  ,  riley,  marks,  nsw,  newcastle west,  3141,  33,  maurice place,  bolaro
+ rec-880-dup-1,  usa,  f,  ,  19490526,  ms,  iak e,  davids on,  ui ,  touk Jey,  5113,  8 ,  ,  
+ rec-454-org,    eng,  m,  23,  19940518,  ,  molly,  becket,  wa,  claremont,  4216,  9,  tauss place,  
+ rec-772-dup-0,  unk,  f,  32,  19851202,  mr,  adri  ,  strahn,  s ,  para hills,  5092,  55,  noarlungacrescent,  
+ rec-501-org,    usa,  f,  37,  19800526,  ms,  tyler,  lester,  vic,  upwey,  3088,  40,  souter place,  kelgoola
+ rec-54-dup-1,  eng,  ,  29,  19880206,  pfc,  ethan,  traves,  vic,  caramut,  3135,  8,  gundarastreet,  blue hills
+ rec-554-org,    unk,  ,  30,  19870221,  ms,  alec,  strazzari,  vic,  taggerty,  2431,  18,  howitt street,  
+ rec-44-org,    ind,  ,  31,  19860520,  ,  meggie,  mihir,  nsw,  shellharbour,  3044,  5,  brookes street,  fairholme
+ rec-921-org,    usa,  f,  13,  20040930,  ms,  jasmine,  hernandez,  qld,  westfield,  6153,  17,  moynihan street,  
+ rec-169-org,    jap,  f,  36,  19810414,  ,  finn,  kajiyama,  nsw,  randwick,  4405,  23,  arabana street,  combogolong
+ rec-359-org,    usa,  f,  26,  19910714,  ,  isaac,  riddle,  ,  acacia ridge,  0812,  40,  james street,  
+ rec-275-org,    eng,  ,  35,  19820715,  hon,  lucy,  butcher,  ,  nowra,  2280,  42,  blackburn street,  
+ rec-651-org,    ind,  ,  10,  20070102,  ,  charlie,  umrigar,  qld,  monkland,  6019,  70,  wilshire street,  
+ rec-868-org,    ,  ,  37,  19800606,  ,  zack,  boyle,  wa,  cervantes,  5159,  99,  pennefather street,  fairburn farm
+ rec-804-org,    ser,  ,  25,  19921113,  ,  beau,  zerec,  wa,  wonnerup,  3021,  3,  ,  
+ rec-766-org,    usa,  f,  ,  19160218,  ms,  vendula,  sellers,  vic,  botany,  2622,  12,  conjola close,  
+ rec-469-org,    chi,  m,  ,  19581029,  ,  alana,  pin,  nsw,  ulan,  2227,  11,  forbes street,  stoney creek
+ rec-647-org,    tur,  m,  35,  ,  ,  jassim,  akalay,  tas,  waterhouse,  3126,  25,  carruthers street,  
+ rec-907-org,    ser,  ,  13,  20040506,  ,  brianna,  filipovic,  vic,  panton hill,  4170,  1,  duggan street,  
+ rec-769-org,    ind,  f,  8,  20091118,  ms,  tara,  sangameswar,  wa,  claremont,  4740,  4,  kerr place,  englefield
+ rec-530-org,    usa,  m,  32,  19850105,  mr,  erin,  ortega,  nsw,  sunny corner,  7190,  41,  marr street,  tulgeywood
+ rec-93-dup-1,  eng,  f,  ,  ,  d r,  alexander,  clausson,  qld,  silverc reek,  3759,  209,  eggleston  rescent,  marina ne
+ rec-844-org,    dut,  f,  28,  19891225,  mr,  chelsea,  krajicek,  nsw,  herons creek,  2044,  17,  maclaurin crescent,  
+ rec-276-org,    unk,  f,  40,  19770715,  ,  harrison,  scopel,  nsw,  laurel hill,  4059,  53,  melrose drive,  
+ rec-471-org,    chi,  f,  27,  19900528,  ,  chelsea,  cen,  ,  thornbury,  2617,  1,  fellows street,  earl haven
+ rec-497-org,    por,  f,  ,  19870128,  ,  hayden,  bessa,  qld,  ilfracombe,  4700,  135,  ashburner street,  
+ rec-163-org,    usa,  f,  ,  19600409,  ,  april,  mayer,  qld,  ascot,  3174,  6,  winnecke street,  
+ rec-330-org,    chi,  f,  29,  19880515,  ,  connor,  cho,  vic,  balnarring,  2026,  4,  hindmarsh drive,  oxford
+ rec-392-org,    hun,  f,  26,  19911205,  ,  bethany,  petrahn,  vic,  raymond island,  4074,  18,  gurner street,  north north street
+ rec-760-org,    ind,  f,  26,  19910524,  ms,  kierra,  chittor,  qld,  hyde park,  2340,  22,  mackrell place,  ainslie house
+ rec-311-org,    usa,  f,  36,  19811029,  dr,  yasmin,  pearson,  ,  huonville,  2146,  47,  chewings street,  grandview
+ rec-226-org,    eng,  f,  37,  19800404,  ,  harriet,  matheson,  vic,  salisbury west,  ,  67,  quiros street,  
+ rec-919-org,    eng,  ,  28,  19890526,  ,  courtney,  irving,  qld,  pittsworth,  5162,  4,  phillip avenue,  
+ rec-897-org,    ara,  f,  27,  19900617,  ms,  tommi-lee,  meherunissa,  wa,  trigwell,  3088,  379,  street place,  ra 23012
+ rec-371-org,    usa,  ,  30,  ,  ,  chelsea,  carver,  wa,  wellington forest,  5608,  3,  ,  
+ rec-586-org,    eng,  ,  23,  ,  dr,  matthew,  elder,  sa,  lakemba,  6065,  27,  kauper street,  yarralong
+ rec-340-org,    ger,  m,  28,  19891127,  ms,  gabriel,  volker,  vic,  hamlyn heights,  7307,  32,  arnold place,  carranya
+ rec-703-org,    fin,  f,  26,  19910607,  ms,  isabella,  turunen,  wa,  nilgen,  3047,  31,  anembo street,  busselton holiday village
+ rec-104-org,    unk,  f,  28,  19890513,  ms,  matilda,  aaberg,  nsw,  yenda,  4109,  41,  ,  lazy acres
+ rec-494-org,    chi,  m,  29,  19881230,  ,  adam,  pat,  qld,  warwick,  3074,  6,  christmas street,  retmnt vlge
+ rec-560-org,    usa,  m,  33,  19841009,  ms,  marlee,  wyatt,  nsw,  wondalga,  4223,  62,  ,  
+ rec-186-org,    chi,  f,  29,  19880516,  ,  oliver,  shui,  vic,  poowong,  6328,  31,  bryant place,  gallagher hse
+ rec-774-org,    unk,  ,  41,  19760607,  dr,  brianna,  aaberg,  nsw,  kingsford,  3675,  ,  clarey crescent,  
+ rec-190-org,    eng,  f,  29,  19880402,  ,  danny,  brewster,  qld,  granville,  6210,  10,  guthridge crescent,  central highlands medical centre
+ rec-290-org,    usa,  f,  ,  19460512,  ,  kristen,  morgan,  vic,  hansonville,  3782,  4,  clear street,  
+ rec-778-dup-1,  usa,  f,  29,  19880079,  ,  sumge,  pafdrk,  wa,  inglewood,  2099,  13,  stieglitz circuit,  oatlands court
+ rec-914-org,    eng,  f,  35,  19820229,  ,  taliah,  madison,  sa,  norwood,  3218,  2,  cheeke place,  philip centre
+ rec-633-org,    hun,  ,  37,  19801107,  ms,  brianna,  lakatos,  wa,  minigin,  6015,  9,  o'reilly place,  
+ rec-786-dup-1,  usa,  v,  29,  19880728,  ms,  statst,  flowers,  ,  mosman,  2754,  6,  jabanungga avenue,  amarilo
+ rec-392-dup-0,  hun,  f,   2 6,  1991105,  ,  bethany,  petra hn,  v ic,  raymond island,  4074,  18,  qurnerstreet,  north nort  street
+ rec-57-org,    pak,  f,  30,  19870804,  pfc,  ysobel,  salimi,  sa,  biggs flat,  4560,  5883,  towns crescent,  
+ rec-156-org,    gre,  f,  27,  19900330,  ,  alana,  karavassilis,  qld,  scrubby creek,  4403,  11,  popplewell place,  
+ rec-761-org,    usa,  f,  10,  ,  mr,  michaela,  benjamin,  nsw,  carool,  4220,  67,  ,  
+ rec-930-org,    chi,  m,  26,  19910829,  ms,  zachary,  guo,  nsw,  woronora heights,  3136,  12,  sinclair street,  
+ rec-371-dup-0,  usa,  ,  30,  ,  ,  chelse ,  carv r,  w ,  welling o  orest,  5608,  3,  ,  
+ rec-781-org,    unk,  f,  30,  19870118,  ms,  rory,  strawbridge,  vic,  tinamba,  4305,  88,  aspinall street,  
+ rec-581-org,    ger,  f,  ,  19291226,  ,  madeline,  krin,  nsw,  brewarrina,  3142,  4,  mules place,  
+ rec-98-org,    chi,  m,  26,  19910618,  ms,  vincent,  ngui,  vic,  springvale,  2112,  303,  manning street,  
+ rec-353-org,    usa,  m,  29,  19880331,  ,  andrew,  kinney,  nsw,  lucas heights,  2480,  5,  gungurra crescent,  st francis vlge
+ rec-337-org,    ind,  ,  29,  19880804,  ,  daniel,  muktheswara,  wa,  lathlain,  4805,  43,  mcilwraith close,  
+ rec-54-dup-3,  eng,  ,  29,  19880206,  pfc,  ethan,  traves,  vic,  caranbut,  3510,  11,  gundara street,  blue hills
+ rec-92-org,    nor,  f,  27,  19900724,  ,  rebecca,  fuglesang,  vic,  dreeite,  3121,  4,  murranji street,  
+ rec-529-org,    afr,  f,  37,  19801119,  pfc,  riley,  rensburg,  nsw,  arthurville,  6062,  31,  hyde place,  
+ rec-979-org,    eng,  f,  29,  19880317,  ms,  keely,  mclain,  wa,  magenta,  7000,  96,  summerland circuit,  
+ rec-105-org,    unk,  f,  39,  19780118,  ,  tynan,  strehovski,  ,  bicton,  3162,  62,  healy place,  
+ rec-626-org,    usa,  f,  ,  19520515,  ,  karissa,  pickett,  nsw,  drysdale,  4210,  20,  abercrombie circuit,  edin glassie
+ rec-562-org,    unk,  f,  35,  19820324,  mr,  caitlin,  strampher,  vic,  wurruk,  4680,  6,  johnston street,  
+ rec-815-org,    unk,  f,  29,  19880516,  ,  david,  scjum,  nsw,  ulamambri,  4740,  20,  hartigan garden,  
+ rec-973-org,    usa,  m,  31,  ,  ms,  charlotte,  mayer,  sa,  ,  3083,  8,  theodore street,  springbanks
+ rec-700-org,    chi,  ,  30,  19870531,  ms,  braiden,  nong,  qld,  barlil,  2205,  20,  de graaff street,  danric lodge
+ rec-686-org,    usa,  ,  10,  20071216,  ms,  paige,  houston,  qld,  lethebrook,  4036,  51,  jardine street,  moocooboola
+ rec-432-org,    chi,  m,  ,  19360828,  pfc,  indyana,  jyu,  ,  mittagong,  4817,  8,  horbury street,  
+ rec-692-org,    unk,  f,  ,  19190521,  ,  tristan,  aani,  qld,  kogarah,  2151,  20,  wrixon street,  
+ rec-446-org,    chi,  f,  8,  20090305,  ,  erin,  awyeung,  qld,  almaden,  0870,  9,  banks street,  
+ rec-676-org,    ger,  ,  29,  19880512,  mr,  reeve,  patzwahl,  qld,  blacksoil,  2065,  8,  gleadow street,  
+ rec-795-org,    usa,  f,  27,  19900602,  ,  makayla,  moody,  vic,  bolinda,  4465,  8,  guthridge crescent,  
+ rec-242-org,    jap,  f,  ,  19700811,  ,  juliana,  fujiwara,  ,  golden grove,  2040,  37,  david street,  
+ rec-938-org,    fin,  ,  34,  19830721,  ,  alison,  ahoniemi,  nsw,  double bay,  2770,  57,  norton street,  brambletye vinyard
+ rec-335-org,    wel,  f,  13,  20040418,  ,  jacob,  edmunds,  vic,  wallup,  3377,  5,  groveland crescent,  specialist centre
+ rec-291-org,    chi,  m,  27,  19900404,  pfc,  shelby,  ban,  vic,  springbank,  2092,  14,  jennings street,  
+ rec-947-org,    usa,  f,  ,  19100716,  ,  adam,  kramer,  qld,  bourke,  5016,  65,  mina wylie crescent,  
+ rec-41-org,    usa,  m,  ,  19550713,  ,  charlotte,  spears,  wa,  parmelia,  3658,  24,  mckenzie street,  kangaroo grnd
+ rec-978-org,    eng,  ,  29,  19880116,  ,  darcy,  merchant,  vic,  scotsburn,  2318,  17,  abernethy street,  evergreen
+ rec-723-org,    usa,  ,  ,  19830918,  ms,  marleigh,  vaughan,  nsw,  williamtown raaf,  0850,  839,  churchill way,  
+ rec-964-org,    ind,  f,  28,  19891201,  ,  harvey,  gandhi,  vic,  terang,  3152,  22,  corringle close,  
+ rec-516-org,    ind,  ,  12,  20050731,  mr,  darcy,  dorwani,  nsw,  chatsworth,  6156,  358,  ellerston avenue,  summer hill lodge
+ rec-466-org,    unk,  f,  35,  19820811,  ms,  owen,  sclafani,  nsw,  hobbys yards,  4160,  142,  mullan street,  
+ rec-403-org,    eng,  ,  37,  19800701,  ,  kayla,  seymour,  vic,  heathcote junction,  3976,  133,  neville place,  
+ rec-58-org,    unk,  m,  7,  20100829,  dr,  natasha,  abadi,  nsw,  patonga,  2011,  69,  lutana street,  
+ rec-284-org,    nor,  f,  33,  19841224,  pfc,  michael,  elmersson,  nsw,  werri beach,  2770,  110,  dumaresq street,  
+ rec-368-org,    afg,  ,  24,  19930324,  mr,  amber,  ustarana,  vic,  north road,  4660,  6,  beaurepaire crescent,  
+ rec-73-org,    ind,  f,  7,  20100704,  ms,  megan,  keyush,  wa,  kingaroy,  3095,  8,  derrington crescent,  blue hills
+ rec-876-dup-0,  eng,  v,  38,  19790409,  ,  ,  apel,  qld,  mure park peach,  3130,  3,  namatsira drive,  
+ rec-912-org,    chi,  f,  25,  19921126,  ,  alexander,  sa,  qld,  deagon,  7018,  11,  stein place,  
+ rec-818-org,    usa,  f,  9,  20080504,  ,  harry,  benton,  vic,  spotswood,  2212,  183,  brereton street,  byado
+ rec-257-org,    usa,  f,  ,  19650130,  ,  alessandra,  mcbride,  nsw,  molong,  2233,  6,  barrallier street,  
+ rec-829-org,    eng,  m,  31,  ,  mr,  kiera,  dannel,  qld,  laura,  2380,  111,  nangor street,  
+ rec-705-org,    gre,  f,  ,  19970629,  ms,  bree,  tampakis,  wa,  mount nasura,  3088,  1,  hawkesbury crescent,  willera
+ rec-861-org,    rus,  f,  28,  19890217,  ms,  nicholas,  merinov,  act,  australian national university,  6155,  26,  clift crescent,  rsl
+ rec-788-org,    unk,  ,  31,  19860413,  ,  ella,  scolastique,  qld,  goolman,  4069,  15,  ,  
+ rec-925-org,    swe,  f,  35,  19821225,  dr,  abbey,  arbman,  qld,  town common,  3910,  291,  blackman crescent,  
+ rec-231-org,    ser,  f,  ,  19770228,  dr,  david,  dziewulski,  qld,  yaraka,  4754,  10,  blackman crescent,  
+ rec-574-org,    eng,  f,  ,  19620315,  ,  jaimee,  herbertson,  ,  elanora heights,  3047,  23,  helemon street,  yarrol
+ rec-667-dup-0,  eng,  f,  33,  19840726,  ms,  istarc,  dennell,  kld,  deagon,  2535,  269,  enderby street,  myola klen
+ rec-669-org,    usa,  f,  31,  19860413,  ,  melinda,  santana,  qld,  nelia,  2260,  1,  pillar place,  
+ rec-430-org,    unk,  m,  24,  19930616,  ,  brooke,  streckfuss,  vic,  south melbourne,  2164,  1,  shepherdson place,  northwood park
+ rec-698-org,    chi,  f,  25,  ,  ,  robert,  oyang,  ,  belgian gardens,  3980,  ,  macarthur avenue,  
+ rec-658-org,    eng,  f,  31,  19861128,  ,  meagan,  babcoke,  nsw,  kirrawee,  6111,  3,  hawkesbury crescent,  

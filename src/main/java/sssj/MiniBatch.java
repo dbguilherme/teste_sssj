@@ -78,8 +78,15 @@ public class MiniBatch {
         .help("input format");
     parser.addArgument("input").metavar("file")
         .type(Arguments.fileType().verifyExists().verifyIsFile().verifyCanRead()).help("input file");
+    args[0]="data/clean_1000_100_SVM";
+//    args[1]="-t 0.43 ";
+    args[2]="0.4";
+//    args[3]="-i   INV ";
+    args[4]="0.0001";
+    
     Namespace opts = parser.parseArgsOrFail(args);
 
+    
     final double theta = opts.get("theta");
     final double lambda = opts.get("lambda");
     final int reportPeriod = opts.getInt("report");
@@ -261,9 +268,12 @@ public class MiniBatch {
     	}
     	
     }
-    System.out.println("\n\nprecisão " + (true_positivo/(double)(true_positivo+false_positivo)));
-    System.out.println("Recall " + (true_positivo/(double)(true_positivo+false_negativo)));
+    Double p=(true_positivo/(double)(true_positivo+false_positivo));
+    Double r=(true_positivo/(double)(true_positivo+false_negativo));
+    System.out.println("\n\nprecisão " + p);
+    System.out.println("Recall " + r);
     System.out.println("positivos " + true_positivo + "  fase " + false_positivo +" false negative " + false_negativo);
+    System.out.println("F1 " + (2*p*r)/(p+r));
     return index.stats();
   }
  
@@ -275,7 +285,7 @@ public class MiniBatch {
 	    	for (Entry<Long, Double> entry : values.entrySet()){
 	    		String recB= gabarito.get(entry.getKey().intValue());
 	    		if(recB==null){
-	    			System.out.println("erro validação gabarito--->"+entry.getKey());
+	    			//System.out.println("erro validação gabarito--->"+entry.getKey());
 	    			continue;
 	    		}
 	    		if(!recA.contains("-"))
@@ -294,12 +304,12 @@ public class MiniBatch {
 	    			if(recA.contains("dup") && recB.contains("org")){
 	    				gabarito.put(row.getKey().intValue(),recA.replace("dup-", ""));
 	    				true_positivo++;
-		    			System.out.println(recA +" --- "+ recB);
+		    			//System.out.println(recA +" --- "+ recB);
 	    			}else
 	    				if(recA.contains("org")){
 	    					gabarito.put(entry.getKey().intValue(),recB.replace("dup-", ""));
 	    					true_positivo++;
-	    	    			System.out.println(recA +" --- "+ recB);
+	    	    			//System.out.println(recA +" --- "+ recB);
 	    				}
 	    			
 	    			//map.put(key, map.get(key) + 1);

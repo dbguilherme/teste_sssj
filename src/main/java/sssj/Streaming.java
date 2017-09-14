@@ -2,8 +2,14 @@ package sssj;
 
 import static sssj.util.Commons.*;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.HashMap;
 import java.util.Map;
+import java.util.Map.Entry;
 
 import net.sourceforge.argparse4j.ArgumentParsers;
 import net.sourceforge.argparse4j.impl.Arguments;
@@ -13,6 +19,7 @@ import net.sourceforge.argparse4j.inf.Namespace;
 import org.apache.commons.math3.stat.descriptive.moment.Mean;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 
 import sssj.index.Index;
 import sssj.index.IndexStatistics;
@@ -36,7 +43,15 @@ import com.google.common.base.Joiner;
 public class Streaming {
   private static final String ALGO = "Streaming";
   private static final Logger log = LoggerFactory.getLogger(Streaming.class);
-
+  
+  static Map<Integer, String> gabarito; 
+  
+  
+  static  int true_positivo=0;
+  static int false_positivo=0;
+  static int false_negativo=0;
+  
+  
   public static void main(String[] args) throws Exception {
     ArgumentParser parser = ArgumentParsers.newArgumentParser(ALGO).description("SSSJ in " + ALGO + " mode.")
         .defaultHelp(true);
@@ -53,6 +68,14 @@ public class Streaming {
         .help("input format");
     parser.addArgument("input").metavar("file")
         .type(Arguments.fileType().verifyExists().verifyIsFile().verifyCanRead()).help("input file");
+    args[0]="data/dirty_1000_100_SVM";
+//  args[1]="-t 0.43 ";
+  args[2]="0.2";
+//  args[3]="-i   INV ";
+  args[4]="0.001";
+  args[6]="L2AP";
+    
+    
     Namespace opts = parser.parseArgsOrFail(args);
 
     final double theta = opts.get("theta");
@@ -65,6 +88,7 @@ public class Streaming {
     final long numVectors = stream.numVectors();
     final ProgressTracker tracker = new ProgressTracker(numVectors, reportPeriod);
 
+    gabarito= load_gabarito(opts.get("input"));
     final String header = String.format(ALGO + " [d=%s, t=%f, l=%f, i=%s]", file.getName(), theta, lambda,
         idxType.toString());
     System.out.println(header);
@@ -79,6 +103,40 @@ public class Streaming {
         idxType.toString(), elapsed));
   }
 
+  public static Map<Integer, String> load_gabarito(File file){
+	  Map<Integer, String> gab = new HashMap<Integer, String>();
+	  
+	  BufferedReader br;
+	try {
+		br = new BufferedReader(new FileReader(file.getParentFile()+"/"+file.getName().replace("_SVM", "")));
+	
+	  
+	      StringBuilder sb = new StringBuilder();
+	      String line = br.readLine();
+	      int num=0;
+	      while (line != null) {
+	    	  gab.put(num, line.split(",")[0]);
+	          
+	          line = br.readLine();
+	          
+	          num++;
+	      }
+	      
+//	      for (Entry<Integer, String> entry : gab.entrySet())
+//	      {
+//	          System.out.println(entry.getKey() + "/" + entry.getValue());
+//	      }
+	  }  catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	 return gab; 
+	  
+  }
+  
   public static IndexStatistics compute(Iterable<Vector> stream, double theta, double lambda, IndexType type,
       ProgressTracker tracker) {
     Index index = null;
@@ -105,9 +163,28 @@ public class Streaming {
       Map<Long, Double> results = index.queryWith(v, true);
       IndexStatistics stats = index.stats();
       avgSize.increment(stats.size());
+     // if (!results.isEmpty())
+     //   System.out.println(v.timestamp() + " ~ " + formatMap(results));
       if (!results.isEmpty())
-        System.out.println(v.timestamp() + " ~ " + formatMap(results));
+    	  valida_res((v.timestamp()), results);
+ 
     }
+    
+
+    for (Entry<Integer, String> entry : gabarito.entrySet()){
+    	if(entry.getValue().contains("dup")){
+    		System.out.println(entry.getValue());
+    		false_negativo++;
+    	}
+    	
+    }
+    Double p=(true_positivo/(double)(true_positivo+false_positivo));
+    Double r=(true_positivo/(double)(true_positivo+false_negativo));
+    System.out.println("\n\nprecisão " + p);
+    System.out.println("Recall " + r);
+    System.out.println("positivos " + true_positivo + "  fase " + false_positivo +" false negative " + false_negativo);
+    System.out.println("F1 " + (2*p*r)/(p+r));
+    
     final StringBuilder sb = new StringBuilder();
     sb.append("Index Statistics:\n");
     sb.append(String.format("Average index size           = %.3f\n", avgSize.getResult()));
@@ -117,5 +194,53 @@ public class Streaming {
     sb.append(String.format("Total number of matches      = %d", index.stats().numMatches()));
     log.info(sb.toString());
     return index.stats();
+  }
+  
+  
+  private static void valida_res(long l, Map<Long, Double> res){
+	  for (Entry<Long, Double> row : res.entrySet()) {
+	    	//System.out.println(row.getKey() + " ~ " + formatMap(row.getValue()));
+	    	Double values = row.getValue();
+	    	String recB=gabarito.get(row.getKey().intValue());
+	    	String recA=gabarito.get((int)l);
+	    	//for (Entry<Long, Double> entry : values.entrySet()){
+	    		
+	    		if(recB==null){
+	    			//System.out.println("erro validação gabarito--->"+entry.getKey());
+	    			continue;
+	    		}
+	    		if(!recA.contains("-"))
+	    			continue;
+	    		if(!recB.contains("-"))
+	    			continue;
+	    		String idA = recA.split("-")[1];
+	    		String idB = recB.split("-")[1];
+	    		if(recA.contains("org") && recB.contains("org")){
+	    			false_positivo++;
+	    			continue;
+	    		}
+	    			
+	    		if(idA.equals(idB) && (recA.contains("dup") || recB.contains("dup"))){
+	    			
+	    			if(recA.contains("dup") && recB.contains("org")){
+	    				gabarito.put((int) (long)l,recA.replace("dup", ""));
+	    				true_positivo++;
+		    			//System.out.println(recA +" --- "+ recB);
+	    			}else
+	    				if(recA.contains("org")){
+	    					gabarito.put(row.getKey().intValue(),recB.replace("dup-", ""));
+	    					true_positivo++;
+	    	    			//System.out.println(recA +" --- "+ recB);
+	    				}
+	    			
+	    			//map.put(key, map.get(key) + 1);
+	    			
+	    		}
+	    		else
+	    			
+	    				false_positivo++;
+	    				
+	    	}
+	    
   }
 }
