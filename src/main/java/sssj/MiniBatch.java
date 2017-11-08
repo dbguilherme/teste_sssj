@@ -78,11 +78,11 @@ public class MiniBatch {
         .help("input format");
     parser.addArgument("input").metavar("file")
         .type(Arguments.fileType().verifyExists().verifyIsFile().verifyCanRead()).help("input file");
-    args[0]="data/clean_1000_100_SVM";
+//    args[0]="data/clean_1000_100_SVM";
 //    args[1]="-t 0.43 ";
-    args[2]="0.4";
+///    args[2]="0.4";
 //    args[3]="-i   INV ";
-    args[4]="0.0001";
+ //   args[4]="0.0001";
     
     Namespace opts = parser.parseArgsOrFail(args);
 
@@ -99,16 +99,22 @@ public class MiniBatch {
     gabarito= load_gabarito(opts.get("input"));
     final String header = String.format(ALGO + " [d=%s, t=%f, l=%f, i=%s]", file.getName(), theta, lambda,
         idxType.toString());
-    System.out.println(header);
+   // System.out.println(header);
     log.info(header);
     final long start = System.currentTimeMillis();
     final IndexStatistics stats = compute(stream, theta, lambda, idxType, tracker);
     final long elapsed = System.currentTimeMillis() - start;
     final String csvLine = Joiner.on(",").join(ALGO, file.getName(), theta, lambda, idxType.toString(), elapsed,
         stats.numPostingEntries(), stats.numCandidates(), stats.numSimilarities(), stats.numMatches());
-    System.out.println(csvLine);
+   // System.out.println(csvLine);
     log.info(String.format(ALGO + " [d=%s, t=%f, l=%f, i=%s, time=%d]", file.getName(), theta, lambda,
         idxType.toString(), elapsed));
+    Double p=(true_positivo/(double)(true_positivo+false_positivo));
+    Double r=(true_positivo/(double)(true_positivo+false_negativo));
+    System.out.println("\n\nprecisão " + p);
+    System.out.println("Recall " + r);
+    System.out.println("positivos " + true_positivo + "  fase " + false_positivo +" false negative " + false_negativo);
+    System.out.println("F1 " + (2*p*r)/(p+r));
   }
 
   public static Map<Integer, String> load_gabarito(File file){
@@ -263,17 +269,12 @@ public class MiniBatch {
   
     for (Entry<Integer, String> entry : gabarito.entrySet()){
     	if(entry.getValue().contains("dup")){
-    		System.out.println(entry.getValue());
+    		//System.out.println(entry.getValue());
     		false_negativo++;
     	}
     	
     }
-    Double p=(true_positivo/(double)(true_positivo+false_positivo));
-    Double r=(true_positivo/(double)(true_positivo+false_negativo));
-    System.out.println("\n\nprecisão " + p);
-    System.out.println("Recall " + r);
-    System.out.println("positivos " + true_positivo + "  fase " + false_positivo +" false negative " + false_negativo);
-    System.out.println("F1 " + (2*p*r)/(p+r));
+   
     return index.stats();
   }
  

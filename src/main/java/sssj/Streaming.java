@@ -68,12 +68,16 @@ public class Streaming {
         .help("input format");
     parser.addArgument("input").metavar("file")
         .type(Arguments.fileType().verifyExists().verifyIsFile().verifyCanRead()).help("input file");
-    args[0]="data/dirty_1000_100_SVM";
-//  args[1]="-t 0.43 ";
-  args[2]="0.2";
+    for (int i = 0; i < args.length; i++) {
+    	System.out.println(args[i]);
+	}
+    
+//    args[0]="data/dirty_1000_100_SVM";
+  args[1]="0.3";
+  //args[2]="0.2";
 //  args[3]="-i   INV ";
-  args[4]="0.001";
-  args[6]="L2AP";
+  args[3]="0.001";
+  args[7]="data/acm_SVM";
     
     
     Namespace opts = parser.parseArgsOrFail(args);
@@ -116,7 +120,7 @@ public class Streaming {
 	      int num=0;
 	      while (line != null) {
 	    	  gab.put(num, line.split(",")[0]);
-	          
+	          System.out.println(num + "  "+ line.split(",")[0]);
 	          line = br.readLine();
 	          
 	          num++;
@@ -173,7 +177,7 @@ public class Streaming {
 
     for (Entry<Integer, String> entry : gabarito.entrySet()){
     	if(entry.getValue().contains("dup")){
-    		System.out.println(entry.getValue());
+    		//System.out.println(entry.getValue());
     		false_negativo++;
     	}
     	
@@ -199,7 +203,7 @@ public class Streaming {
   
   private static void valida_res(long l, Map<Long, Double> res){
 	  for (Entry<Long, Double> row : res.entrySet()) {
-	    	//System.out.println(row.getKey() + " ~ " + formatMap(row.getValue()));
+	    	System.out.println(row.getKey().intValue() + " ~ " + (l));
 	    	Double values = row.getValue();
 	    	String recB=gabarito.get(row.getKey().intValue());
 	    	String recA=gabarito.get((int)l);

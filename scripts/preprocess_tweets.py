@@ -13,10 +13,13 @@ from sklearn.feature_extraction.text import HashingVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 
 def clean_text(text):
-  str= text.split(",",1);
+  str= text.split(";",1);
   #print(str[1]);
+  if (len(str)<1):
+      return
+  #print(str)    
   words = str[1] # remove weird characters
- 
+  
   
 #  words = BeautifulSoup(words.lower()).get_text() # remove HTML
   words = re.sub("[^a-z^0-9]", " ", words)  # keep letters only
@@ -60,6 +63,9 @@ ts=0
 for file in sys.argv[1:]:
   gfile = open(file)
   for line in gfile:
+    if not line:
+        continue;
+    
     if line.startswith('T'):
       # process date
       datestring = line.lstrip('T\t')
