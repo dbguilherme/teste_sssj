@@ -44,7 +44,7 @@ public class Streaming {
   private static final String ALGO = "Streaming";
   private static final Logger log = LoggerFactory.getLogger(Streaming.class);
   
-  static Map<Integer, String> gabarito; 
+  static Map<Integer, Integer> gabarito; 
   
   
   static  int true_positivo=0;
@@ -73,11 +73,11 @@ public class Streaming {
 	}
     
 //    args[0]="data/dirty_1000_100_SVM";
-  args[1]="0.3";
+  args[1]="0.8";
   //args[2]="0.2";
 //  args[3]="-i   INV ";
-  args[3]="0.001";
-  args[7]="data/acm_SVM";
+  args[3]="0.01";
+  args[8]="data/acm_SVM";
     
     
     Namespace opts = parser.parseArgsOrFail(args);
@@ -107,8 +107,8 @@ public class Streaming {
         idxType.toString(), elapsed));
   }
 
-  public static Map<Integer, String> load_gabarito(File file){
-	  Map<Integer, String> gab = new HashMap<Integer, String>();
+  public static Map<Integer, Integer> load_gabarito(File file){
+	  Map<Integer, Integer> gab = new HashMap<Integer, Integer>();
 	  
 	  BufferedReader br;
 	try {
@@ -119,17 +119,13 @@ public class Streaming {
 	      String line = br.readLine();
 	      int num=0;
 	      while (line != null) {
-	    	  gab.put(num, line.split(",")[0]);
-	          System.out.println(num + "  "+ line.split(",")[0]);
+	    	  gab.put(Integer.parseInt(line.split(";")[0]), Integer.parseInt(line.split(";")[1]));
+	          //System.out.println(num + "  "+ line.split(",")[0]);
 	          line = br.readLine();
 	          
 	          num++;
 	      }
-	      
-//	      for (Entry<Integer, String> entry : gab.entrySet())
-//	      {
-//	          System.out.println(entry.getKey() + "/" + entry.getValue());
-//	      }
+	
 	  }  catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -175,11 +171,11 @@ public class Streaming {
     }
     
 
-    for (Entry<Integer, String> entry : gabarito.entrySet()){
-    	if(entry.getValue().contains("dup")){
-    		//System.out.println(entry.getValue());
-    		false_negativo++;
-    	}
+    for (Entry<Integer, Integer> entry : gabarito.entrySet()){
+//    	if(entry.getValue().contains("dup")){
+//    		//System.out.println(entry.getValue());
+//    		false_negativo++;
+//    	}
     	
     }
     Double p=(true_positivo/(double)(true_positivo+false_positivo));
@@ -204,46 +200,54 @@ public class Streaming {
   private static void valida_res(long l, Map<Long, Double> res){
 	  for (Entry<Long, Double> row : res.entrySet()) {
 	    	System.out.println(row.getKey().intValue() + " ~ " + (l));
-	    	Double values = row.getValue();
-	    	String recB=gabarito.get(row.getKey().intValue());
-	    	String recA=gabarito.get((int)l);
+	    	//Double values = row.getValue();
+	    	Integer recB=gabarito.get(row.getKey().intValue());
+	    	Integer recA=gabarito.get((int)l);
 	    	//for (Entry<Long, Double> entry : values.entrySet()){
-	    		
-	    		if(recB==null){
-	    			//System.out.println("erro validação gabarito--->"+entry.getKey());
-	    			continue;
-	    		}
-	    		if(!recA.contains("-"))
-	    			continue;
-	    		if(!recB.contains("-"))
-	    			continue;
-	    		String idA = recA.split("-")[1];
-	    		String idB = recB.split("-")[1];
-	    		if(recA.contains("org") && recB.contains("org")){
-	    			false_positivo++;
-	    			continue;
-	    		}
+	    	//System.out.println(recA +"  "+ recB);
+	    	if(recA!=null && recA== row.getKey().intValue()){
+	    		System.out.println("achouuuu " );
+	    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
+	    	}
+	    	if(recB!=null && recB== row.getKey().intValue()){
+	    		System.out.println("achouuuu " );
+	    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
+	    	}
+//	    		if(recB==null){
+//	    			//System.out.println("erro validação gabarito--->"+entry.getKey());
+//	    			continue;
+//	    		}
+//	    		if(!recA.contains("-"))
+//	    			continue;
+//	    		if(!recB.contains("-"))
+//	    			continue;
+//	    		String idA = recA.split("-")[1];
+//	    		String idB = recB.split("-")[1];
+//	    		if(recA.contains("org") && recB.contains("org")){
+//	    			false_positivo++;
+//	    			continue;
+//	    		}
 	    			
-	    		if(idA.equals(idB) && (recA.contains("dup") || recB.contains("dup"))){
-	    			
-	    			if(recA.contains("dup") && recB.contains("org")){
-	    				gabarito.put((int) (long)l,recA.replace("dup", ""));
-	    				true_positivo++;
-		    			//System.out.println(recA +" --- "+ recB);
-	    			}else
-	    				if(recA.contains("org")){
-	    					gabarito.put(row.getKey().intValue(),recB.replace("dup-", ""));
-	    					true_positivo++;
-	    	    			//System.out.println(recA +" --- "+ recB);
-	    				}
-	    			
-	    			//map.put(key, map.get(key) + 1);
-	    			
-	    		}
-	    		else
-	    			
-	    				false_positivo++;
-	    				
+//	    		if(idA.equals(idB) && (recA.contains("dup") || recB.contains("dup"))){
+//	    			
+//	    			if(recA.contains("dup") && recB.contains("org")){
+//	    				gabarito.put((int) (long)l,recA.replace("dup", ""));
+//	    				true_positivo++;
+//		    			//System.out.println(recA +" --- "+ recB);
+//	    			}else
+//	    				if(recA.contains("org")){
+//	    					gabarito.put(row.getKey().intValue(),recB.replace("dup-", ""));
+//	    					true_positivo++;
+//	    	    			//System.out.println(recA +" --- "+ recB);
+//	    				}
+//	    			
+//	    			//map.put(key, map.get(key) + 1);
+//	    			
+//	    		}
+//	    		else
+//	    			
+//	    				false_positivo++;
+//	    				
 	    	}
 	    
   }
