@@ -4,9 +4,9 @@ cliopts="$@"	# optional parameters
 max_procs=1	# parallelism
 timeout=1080	# timeout in seconds
 
-DATA="/tmp/out"
-THETA="0.5 0.6 0.7 0.8 0.9 0.99"
-LAMBDA="0.1 0.01 0.001 0.000001" #0.00001"
+DATA="../data/base_scholar/acm_SVM"
+THETA="0.5"
+LAMBDA="0.1 " #0.00001"
 
 
 #INDEX="INV ALLPAIRS L2AP L2"

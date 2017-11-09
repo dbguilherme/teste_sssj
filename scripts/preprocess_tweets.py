@@ -25,7 +25,7 @@ def clean_text(text):
   words = re.sub("[^a-z^0-9]", " ", words)  # keep letters only
   words = words.split() # tokenization
   words = [w for w in words if not w in stops] # remove stopwords
-  print(words)
+  #print(words)
   return( " ".join(words)) # return single string
 
 #def output_batch(corpus, timestamps, tscounts, vectorizer):
@@ -73,7 +73,7 @@ def output_batch(corpus, timestamps, tscounts, vectorizer):
 tscounts = Counter()
 stops = set(stopwords.words("english"))
 # feature extraction
-vectorizer = TfidfVectorizer(analyzer="word", max_features=10000, min_df=1)
+vectorizer = TfidfVectorizer(analyzer="word", max_features=100000, min_df=1)
 #vectorizer = HashingVectorizer(analyzer="word", non_negative=True, norm="l2")
 #vectorizer = HashingVectorizer(analyzer="word", non_negative=True, norm="l2") # n_features=2**20
 

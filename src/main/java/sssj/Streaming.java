@@ -72,12 +72,12 @@ public class Streaming {
     	System.out.println(args[i]);
 	}
     
-//    args[0]="data/dirty_1000_100_SVM";
-  args[1]="0.7";
-  //args[2]="0.2";
-//  args[3]="-i   INV ";
-  args[3]="0.01";
-  args[8]="data/scholar_SVM";
+  //  args[0]="data/dirty_1000_100_SVM";
+//  args[1]="0.5";
+//  //args[2]="0.2";
+//  args[3]="L2";
+//  args[3]="0.0000001";
+//  args[8]="data/base_scholar/acm_SVM";
     
     
     Namespace opts = parser.parseArgsOrFail(args);
@@ -98,7 +98,13 @@ public class Streaming {
     System.out.println(header);
     log.info(header);
     final long start = System.currentTimeMillis();
+    
+    
     final IndexStatistics stats = compute(stream, theta, lambda, idxType, tracker);
+    
+    
+    
+    
     final long elapsed = System.currentTimeMillis() - start;
     final String csvLine = Joiner.on(",").join(ALGO, file.getName(), theta, lambda, idxType.toString(), elapsed,
         stats.numPostingEntries(), stats.numCandidates(), stats.numSimilarities(), stats.numMatches());
@@ -177,17 +183,17 @@ public class Streaming {
     
 
     for (Entry<Integer, Integer> entry : gabarito.entrySet()){
-//    	if(entry.getValue().contains("dup")){
-//    		//System.out.println(entry.getValue());
-//    		false_negativo++;
-//    	}
+    	//if(entry.getValue().contains("dup")){
+    		//System.out.println(entry.getValue());
+    		false_negativo++;
+    	//}
     	
     }
     Double p=(true_positivo/(double)(true_positivo+false_positivo));
     Double r=(true_positivo/(double)(true_positivo+false_negativo));
     System.out.println("\n\nprecisão " + p);
     System.out.println("Recall " + r);
-    System.out.println("positivos " + true_positivo + "  fase " + false_positivo +" false negative " + false_negativo);
+    System.out.println("positivos " + true_positivo + "  falso positivos " + false_positivo +" false negative " + false_negativo);
     System.out.println("F1 " + (2*p*r)/(p+r));
     
     final StringBuilder sb = new StringBuilder();
@@ -204,26 +210,30 @@ public class Streaming {
   
   private static void valida_res(long l, Map<Long, Double> res){
 	  for (Entry<Long, Double> row : res.entrySet()) {
-	    	System.out.println(row.getKey().intValue() + " xxx " + (l));
+	    	//System.out.println(row.getKey().intValue() + " xxx " + (l));
 	    	//Double values = row.getValue();
-	    	System.out.println("ow.getKey() " + row.getKey());
+	    	//System.out.println("ow.getKey() " + row.getKey());
 	    	Integer rec;
+	    	//System.out.println("key value" +row.getKey().intValue() + " ~ " + (l) + " " +row.getValue() );
 	    	if(l>row.getKey().intValue()){
 	    		rec=gabarito.get((int)l);
 	    		if(rec!=null && rec== row.getKey().intValue()){
-		    		System.out.println("achouuuu " );
-		    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
+		    		//System.out.println("achouuuu " );
+		    		
 		    		true_positivo++;
-		    	}else if(rec!=null)
-	    		
+		    		gabarito.remove((int)l);
+		    	}else
+		    		false_positivo++;		    		
 	    	}
 	    	else{
-	    		rec=gabarito.get(row.getKey().intValue());
-	    		
+	    		rec=gabarito.get(row.getKey().intValue());	    		
 	    		if(rec!=null && rec== l){
-		    		System.out.println("achouuuu " );
-		    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
-		    	}
+		    		//System.out.println("achouuuu " );
+		    		//System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
+		    		gabarito.remove(row.getKey().intValue());
+		    		true_positivo++;
+		    	}else
+		    		false_positivo++;
 	    	}
 	    	//Integer recB=gabarito.get(row.getKey().intValue());
 	    	//Integer recA=gabarito.get((int)l);
