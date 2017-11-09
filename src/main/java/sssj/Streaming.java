@@ -73,7 +73,7 @@ public class Streaming {
 	}
     
 //    args[0]="data/dirty_1000_100_SVM";
-  args[1]="0.8";
+  args[1]="0.95";
   //args[2]="0.2";
 //  args[3]="-i   INV ";
   args[3]="0.01";

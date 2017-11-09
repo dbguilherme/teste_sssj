@@ -6,7 +6,7 @@ public interface Timeline {
   long nextTimestamp();
 
   public static class Sequential implements Timeline {
-    private long current = 0;
+    private long current = 1;
 
     @Override
     public long nextTimestamp() {
