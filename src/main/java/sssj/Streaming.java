@@ -213,7 +213,9 @@ public class Streaming {
 	    		if(rec!=null && rec== row.getKey().intValue()){
 		    		System.out.println("achouuuu " );
 		    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
-		    	}
+		    		true_positivo++;
+		    	}else if(rec!=null)
+	    		
 	    	}
 	    	else{
 	    		rec=gabarito.get(row.getKey().intValue());
@@ -262,7 +264,7 @@ public class Streaming {
 //	    			
 //	    			//map.put(key, map.get(key) + 1);
 //	    			
-//	    		}
+//	    		} 
 //	    		else
 //	    			
 //	    				false_positivo++;
