@@ -73,11 +73,11 @@ public class Streaming {
 	}
     
 //    args[0]="data/dirty_1000_100_SVM";
-  args[1]="0.95";
+  args[1]="0.7";
   //args[2]="0.2";
 //  args[3]="-i   INV ";
   args[3]="0.01";
-  args[8]="data/acm_SVM";
+  args[8]="data/scholar_SVM";
     
     
     Namespace opts = parser.parseArgsOrFail(args);
@@ -201,6 +201,7 @@ public class Streaming {
 	  for (Entry<Long, Double> row : res.entrySet()) {
 	    	System.out.println(row.getKey().intValue() + " ~ " + (l));
 	    	//Double values = row.getValue();
+	    	System.out.println("ow.getKey() " + row.getKey());
 	    	Integer recB=gabarito.get(row.getKey().intValue());
 	    	Integer recA=gabarito.get((int)l);
 	    	//for (Entry<Long, Double> entry : values.entrySet()){

@@ -104,8 +104,8 @@ public class StreamingL2Index extends AbstractIndex {
       }
     }
   }catch(Exception e){
-	  e.printStackTrace();
-	  System.out.println(v.size());
+	  //e.printStackTrace();
+	  //System.out.println(v.timestamp());
 	  
   }
     numCandidates += accumulator.size();
