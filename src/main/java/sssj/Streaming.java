@@ -119,7 +119,12 @@ public class Streaming {
 	      String line = br.readLine();
 	      int num=0;
 	      while (line != null) {
-	    	  gab.put(Integer.parseInt(line.split(";")[0]), Integer.parseInt(line.split(";")[1]));
+	    	  int a=Integer.parseInt(line.split(";")[0]);
+	    	  int b = Integer.parseInt(line.split(";")[1]);
+	    	  if(a>b)
+	    		  gab.put(a,b);
+	    	  else
+	    		  gab.put(b,a);
 	          //System.out.println(num + "  "+ line.split(",")[0]);
 	          line = br.readLine();
 	          
@@ -199,21 +204,34 @@ public class Streaming {
   
   private static void valida_res(long l, Map<Long, Double> res){
 	  for (Entry<Long, Double> row : res.entrySet()) {
-	    	System.out.println(row.getKey().intValue() + " ~ " + (l));
+	    	System.out.println(row.getKey().intValue() + " xxx " + (l));
 	    	//Double values = row.getValue();
 	    	System.out.println("ow.getKey() " + row.getKey());
-	    	Integer recB=gabarito.get(row.getKey().intValue());
-	    	Integer recA=gabarito.get((int)l);
+	    	Integer rec;
+	    	if(l>row.getKey().intValue()){
+	    		rec=gabarito.get((int)l);
+	    		if(rec!=null && rec== row.getKey().intValue()){
+		    		System.out.println("achouuuu " );
+		    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
+		    	}
+	    	}
+	    	else{
+	    		rec=gabarito.get(row.getKey().intValue());
+	    		
+	    		if(rec!=null && rec== l){
+		    		System.out.println("achouuuu " );
+		    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
+		    	}
+	    	}
+	    	//Integer recB=gabarito.get(row.getKey().intValue());
+	    	//Integer recA=gabarito.get((int)l);
 	    	//for (Entry<Long, Double> entry : values.entrySet()){
 	    	//System.out.println(recA +"  "+ recB);
-	    	if(recA!=null && recA== row.getKey().intValue()){
-	    		System.out.println("achouuuu " );
-	    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
-	    	}
-	    	if(recB!=null && recB== row.getKey().intValue()){
-	    		System.out.println("achouuuu " );
-	    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
-	    	}
+	    	
+//	    	if(recB!=null && recB== row.getKey().intValue()){
+//	    		System.out.println("achouuuu " );
+//	    		System.out.println("key value" +row.getKey().intValue() + " ~ " + (l));
+//	    	}
 //	    		if(recB==null){
 //	    			//System.out.println("erro validação gabarito--->"+entry.getKey());
 //	    			continue;
